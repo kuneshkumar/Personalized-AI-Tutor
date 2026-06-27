@@ -3,6 +3,8 @@
 import pandas as pd 
 import random 
 import os
+import json
+
 
 #using seed to get same random number everytime dataset is created - SAME DATASET
 random.seed(42)
@@ -232,3 +234,24 @@ print("\n First 5 rows (preview):")
 print(df.head())
 
 print("\nFile saved to: data/student_data.csv")
+
+
+
+
+# ---SAVE MAPPING FILE---
+
+#This JSON file stores all possible values. for droptown menu on app UI
+
+mapping = {
+    'skill_levels': skill_levels,
+    'interests': interests,
+    'time_options': time_options,
+    'goals': goals,
+    'difficulty_levels': difficulty_levels,
+    'resource_types': resource_types
+}
+
+with open('data/mapping.json','w') as f:
+    json.dump(mapping, f)
+    
+print("Mapping file saved to: data/mapping.json")
