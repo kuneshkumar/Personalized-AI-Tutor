@@ -1,0 +1,2001 @@
+student_id,skill_level,interest,time_available,past_performance,goal,recommended_topic,difficulty_level,resource_type
+1,Advanced,Python,1-2 hours,97,Academic,Optimization,Medium,Article
+2,Beginner,Web Development,2-4 hours,97,Career,Responsive Design,Hard,Video
+3,Advanced,Mobile Development,1-2 hours,87,Certifications,Native Modules,Hard,Article
+4,Beginner,Python,1-2 hours,63,Hobby,Python Basic,Easy,Article
+5,Advanced,Mobile Development,1-2 hours,85,Hobby,Native Modules,Easy,Article
+6,Advanced,Mobile Development,6+ hours,64,Certifications,Cross-platform Architecture,Easy,Book
+7,Advanced,Data Science,1-2 hours,98,Hobby,Advanced Visualization,Easy,Article
+8,Advanced,Machine Learning,4-6 hours,67,Hobby,Neural Networks,Easy,Interactive
+9,Beginner,Data Science,1-2 hours,55,Certifications,Statistics Basics,Easy,Article
+10,Beginner,Data Science,4-6 hours,88,Academic,Data Visualization,Medium,Interactive
+11,Beginner,Machine Learning,1-2 hours,74,Career,Math for ML,Easy,Article
+12,Advanced,Data Science,4-6 hours,86,Hobby,Advanced Visualization,Easy,Interactive
+13,Advanced,Python,1-2 hours,92,Hobby,Optimization,Easy,Article
+14,Intermediate,Python,2-4 hours,56,Certifications,Data Structures,Easy,Video
+15,Intermediate,Machine Learning,4-6 hours,60,Academic,Scikit-learn,Easy,Interactive
+16,Intermediate,Web Development,4-6 hours,94,Career,APIs & Backend,Hard,Interactive
+17,Advanced,Web Development,2-4 hours,60,Certifications,Full Stack Architecture,Easy,Video
+18,Intermediate,Data Science,2-4 hours,93,Academic,SQL for Data,Medium,Video
+19,Beginner,Web Development,1-2 hours,70,Certifications,JavaScript Basics,Easy,Article
+20,Intermediate,Python,2-4 hours,86,Academic,Web Scraping,Medium,Video
+21,Beginner,Machine Learning,6+ hours,91,Certifications,ML Fundamentals,Easy,Book
+22,Beginner,Data Science,2-4 hours,65,Academic,Statistics Basics,Easy,Video
+23,Advanced,Mobile Development,6+ hours,87,Certifications,Native Modules,Hard,Book
+24,Intermediate,Web Development,2-4 hours,82,Certifications,Node.js,Medium,Video
+25,Beginner,Python,1-2 hours,59,Hobby,Python Basic,Easy,Article
+26,Advanced,Machine Learning,1-2 hours,74,Certifications,Reinforcement Learning,Hard,Article
+27,Advanced,Machine Learning,4-6 hours,85,Career,Model Deployment,Hard,Interactive
+28,Advanced,Python,4-6 hours,99,Academic,Optimization,Medium,Interactive
+29,Beginner,Data Science,6+ hours,60,Certifications,Statistics Basics,Easy,Book
+30,Beginner,Data Science,2-4 hours,82,Career,Python for Data,Hard,Video
+31,Advanced,Data Science,2-4 hours,59,Academic,Deep Learning,Easy,Video
+32,Beginner,Mobile Development,1-2 hours,88,Academic,UI/UX,Medium,Article
+33,Intermediate,Python,1-2 hours,73,Academic,Libraries (Pandas/NumPy),Medium,Article
+34,Beginner,Python,2-4 hours,86,Career,Functions and Modules,Hard,Video
+35,Beginner,Machine Learning,1-2 hours,98,Hobby,ML Fundamentals,Easy,Article
+36,Beginner,Machine Learning,2-4 hours,66,Certifications,Python for ML,Easy,Video
+37,Beginner,Mobile Development,2-4 hours,95,Academic,UI/UX,Medium,Video
+38,Intermediate,Data Science,6+ hours,83,Certifications,ML Basics,Medium,Book
+39,Beginner,Web Development,2-4 hours,54,Academic,HTML/CSS Basics,Easy,Video
+40,Beginner,Mobile Development,2-4 hours,87,Hobby,UI/UX,Easy,Video
+41,Beginner,Python,1-2 hours,64,Career,Python Basic,Easy,Article
+42,Beginner,Data Science,1-2 hours,82,Hobby,Python for Data,Easy,Article
+43,Intermediate,Machine Learning,2-4 hours,84,Hobby,Feature Engineering,Easy,Video
+44,Advanced,Mobile Development,6+ hours,65,Certifications,Cross-platform Architecture,Easy,Book
+45,Intermediate,Web Development,1-2 hours,56,Certifications,React.js,Easy,Article
+46,Intermediate,Machine Learning,6+ hours,79,Career,Feature Engineering,Medium,Book
+47,Advanced,Python,1-2 hours,75,Academic,System Design,Medium,Article
+48,Beginner,Web Development,2-4 hours,62,Certifications,HTML/CSS Basics,Easy,Video
+49,Beginner,Machine Learning,2-4 hours,67,Certifications,Python for ML,Easy,Video
+50,Beginner,Python,6+ hours,85,Career,Functions and Modules,Hard,Book
+51,Beginner,Mobile Development,1-2 hours,55,Hobby,App Design Basics,Easy,Article
+52,Beginner,Machine Learning,6+ hours,80,Hobby,Math for ML,Easy,Book
+53,Intermediate,Python,2-4 hours,74,Career,Libraries (Pandas/NumPy),Medium,Video
+54,Intermediate,Data Science,6+ hours,68,Certifications,Pandas & Data Cleaning,Easy,Book
+55,Advanced,Mobile Development,6+ hours,59,Hobby,Cross-platform Architecture,Easy,Book
+56,Intermediate,Web Development,1-2 hours,87,Career,APIs & Backend,Hard,Article
+57,Advanced,Data Science,1-2 hours,53,Certifications,Deep Learning,Easy,Article
+58,Advanced,Mobile Development,2-4 hours,53,Career,Cross-platform Architecture,Easy,Video
+59,Beginner,Python,1-2 hours,93,Hobby,Functions and Modules,Easy,Article
+60,Intermediate,Python,2-4 hours,87,Career,Web Scraping,Hard,Video
+61,Advanced,Python,6+ hours,92,Academic,Optimization,Medium,Book
+62,Intermediate,Web Development,4-6 hours,65,Academic,React.js,Easy,Interactive
+63,Intermediate,Web Development,4-6 hours,79,Academic,Node.js,Medium,Interactive
+64,Beginner,Python,6+ hours,89,Career,Functions and Modules,Hard,Book
+65,Beginner,Mobile Development,2-4 hours,82,Academic,Programming Fundamentals,Medium,Video
+66,Beginner,Data Science,1-2 hours,65,Academic,Statistics Basics,Easy,Article
+67,Intermediate,Web Development,6+ hours,84,Academic,Node.js,Medium,Book
+68,Advanced,Mobile Development,1-2 hours,92,Academic,Native Modules,Medium,Article
+69,Advanced,Python,2-4 hours,66,Career,Decorators & Generators,Easy,Video
+70,Beginner,Mobile Development,2-4 hours,67,Academic,App Design Basics,Easy,Video
+71,Advanced,Web Development,4-6 hours,63,Academic,Full Stack Architecture,Easy,Interactive
+72,Advanced,Machine Learning,4-6 hours,53,Career,Neural Networks,Easy,Interactive
+73,Advanced,Machine Learning,4-6 hours,52,Career,Neural Networks,Easy,Interactive
+74,Intermediate,Web Development,4-6 hours,60,Certifications,React.js,Easy,Interactive
+75,Advanced,Machine Learning,1-2 hours,57,Career,Neural Networks,Easy,Article
+76,Advanced,Web Development,1-2 hours,73,Hobby,Microservices,Easy,Article
+77,Intermediate,Web Development,1-2 hours,69,Academic,React.js,Easy,Article
+78,Beginner,Data Science,2-4 hours,93,Hobby,Data Visualization,Easy,Video
+79,Advanced,Python,4-6 hours,99,Certifications,Optimization,Hard,Interactive
+80,Advanced,Web Development,2-4 hours,60,Hobby,Full Stack Architecture,Easy,Video
+81,Intermediate,Python,2-4 hours,97,Academic,Web Scraping,Medium,Video
+82,Intermediate,Web Development,4-6 hours,60,Career,React.js,Easy,Interactive
+83,Intermediate,Python,6+ hours,64,Hobby,Data Structures,Easy,Book
+84,Intermediate,Data Science,4-6 hours,100,Hobby,SQL for Data,Easy,Interactive
+85,Beginner,Python,2-4 hours,75,Academic,Control Flow,Medium,Video
+86,Intermediate,Python,4-6 hours,72,Certifications,Libraries (Pandas/NumPy),Medium,Interactive
+87,Advanced,Mobile Development,4-6 hours,51,Career,Cross-platform Architecture,Easy,Interactive
+88,Intermediate,Web Development,4-6 hours,52,Career,React.js,Easy,Interactive
+89,Advanced,Machine Learning,4-6 hours,96,Academic,Model Deployment,Medium,Interactive
+90,Intermediate,Mobile Development,1-2 hours,74,Hobby,Flutter/Dart,Easy,Article
+91,Intermediate,Python,6+ hours,50,Hobby,Data Structures,Easy,Book
+92,Intermediate,Machine Learning,1-2 hours,92,Academic,Model Evaluation,Medium,Article
+93,Advanced,Data Science,1-2 hours,96,Academic,Advanced Visualization,Medium,Article
+94,Advanced,Data Science,6+ hours,70,Certifications,Big Data Tools,Hard,Book
+95,Advanced,Data Science,2-4 hours,62,Certifications,Deep Learning,Easy,Video
+96,Advanced,Machine Learning,2-4 hours,89,Academic,Model Deployment,Medium,Video
+97,Intermediate,Mobile Development,1-2 hours,69,Academic,React Native,Easy,Article
+98,Beginner,Machine Learning,4-6 hours,79,Certifications,Math for ML,Easy,Interactive
+99,Intermediate,Web Development,6+ hours,100,Hobby,APIs & Backend,Easy,Book
+100,Advanced,Python,4-6 hours,82,Academic,System Design,Medium,Interactive
+101,Beginner,Web Development,4-6 hours,64,Hobby,HTML/CSS Basics,Easy,Interactive
+102,Beginner,Python,1-2 hours,65,Certifications,Python Basic,Easy,Article
+103,Advanced,Python,6+ hours,76,Hobby,System Design,Easy,Book
+104,Advanced,Machine Learning,6+ hours,75,Hobby,Reinforcement Learning,Easy,Book
+105,Beginner,Python,1-2 hours,99,Certifications,Functions and Modules,Easy,Article
+106,Beginner,Web Development,6+ hours,53,Hobby,HTML/CSS Basics,Easy,Book
+107,Beginner,Machine Learning,2-4 hours,79,Academic,Math for ML,Medium,Video
+108,Intermediate,Mobile Development,6+ hours,85,Certifications,App State Management,Medium,Book
+109,Beginner,Machine Learning,6+ hours,66,Hobby,Python for ML,Easy,Book
+110,Advanced,Data Science,6+ hours,90,Hobby,Advanced Visualization,Easy,Book
+111,Intermediate,Machine Learning,1-2 hours,95,Academic,Model Evaluation,Medium,Article
+112,Beginner,Data Science,4-6 hours,70,Career,Python for Data,Easy,Interactive
+113,Beginner,Web Development,2-4 hours,74,Hobby,JavaScript Basics,Easy,Video
+114,Advanced,Web Development,1-2 hours,76,Certifications,Microservices,Hard,Article
+115,Intermediate,Mobile Development,6+ hours,76,Career,Flutter/Dart,Medium,Book
+116,Beginner,Machine Learning,6+ hours,99,Career,ML Fundamentals,Hard,Book
+117,Advanced,Machine Learning,6+ hours,50,Academic,Neural Networks,Easy,Book
+118,Intermediate,Machine Learning,6+ hours,84,Hobby,Feature Engineering,Easy,Book
+119,Intermediate,Web Development,4-6 hours,77,Certifications,Node.js,Medium,Interactive
+120,Beginner,Machine Learning,4-6 hours,92,Certifications,ML Fundamentals,Easy,Interactive
+121,Advanced,Web Development,6+ hours,58,Career,Full Stack Architecture,Easy,Book
+122,Intermediate,Mobile Development,1-2 hours,55,Certifications,React Native,Easy,Article
+123,Beginner,Machine Learning,2-4 hours,53,Academic,Python for ML,Easy,Video
+124,Intermediate,Data Science,2-4 hours,79,Academic,ML Basics,Medium,Video
+125,Intermediate,Machine Learning,4-6 hours,98,Certifications,Model Evaluation,Medium,Interactive
+126,Intermediate,Python,6+ hours,51,Career,Data Structures,Easy,Book
+127,Intermediate,Web Development,1-2 hours,99,Career,APIs & Backend,Hard,Article
+128,Beginner,Web Development,2-4 hours,51,Hobby,HTML/CSS Basics,Easy,Video
+129,Beginner,Web Development,6+ hours,92,Career,Responsive Design,Hard,Book
+130,Advanced,Web Development,6+ hours,94,Academic,Performance Optimization,Medium,Book
+131,Intermediate,Web Development,1-2 hours,99,Hobby,APIs & Backend,Easy,Article
+132,Intermediate,Python,1-2 hours,69,Certifications,Data Structures,Easy,Article
+133,Intermediate,Web Development,1-2 hours,87,Hobby,APIs & Backend,Easy,Article
+134,Beginner,Data Science,1-2 hours,100,Career,Data Visualization,Hard,Article
+135,Intermediate,Mobile Development,6+ hours,92,Academic,App State Management,Medium,Book
+136,Beginner,Mobile Development,4-6 hours,50,Certifications,App Design Basics,Easy,Interactive
+137,Intermediate,Python,6+ hours,73,Certifications,Libraries (Pandas/NumPy),Medium,Book
+138,Advanced,Web Development,6+ hours,61,Academic,Full Stack Architecture,Easy,Book
+139,Advanced,Mobile Development,6+ hours,79,Certifications,Performance Optimization,Hard,Book
+140,Advanced,Mobile Development,4-6 hours,70,Hobby,Performance Optimization,Easy,Interactive
+141,Beginner,Data Science,6+ hours,65,Certifications,Statistics Basics,Easy,Book
+142,Advanced,Mobile Development,6+ hours,71,Career,Performance Optimization,Hard,Book
+143,Intermediate,Data Science,2-4 hours,81,Hobby,ML Basics,Easy,Video
+144,Intermediate,Data Science,4-6 hours,67,Academic,Pandas & Data Cleaning,Easy,Interactive
+145,Advanced,Python,2-4 hours,55,Hobby,Decorators & Generators,Easy,Video
+146,Advanced,Machine Learning,6+ hours,85,Hobby,Model Deployment,Easy,Book
+147,Advanced,Machine Learning,6+ hours,78,Career,Reinforcement Learning,Hard,Book
+148,Beginner,Data Science,2-4 hours,75,Hobby,Python for Data,Easy,Video
+149,Intermediate,Mobile Development,4-6 hours,80,Academic,Flutter/Dart,Medium,Interactive
+150,Intermediate,Mobile Development,4-6 hours,72,Certifications,Flutter/Dart,Medium,Interactive
+151,Intermediate,Data Science,4-6 hours,64,Career,Pandas & Data Cleaning,Easy,Interactive
+152,Advanced,Web Development,4-6 hours,57,Hobby,Full Stack Architecture,Easy,Interactive
+153,Beginner,Web Development,6+ hours,67,Academic,HTML/CSS Basics,Easy,Book
+154,Beginner,Web Development,4-6 hours,64,Academic,HTML/CSS Basics,Easy,Interactive
+155,Beginner,Data Science,1-2 hours,95,Hobby,Data Visualization,Easy,Article
+156,Intermediate,Python,1-2 hours,85,Academic,Web Scraping,Medium,Article
+157,Advanced,Web Development,6+ hours,56,Career,Full Stack Architecture,Easy,Book
+158,Advanced,Data Science,6+ hours,80,Certifications,Big Data Tools,Hard,Book
+159,Intermediate,Web Development,1-2 hours,66,Certifications,React.js,Easy,Article
+160,Beginner,Python,6+ hours,81,Career,Control Flow,Hard,Book
+161,Advanced,Python,2-4 hours,59,Academic,Decorators & Generators,Easy,Video
+162,Beginner,Web Development,1-2 hours,85,Certifications,Responsive Design,Easy,Article
+163,Advanced,Mobile Development,2-4 hours,99,Certifications,Native Modules,Hard,Video
+164,Intermediate,Machine Learning,4-6 hours,87,Certifications,Model Evaluation,Medium,Interactive
+165,Intermediate,Mobile Development,1-2 hours,89,Career,App State Management,Hard,Article
+166,Beginner,Web Development,4-6 hours,92,Career,Responsive Design,Hard,Interactive
+167,Beginner,Web Development,2-4 hours,85,Career,Responsive Design,Hard,Video
+168,Beginner,Python,6+ hours,78,Certifications,Control Flow,Easy,Book
+169,Intermediate,Python,2-4 hours,68,Academic,Data Structures,Easy,Video
+170,Advanced,Machine Learning,1-2 hours,93,Hobby,Model Deployment,Easy,Article
+171,Intermediate,Mobile Development,2-4 hours,77,Career,Flutter/Dart,Medium,Video
+172,Advanced,Web Development,2-4 hours,67,Hobby,Full Stack Architecture,Easy,Video
+173,Beginner,Python,2-4 hours,100,Academic,Functions and Modules,Medium,Video
+174,Advanced,Mobile Development,4-6 hours,78,Career,Performance Optimization,Hard,Interactive
+175,Intermediate,Data Science,6+ hours,67,Certifications,Pandas & Data Cleaning,Easy,Book
+176,Intermediate,Python,1-2 hours,77,Academic,Libraries (Pandas/NumPy),Medium,Article
+177,Advanced,Data Science,1-2 hours,55,Hobby,Deep Learning,Easy,Article
+178,Advanced,Mobile Development,1-2 hours,98,Academic,Native Modules,Medium,Article
+179,Advanced,Python,2-4 hours,80,Certifications,System Design,Hard,Video
+180,Intermediate,Web Development,6+ hours,90,Certifications,APIs & Backend,Medium,Book
+181,Beginner,Machine Learning,4-6 hours,76,Academic,Math for ML,Medium,Interactive
+182,Intermediate,Python,2-4 hours,71,Certifications,Libraries (Pandas/NumPy),Medium,Video
+183,Advanced,Machine Learning,4-6 hours,92,Certifications,Model Deployment,Hard,Interactive
+184,Advanced,Python,6+ hours,55,Academic,Decorators & Generators,Easy,Book
+185,Intermediate,Data Science,1-2 hours,99,Certifications,SQL for Data,Medium,Article
+186,Advanced,Python,6+ hours,76,Career,System Design,Hard,Book
+187,Beginner,Mobile Development,4-6 hours,89,Certifications,UI/UX,Easy,Interactive
+188,Advanced,Machine Learning,1-2 hours,63,Academic,Neural Networks,Easy,Article
+189,Advanced,Web Development,4-6 hours,78,Certifications,Microservices,Hard,Interactive
+190,Beginner,Python,2-4 hours,95,Hobby,Functions and Modules,Easy,Video
+191,Intermediate,Mobile Development,1-2 hours,85,Certifications,App State Management,Medium,Article
+192,Beginner,Web Development,1-2 hours,79,Career,JavaScript Basics,Easy,Article
+193,Advanced,Web Development,6+ hours,95,Academic,Performance Optimization,Medium,Book
+194,Advanced,Data Science,6+ hours,80,Certifications,Big Data Tools,Hard,Book
+195,Beginner,Machine Learning,2-4 hours,74,Hobby,Math for ML,Easy,Video
+196,Advanced,Mobile Development,2-4 hours,54,Academic,Cross-platform Architecture,Easy,Video
+197,Intermediate,Data Science,4-6 hours,50,Academic,Pandas & Data Cleaning,Easy,Interactive
+198,Advanced,Data Science,6+ hours,59,Certifications,Deep Learning,Easy,Book
+199,Advanced,Machine Learning,4-6 hours,71,Certifications,Reinforcement Learning,Hard,Interactive
+200,Intermediate,Data Science,2-4 hours,94,Hobby,SQL for Data,Easy,Video
+201,Advanced,Machine Learning,2-4 hours,99,Certifications,Model Deployment,Hard,Video
+202,Beginner,Data Science,6+ hours,95,Certifications,Data Visualization,Easy,Book
+203,Intermediate,Web Development,6+ hours,52,Hobby,React.js,Easy,Book
+204,Advanced,Mobile Development,4-6 hours,56,Certifications,Cross-platform Architecture,Easy,Interactive
+205,Beginner,Mobile Development,6+ hours,50,Hobby,App Design Basics,Easy,Book
+206,Intermediate,Web Development,1-2 hours,80,Academic,Node.js,Medium,Article
+207,Intermediate,Mobile Development,6+ hours,91,Career,App State Management,Hard,Book
+208,Intermediate,Mobile Development,6+ hours,70,Certifications,Flutter/Dart,Medium,Book
+209,Advanced,Python,1-2 hours,65,Academic,Decorators & Generators,Easy,Article
+210,Beginner,Python,6+ hours,56,Career,Python Basic,Easy,Book
+211,Intermediate,Web Development,4-6 hours,51,Career,React.js,Easy,Interactive
+212,Intermediate,Python,4-6 hours,72,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+213,Intermediate,Web Development,2-4 hours,83,Certifications,Node.js,Medium,Video
+214,Advanced,Web Development,2-4 hours,61,Career,Full Stack Architecture,Easy,Video
+215,Advanced,Machine Learning,2-4 hours,81,Hobby,Reinforcement Learning,Easy,Video
+216,Beginner,Machine Learning,4-6 hours,79,Academic,Math for ML,Medium,Interactive
+217,Advanced,Python,6+ hours,68,Hobby,Decorators & Generators,Easy,Book
+218,Beginner,Machine Learning,4-6 hours,87,Academic,ML Fundamentals,Medium,Interactive
+219,Advanced,Machine Learning,4-6 hours,79,Academic,Reinforcement Learning,Medium,Interactive
+220,Beginner,Machine Learning,6+ hours,56,Hobby,Python for ML,Easy,Book
+221,Intermediate,Mobile Development,4-6 hours,86,Academic,App State Management,Medium,Interactive
+222,Advanced,Data Science,1-2 hours,92,Certifications,Advanced Visualization,Hard,Article
+223,Intermediate,Python,1-2 hours,88,Certifications,Web Scraping,Medium,Article
+224,Intermediate,Web Development,4-6 hours,64,Hobby,React.js,Easy,Interactive
+225,Advanced,Data Science,2-4 hours,90,Career,Advanced Visualization,Hard,Video
+226,Advanced,Python,4-6 hours,100,Certifications,Optimization,Hard,Interactive
+227,Beginner,Mobile Development,4-6 hours,96,Hobby,UI/UX,Easy,Interactive
+228,Beginner,Data Science,4-6 hours,97,Certifications,Data Visualization,Easy,Interactive
+229,Beginner,Web Development,2-4 hours,100,Academic,Responsive Design,Medium,Video
+230,Advanced,Mobile Development,4-6 hours,60,Academic,Cross-platform Architecture,Easy,Interactive
+231,Intermediate,Data Science,4-6 hours,57,Certifications,Pandas & Data Cleaning,Easy,Interactive
+232,Beginner,Web Development,2-4 hours,93,Certifications,Responsive Design,Easy,Video
+233,Advanced,Data Science,1-2 hours,100,Certifications,Advanced Visualization,Hard,Article
+234,Beginner,Data Science,1-2 hours,79,Academic,Python for Data,Medium,Article
+235,Advanced,Data Science,6+ hours,90,Academic,Advanced Visualization,Medium,Book
+236,Beginner,Web Development,6+ hours,51,Academic,HTML/CSS Basics,Easy,Book
+237,Advanced,Web Development,1-2 hours,90,Certifications,Performance Optimization,Hard,Article
+238,Advanced,Data Science,6+ hours,57,Hobby,Deep Learning,Easy,Book
+239,Beginner,Python,4-6 hours,81,Career,Control Flow,Hard,Interactive
+240,Beginner,Web Development,2-4 hours,74,Certifications,JavaScript Basics,Easy,Video
+241,Intermediate,Mobile Development,6+ hours,87,Hobby,App State Management,Easy,Book
+242,Intermediate,Python,6+ hours,89,Certifications,Web Scraping,Medium,Book
+243,Intermediate,Python,4-6 hours,63,Certifications,Data Structures,Easy,Interactive
+244,Intermediate,Web Development,4-6 hours,56,Academic,React.js,Easy,Interactive
+245,Advanced,Data Science,1-2 hours,75,Academic,Big Data Tools,Medium,Article
+246,Beginner,Python,6+ hours,55,Hobby,Python Basic,Easy,Book
+247,Advanced,Mobile Development,1-2 hours,53,Academic,Cross-platform Architecture,Easy,Article
+248,Beginner,Web Development,2-4 hours,54,Hobby,HTML/CSS Basics,Easy,Video
+249,Advanced,Web Development,2-4 hours,71,Hobby,Microservices,Easy,Video
+250,Advanced,Python,4-6 hours,59,Hobby,Decorators & Generators,Easy,Interactive
+251,Advanced,Data Science,2-4 hours,57,Career,Deep Learning,Easy,Video
+252,Beginner,Python,4-6 hours,100,Hobby,Functions and Modules,Easy,Interactive
+253,Advanced,Data Science,1-2 hours,61,Academic,Deep Learning,Easy,Article
+254,Beginner,Web Development,6+ hours,83,Career,JavaScript Basics,Hard,Book
+255,Advanced,Python,6+ hours,78,Academic,System Design,Medium,Book
+256,Advanced,Mobile Development,1-2 hours,78,Hobby,Performance Optimization,Easy,Article
+257,Advanced,Python,4-6 hours,79,Career,System Design,Hard,Interactive
+258,Beginner,Machine Learning,6+ hours,77,Career,Math for ML,Easy,Book
+259,Intermediate,Machine Learning,1-2 hours,55,Academic,Scikit-learn,Easy,Article
+260,Advanced,Web Development,1-2 hours,58,Academic,Full Stack Architecture,Easy,Article
+261,Advanced,Mobile Development,4-6 hours,74,Academic,Performance Optimization,Medium,Interactive
+262,Intermediate,Mobile Development,6+ hours,56,Career,React Native,Easy,Book
+263,Advanced,Mobile Development,2-4 hours,77,Certifications,Performance Optimization,Hard,Video
+264,Beginner,Machine Learning,4-6 hours,79,Certifications,Math for ML,Easy,Interactive
+265,Intermediate,Python,4-6 hours,77,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+266,Advanced,Data Science,4-6 hours,59,Certifications,Deep Learning,Easy,Interactive
+267,Beginner,Python,1-2 hours,55,Certifications,Python Basic,Easy,Article
+268,Beginner,Data Science,2-4 hours,85,Career,Data Visualization,Hard,Video
+269,Advanced,Mobile Development,4-6 hours,92,Career,Native Modules,Hard,Interactive
+270,Intermediate,Data Science,6+ hours,96,Career,SQL for Data,Hard,Book
+271,Intermediate,Mobile Development,4-6 hours,72,Career,Flutter/Dart,Medium,Interactive
+272,Advanced,Mobile Development,2-4 hours,59,Certifications,Cross-platform Architecture,Easy,Video
+273,Beginner,Python,4-6 hours,85,Academic,Functions and Modules,Medium,Interactive
+274,Beginner,Data Science,2-4 hours,77,Career,Python for Data,Easy,Video
+275,Advanced,Data Science,1-2 hours,61,Academic,Deep Learning,Easy,Article
+276,Advanced,Data Science,4-6 hours,72,Career,Big Data Tools,Hard,Interactive
+277,Beginner,Web Development,6+ hours,54,Hobby,HTML/CSS Basics,Easy,Book
+278,Advanced,Python,1-2 hours,97,Hobby,Optimization,Easy,Article
+279,Intermediate,Machine Learning,6+ hours,71,Hobby,Feature Engineering,Easy,Book
+280,Intermediate,Data Science,4-6 hours,99,Career,SQL for Data,Hard,Interactive
+281,Beginner,Web Development,2-4 hours,98,Career,Responsive Design,Hard,Video
+282,Advanced,Python,4-6 hours,78,Certifications,System Design,Hard,Interactive
+283,Intermediate,Mobile Development,6+ hours,76,Academic,Flutter/Dart,Medium,Book
+284,Beginner,Mobile Development,1-2 hours,72,Certifications,Programming Fundamentals,Easy,Article
+285,Beginner,Data Science,6+ hours,83,Academic,Python for Data,Medium,Book
+286,Beginner,Web Development,6+ hours,88,Career,Responsive Design,Hard,Book
+287,Beginner,Web Development,4-6 hours,63,Hobby,HTML/CSS Basics,Easy,Interactive
+288,Intermediate,Data Science,4-6 hours,57,Career,Pandas & Data Cleaning,Easy,Interactive
+289,Intermediate,Machine Learning,2-4 hours,58,Certifications,Scikit-learn,Easy,Video
+290,Advanced,Web Development,4-6 hours,54,Certifications,Full Stack Architecture,Easy,Interactive
+291,Advanced,Python,6+ hours,51,Certifications,Decorators & Generators,Easy,Book
+292,Beginner,Data Science,6+ hours,86,Certifications,Data Visualization,Easy,Book
+293,Advanced,Machine Learning,4-6 hours,57,Certifications,Neural Networks,Easy,Interactive
+294,Beginner,Data Science,2-4 hours,89,Certifications,Data Visualization,Easy,Video
+295,Advanced,Data Science,1-2 hours,77,Career,Big Data Tools,Hard,Article
+296,Beginner,Machine Learning,6+ hours,83,Career,Math for ML,Hard,Book
+297,Intermediate,Data Science,4-6 hours,64,Academic,Pandas & Data Cleaning,Easy,Interactive
+298,Beginner,Python,1-2 hours,83,Hobby,Control Flow,Easy,Article
+299,Intermediate,Data Science,2-4 hours,65,Career,Pandas & Data Cleaning,Easy,Video
+300,Beginner,Data Science,2-4 hours,61,Hobby,Statistics Basics,Easy,Video
+301,Advanced,Python,2-4 hours,99,Certifications,Optimization,Hard,Video
+302,Intermediate,Mobile Development,6+ hours,93,Academic,App State Management,Medium,Book
+303,Advanced,Data Science,2-4 hours,78,Career,Big Data Tools,Hard,Video
+304,Intermediate,Machine Learning,4-6 hours,100,Academic,Model Evaluation,Medium,Interactive
+305,Advanced,Python,4-6 hours,82,Career,System Design,Hard,Interactive
+306,Intermediate,Machine Learning,6+ hours,52,Career,Scikit-learn,Easy,Book
+307,Intermediate,Data Science,1-2 hours,91,Career,SQL for Data,Hard,Article
+308,Advanced,Mobile Development,6+ hours,79,Career,Performance Optimization,Hard,Book
+309,Intermediate,Mobile Development,2-4 hours,70,Certifications,Flutter/Dart,Medium,Video
+310,Advanced,Web Development,1-2 hours,78,Career,Microservices,Hard,Article
+311,Intermediate,Python,2-4 hours,52,Hobby,Data Structures,Easy,Video
+312,Advanced,Machine Learning,6+ hours,83,Hobby,Reinforcement Learning,Easy,Book
+313,Intermediate,Data Science,4-6 hours,74,Certifications,ML Basics,Medium,Interactive
+314,Intermediate,Mobile Development,1-2 hours,100,Academic,App State Management,Medium,Article
+315,Beginner,Data Science,1-2 hours,85,Certifications,Data Visualization,Easy,Article
+316,Intermediate,Data Science,2-4 hours,71,Career,ML Basics,Medium,Video
+317,Advanced,Web Development,4-6 hours,69,Certifications,Full Stack Architecture,Easy,Interactive
+318,Beginner,Mobile Development,1-2 hours,69,Certifications,App Design Basics,Easy,Article
+319,Advanced,Data Science,2-4 hours,92,Career,Advanced Visualization,Hard,Video
+320,Advanced,Machine Learning,4-6 hours,51,Academic,Neural Networks,Easy,Interactive
+321,Intermediate,Web Development,2-4 hours,71,Certifications,Node.js,Medium,Video
+322,Beginner,Web Development,2-4 hours,59,Career,HTML/CSS Basics,Easy,Video
+323,Intermediate,Python,1-2 hours,92,Academic,Web Scraping,Medium,Article
+324,Advanced,Web Development,6+ hours,59,Hobby,Full Stack Architecture,Easy,Book
+325,Beginner,Mobile Development,2-4 hours,96,Certifications,UI/UX,Easy,Video
+326,Beginner,Machine Learning,4-6 hours,93,Hobby,ML Fundamentals,Easy,Interactive
+327,Intermediate,Mobile Development,4-6 hours,98,Certifications,App State Management,Medium,Interactive
+328,Beginner,Mobile Development,2-4 hours,69,Certifications,App Design Basics,Easy,Video
+329,Beginner,Data Science,6+ hours,79,Academic,Python for Data,Medium,Book
+330,Intermediate,Mobile Development,6+ hours,60,Hobby,React Native,Easy,Book
+331,Advanced,Web Development,4-6 hours,53,Certifications,Full Stack Architecture,Easy,Interactive
+332,Intermediate,Mobile Development,1-2 hours,95,Career,App State Management,Hard,Article
+333,Intermediate,Python,2-4 hours,67,Certifications,Data Structures,Easy,Video
+334,Advanced,Web Development,6+ hours,55,Hobby,Full Stack Architecture,Easy,Book
+335,Intermediate,Data Science,1-2 hours,76,Career,ML Basics,Medium,Article
+336,Intermediate,Mobile Development,4-6 hours,65,Certifications,React Native,Easy,Interactive
+337,Beginner,Data Science,2-4 hours,51,Academic,Statistics Basics,Easy,Video
+338,Beginner,Data Science,2-4 hours,58,Career,Statistics Basics,Easy,Video
+339,Intermediate,Machine Learning,2-4 hours,98,Certifications,Model Evaluation,Medium,Video
+340,Intermediate,Mobile Development,1-2 hours,55,Career,React Native,Easy,Article
+341,Intermediate,Web Development,2-4 hours,85,Certifications,APIs & Backend,Medium,Video
+342,Beginner,Data Science,2-4 hours,69,Career,Statistics Basics,Easy,Video
+343,Beginner,Web Development,6+ hours,90,Certifications,Responsive Design,Easy,Book
+344,Beginner,Python,6+ hours,88,Career,Functions and Modules,Hard,Book
+345,Advanced,Mobile Development,2-4 hours,95,Hobby,Native Modules,Easy,Video
+346,Intermediate,Machine Learning,1-2 hours,89,Academic,Model Evaluation,Medium,Article
+347,Beginner,Mobile Development,6+ hours,61,Career,App Design Basics,Easy,Book
+348,Advanced,Data Science,1-2 hours,83,Career,Big Data Tools,Hard,Article
+349,Intermediate,Machine Learning,1-2 hours,90,Certifications,Model Evaluation,Medium,Article
+350,Intermediate,Data Science,1-2 hours,72,Career,ML Basics,Medium,Article
+351,Intermediate,Web Development,1-2 hours,99,Academic,APIs & Backend,Medium,Article
+352,Beginner,Python,4-6 hours,84,Academic,Control Flow,Medium,Interactive
+353,Advanced,Web Development,6+ hours,94,Certifications,Performance Optimization,Hard,Book
+354,Advanced,Web Development,2-4 hours,54,Certifications,Full Stack Architecture,Easy,Video
+355,Beginner,Data Science,2-4 hours,52,Hobby,Statistics Basics,Easy,Video
+356,Beginner,Data Science,4-6 hours,82,Certifications,Python for Data,Easy,Interactive
+357,Advanced,Machine Learning,4-6 hours,52,Hobby,Neural Networks,Easy,Interactive
+358,Intermediate,Data Science,1-2 hours,91,Academic,SQL for Data,Medium,Article
+359,Intermediate,Python,4-6 hours,77,Certifications,Libraries (Pandas/NumPy),Medium,Interactive
+360,Advanced,Machine Learning,6+ hours,71,Hobby,Reinforcement Learning,Easy,Book
+361,Intermediate,Machine Learning,4-6 hours,83,Academic,Feature Engineering,Medium,Interactive
+362,Beginner,Machine Learning,1-2 hours,77,Hobby,Math for ML,Easy,Article
+363,Advanced,Data Science,4-6 hours,56,Career,Deep Learning,Easy,Interactive
+364,Intermediate,Data Science,4-6 hours,78,Certifications,ML Basics,Medium,Interactive
+365,Beginner,Machine Learning,4-6 hours,78,Career,Math for ML,Easy,Interactive
+366,Advanced,Data Science,6+ hours,67,Career,Deep Learning,Easy,Book
+367,Beginner,Machine Learning,4-6 hours,82,Hobby,Math for ML,Easy,Interactive
+368,Beginner,Web Development,6+ hours,52,Hobby,HTML/CSS Basics,Easy,Book
+369,Beginner,Web Development,4-6 hours,73,Certifications,JavaScript Basics,Easy,Interactive
+370,Advanced,Python,2-4 hours,93,Certifications,Optimization,Hard,Video
+371,Intermediate,Data Science,6+ hours,98,Career,SQL for Data,Hard,Book
+372,Advanced,Web Development,4-6 hours,75,Academic,Microservices,Medium,Interactive
+373,Advanced,Data Science,2-4 hours,57,Career,Deep Learning,Easy,Video
+374,Advanced,Web Development,6+ hours,83,Certifications,Microservices,Hard,Book
+375,Advanced,Python,4-6 hours,99,Academic,Optimization,Medium,Interactive
+376,Advanced,Machine Learning,2-4 hours,89,Academic,Model Deployment,Medium,Video
+377,Advanced,Machine Learning,2-4 hours,57,Hobby,Neural Networks,Easy,Video
+378,Beginner,Machine Learning,2-4 hours,95,Certifications,ML Fundamentals,Easy,Video
+379,Beginner,Data Science,4-6 hours,95,Career,Data Visualization,Hard,Interactive
+380,Advanced,Mobile Development,4-6 hours,69,Hobby,Cross-platform Architecture,Easy,Interactive
+381,Advanced,Web Development,4-6 hours,82,Hobby,Microservices,Easy,Interactive
+382,Beginner,Web Development,2-4 hours,65,Certifications,HTML/CSS Basics,Easy,Video
+383,Beginner,Data Science,4-6 hours,79,Hobby,Python for Data,Easy,Interactive
+384,Advanced,Python,1-2 hours,69,Certifications,Decorators & Generators,Easy,Article
+385,Advanced,Machine Learning,6+ hours,99,Certifications,Model Deployment,Hard,Book
+386,Advanced,Python,2-4 hours,70,Career,System Design,Hard,Video
+387,Intermediate,Machine Learning,4-6 hours,58,Hobby,Scikit-learn,Easy,Interactive
+388,Beginner,Machine Learning,1-2 hours,57,Hobby,Python for ML,Easy,Article
+389,Intermediate,Web Development,2-4 hours,70,Hobby,Node.js,Easy,Video
+390,Intermediate,Mobile Development,4-6 hours,55,Academic,React Native,Easy,Interactive
+391,Beginner,Mobile Development,4-6 hours,58,Academic,App Design Basics,Easy,Interactive
+392,Advanced,Mobile Development,1-2 hours,82,Hobby,Performance Optimization,Easy,Article
+393,Advanced,Mobile Development,2-4 hours,60,Academic,Cross-platform Architecture,Easy,Video
+394,Advanced,Python,1-2 hours,55,Career,Decorators & Generators,Easy,Article
+395,Advanced,Mobile Development,4-6 hours,91,Hobby,Native Modules,Easy,Interactive
+396,Advanced,Machine Learning,1-2 hours,81,Academic,Reinforcement Learning,Medium,Article
+397,Advanced,Data Science,6+ hours,65,Certifications,Deep Learning,Easy,Book
+398,Intermediate,Machine Learning,1-2 hours,94,Career,Model Evaluation,Hard,Article
+399,Beginner,Machine Learning,6+ hours,80,Certifications,Math for ML,Easy,Book
+400,Beginner,Data Science,2-4 hours,70,Academic,Python for Data,Medium,Video
+401,Advanced,Data Science,6+ hours,58,Academic,Deep Learning,Easy,Book
+402,Advanced,Mobile Development,1-2 hours,70,Hobby,Performance Optimization,Easy,Article
+403,Intermediate,Python,4-6 hours,78,Hobby,Libraries (Pandas/NumPy),Easy,Interactive
+404,Beginner,Python,1-2 hours,68,Certifications,Python Basic,Easy,Article
+405,Advanced,Machine Learning,2-4 hours,60,Academic,Neural Networks,Easy,Video
+406,Advanced,Data Science,2-4 hours,98,Hobby,Advanced Visualization,Easy,Video
+407,Intermediate,Mobile Development,6+ hours,81,Academic,Flutter/Dart,Medium,Book
+408,Intermediate,Python,1-2 hours,75,Certifications,Libraries (Pandas/NumPy),Medium,Article
+409,Beginner,Web Development,4-6 hours,53,Career,HTML/CSS Basics,Easy,Interactive
+410,Intermediate,Machine Learning,6+ hours,68,Career,Scikit-learn,Easy,Book
+411,Beginner,Machine Learning,2-4 hours,66,Academic,Python for ML,Easy,Video
+412,Intermediate,Data Science,1-2 hours,75,Career,ML Basics,Medium,Article
+413,Advanced,Mobile Development,2-4 hours,73,Academic,Performance Optimization,Medium,Video
+414,Beginner,Machine Learning,6+ hours,98,Academic,ML Fundamentals,Medium,Book
+415,Advanced,Mobile Development,1-2 hours,58,Career,Cross-platform Architecture,Easy,Article
+416,Intermediate,Data Science,4-6 hours,85,Academic,SQL for Data,Medium,Interactive
+417,Beginner,Web Development,6+ hours,82,Career,JavaScript Basics,Hard,Book
+418,Beginner,Python,2-4 hours,95,Academic,Functions and Modules,Medium,Video
+419,Intermediate,Mobile Development,6+ hours,59,Hobby,React Native,Easy,Book
+420,Intermediate,Mobile Development,4-6 hours,60,Certifications,React Native,Easy,Interactive
+421,Advanced,Data Science,4-6 hours,82,Certifications,Big Data Tools,Hard,Interactive
+422,Advanced,Mobile Development,4-6 hours,80,Career,Performance Optimization,Hard,Interactive
+423,Intermediate,Data Science,1-2 hours,76,Academic,ML Basics,Medium,Article
+424,Advanced,Python,6+ hours,66,Hobby,Decorators & Generators,Easy,Book
+425,Advanced,Python,6+ hours,60,Certifications,Decorators & Generators,Easy,Book
+426,Beginner,Web Development,1-2 hours,86,Career,Responsive Design,Hard,Article
+427,Beginner,Python,6+ hours,70,Certifications,Control Flow,Easy,Book
+428,Beginner,Machine Learning,2-4 hours,76,Certifications,Math for ML,Easy,Video
+429,Advanced,Python,2-4 hours,83,Hobby,System Design,Easy,Video
+430,Advanced,Data Science,6+ hours,83,Certifications,Big Data Tools,Hard,Book
+431,Intermediate,Web Development,6+ hours,84,Academic,Node.js,Medium,Book
+432,Advanced,Data Science,4-6 hours,89,Certifications,Advanced Visualization,Hard,Interactive
+433,Beginner,Web Development,4-6 hours,85,Academic,Responsive Design,Medium,Interactive
+434,Beginner,Data Science,4-6 hours,95,Hobby,Data Visualization,Easy,Interactive
+435,Advanced,Machine Learning,4-6 hours,80,Academic,Reinforcement Learning,Medium,Interactive
+436,Advanced,Data Science,4-6 hours,57,Certifications,Deep Learning,Easy,Interactive
+437,Intermediate,Data Science,2-4 hours,68,Career,Pandas & Data Cleaning,Easy,Video
+438,Intermediate,Python,4-6 hours,78,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+439,Advanced,Machine Learning,2-4 hours,62,Academic,Neural Networks,Easy,Video
+440,Advanced,Data Science,2-4 hours,56,Hobby,Deep Learning,Easy,Video
+441,Beginner,Python,2-4 hours,90,Hobby,Functions and Modules,Easy,Video
+442,Beginner,Python,6+ hours,71,Certifications,Control Flow,Easy,Book
+443,Beginner,Web Development,1-2 hours,85,Hobby,Responsive Design,Easy,Article
+444,Intermediate,Machine Learning,6+ hours,91,Hobby,Model Evaluation,Easy,Book
+445,Intermediate,Data Science,4-6 hours,91,Career,SQL for Data,Hard,Interactive
+446,Beginner,Mobile Development,2-4 hours,84,Career,Programming Fundamentals,Hard,Video
+447,Beginner,Machine Learning,2-4 hours,52,Certifications,Python for ML,Easy,Video
+448,Intermediate,Web Development,4-6 hours,52,Career,React.js,Easy,Interactive
+449,Intermediate,Mobile Development,1-2 hours,71,Academic,Flutter/Dart,Medium,Article
+450,Intermediate,Mobile Development,6+ hours,58,Certifications,React Native,Easy,Book
+451,Intermediate,Web Development,1-2 hours,71,Hobby,Node.js,Easy,Article
+452,Advanced,Machine Learning,4-6 hours,95,Hobby,Model Deployment,Easy,Interactive
+453,Beginner,Data Science,4-6 hours,86,Hobby,Data Visualization,Easy,Interactive
+454,Beginner,Mobile Development,6+ hours,77,Academic,Programming Fundamentals,Medium,Book
+455,Beginner,Machine Learning,1-2 hours,61,Hobby,Python for ML,Easy,Article
+456,Intermediate,Data Science,2-4 hours,50,Academic,Pandas & Data Cleaning,Easy,Video
+457,Intermediate,Web Development,6+ hours,98,Academic,APIs & Backend,Medium,Book
+458,Intermediate,Data Science,1-2 hours,66,Academic,Pandas & Data Cleaning,Easy,Article
+459,Advanced,Web Development,1-2 hours,92,Career,Performance Optimization,Hard,Article
+460,Intermediate,Data Science,2-4 hours,75,Academic,ML Basics,Medium,Video
+461,Advanced,Python,4-6 hours,73,Hobby,System Design,Easy,Interactive
+462,Beginner,Web Development,6+ hours,59,Certifications,HTML/CSS Basics,Easy,Book
+463,Advanced,Mobile Development,4-6 hours,76,Certifications,Performance Optimization,Hard,Interactive
+464,Advanced,Web Development,2-4 hours,93,Career,Performance Optimization,Hard,Video
+465,Advanced,Machine Learning,4-6 hours,54,Career,Neural Networks,Easy,Interactive
+466,Beginner,Mobile Development,2-4 hours,86,Hobby,UI/UX,Easy,Video
+467,Beginner,Data Science,6+ hours,57,Hobby,Statistics Basics,Easy,Book
+468,Advanced,Mobile Development,6+ hours,55,Certifications,Cross-platform Architecture,Easy,Book
+469,Beginner,Machine Learning,2-4 hours,82,Certifications,Math for ML,Easy,Video
+470,Intermediate,Mobile Development,1-2 hours,85,Certifications,App State Management,Medium,Article
+471,Advanced,Data Science,1-2 hours,75,Academic,Big Data Tools,Medium,Article
+472,Beginner,Web Development,1-2 hours,52,Certifications,HTML/CSS Basics,Easy,Article
+473,Intermediate,Python,1-2 hours,54,Certifications,Data Structures,Easy,Article
+474,Beginner,Data Science,6+ hours,61,Hobby,Statistics Basics,Easy,Book
+475,Advanced,Machine Learning,4-6 hours,74,Certifications,Reinforcement Learning,Hard,Interactive
+476,Intermediate,Machine Learning,1-2 hours,93,Hobby,Model Evaluation,Easy,Article
+477,Advanced,Data Science,1-2 hours,61,Certifications,Deep Learning,Easy,Article
+478,Advanced,Web Development,2-4 hours,50,Career,Full Stack Architecture,Easy,Video
+479,Intermediate,Machine Learning,6+ hours,84,Certifications,Feature Engineering,Medium,Book
+480,Beginner,Web Development,6+ hours,72,Hobby,JavaScript Basics,Easy,Book
+481,Intermediate,Web Development,1-2 hours,52,Certifications,React.js,Easy,Article
+482,Advanced,Python,2-4 hours,63,Career,Decorators & Generators,Easy,Video
+483,Beginner,Mobile Development,1-2 hours,78,Career,Programming Fundamentals,Easy,Article
+484,Beginner,Python,6+ hours,78,Hobby,Control Flow,Easy,Book
+485,Advanced,Web Development,1-2 hours,58,Academic,Full Stack Architecture,Easy,Article
+486,Beginner,Mobile Development,4-6 hours,86,Academic,UI/UX,Medium,Interactive
+487,Beginner,Data Science,2-4 hours,92,Hobby,Data Visualization,Easy,Video
+488,Intermediate,Data Science,4-6 hours,53,Hobby,Pandas & Data Cleaning,Easy,Interactive
+489,Advanced,Machine Learning,6+ hours,53,Academic,Neural Networks,Easy,Book
+490,Advanced,Machine Learning,4-6 hours,94,Certifications,Model Deployment,Hard,Interactive
+491,Intermediate,Web Development,4-6 hours,74,Hobby,Node.js,Easy,Interactive
+492,Advanced,Machine Learning,2-4 hours,64,Academic,Neural Networks,Easy,Video
+493,Advanced,Web Development,6+ hours,53,Certifications,Full Stack Architecture,Easy,Book
+494,Intermediate,Mobile Development,2-4 hours,74,Hobby,Flutter/Dart,Easy,Video
+495,Intermediate,Web Development,4-6 hours,91,Career,APIs & Backend,Hard,Interactive
+496,Intermediate,Data Science,1-2 hours,84,Hobby,ML Basics,Easy,Article
+497,Beginner,Data Science,6+ hours,93,Career,Data Visualization,Hard,Book
+498,Beginner,Web Development,2-4 hours,80,Hobby,JavaScript Basics,Easy,Video
+499,Intermediate,Data Science,1-2 hours,63,Hobby,Pandas & Data Cleaning,Easy,Article
+500,Advanced,Python,6+ hours,65,Hobby,Decorators & Generators,Easy,Book
+501,Intermediate,Web Development,4-6 hours,99,Academic,APIs & Backend,Medium,Interactive
+502,Intermediate,Machine Learning,4-6 hours,69,Academic,Scikit-learn,Easy,Interactive
+503,Intermediate,Mobile Development,6+ hours,79,Career,Flutter/Dart,Medium,Book
+504,Advanced,Machine Learning,4-6 hours,63,Academic,Neural Networks,Easy,Interactive
+505,Intermediate,Machine Learning,1-2 hours,86,Hobby,Model Evaluation,Easy,Article
+506,Advanced,Web Development,1-2 hours,66,Certifications,Full Stack Architecture,Easy,Article
+507,Intermediate,Web Development,2-4 hours,71,Hobby,Node.js,Easy,Video
+508,Intermediate,Mobile Development,2-4 hours,81,Academic,Flutter/Dart,Medium,Video
+509,Intermediate,Machine Learning,6+ hours,79,Hobby,Feature Engineering,Easy,Book
+510,Advanced,Data Science,2-4 hours,58,Certifications,Deep Learning,Easy,Video
+511,Beginner,Mobile Development,1-2 hours,83,Career,Programming Fundamentals,Hard,Article
+512,Beginner,Python,1-2 hours,76,Hobby,Control Flow,Easy,Article
+513,Advanced,Web Development,1-2 hours,95,Hobby,Performance Optimization,Easy,Article
+514,Beginner,Web Development,6+ hours,73,Career,JavaScript Basics,Easy,Book
+515,Advanced,Mobile Development,6+ hours,92,Certifications,Native Modules,Hard,Book
+516,Beginner,Python,6+ hours,50,Career,Python Basic,Easy,Book
+517,Advanced,Data Science,4-6 hours,51,Certifications,Deep Learning,Easy,Interactive
+518,Beginner,Python,1-2 hours,83,Hobby,Control Flow,Easy,Article
+519,Beginner,Web Development,4-6 hours,72,Academic,JavaScript Basics,Medium,Interactive
+520,Intermediate,Python,4-6 hours,75,Certifications,Libraries (Pandas/NumPy),Medium,Interactive
+521,Advanced,Web Development,2-4 hours,69,Career,Full Stack Architecture,Easy,Video
+522,Advanced,Python,1-2 hours,75,Certifications,System Design,Hard,Article
+523,Intermediate,Mobile Development,6+ hours,53,Career,React Native,Easy,Book
+524,Advanced,Web Development,1-2 hours,81,Certifications,Microservices,Hard,Article
+525,Advanced,Data Science,1-2 hours,83,Career,Big Data Tools,Hard,Article
+526,Beginner,Web Development,6+ hours,67,Career,HTML/CSS Basics,Easy,Book
+527,Beginner,Data Science,1-2 hours,61,Academic,Statistics Basics,Easy,Article
+528,Beginner,Web Development,2-4 hours,98,Certifications,Responsive Design,Easy,Video
+529,Beginner,Data Science,2-4 hours,86,Hobby,Data Visualization,Easy,Video
+530,Advanced,Machine Learning,4-6 hours,74,Hobby,Reinforcement Learning,Easy,Interactive
+531,Advanced,Python,4-6 hours,53,Career,Decorators & Generators,Easy,Interactive
+532,Intermediate,Web Development,1-2 hours,71,Certifications,Node.js,Medium,Article
+533,Intermediate,Python,4-6 hours,100,Certifications,Web Scraping,Medium,Interactive
+534,Intermediate,Web Development,4-6 hours,85,Certifications,APIs & Backend,Medium,Interactive
+535,Intermediate,Web Development,6+ hours,55,Academic,React.js,Easy,Book
+536,Beginner,Python,1-2 hours,67,Hobby,Python Basic,Easy,Article
+537,Intermediate,Web Development,6+ hours,70,Academic,Node.js,Medium,Book
+538,Beginner,Python,1-2 hours,69,Certifications,Python Basic,Easy,Article
+539,Intermediate,Data Science,1-2 hours,58,Career,Pandas & Data Cleaning,Easy,Article
+540,Beginner,Machine Learning,6+ hours,85,Certifications,ML Fundamentals,Easy,Book
+541,Beginner,Python,1-2 hours,72,Career,Control Flow,Easy,Article
+542,Advanced,Mobile Development,4-6 hours,74,Career,Performance Optimization,Hard,Interactive
+543,Intermediate,Machine Learning,6+ hours,99,Career,Model Evaluation,Hard,Book
+544,Advanced,Mobile Development,2-4 hours,86,Hobby,Native Modules,Easy,Video
+545,Advanced,Machine Learning,2-4 hours,58,Academic,Neural Networks,Easy,Video
+546,Intermediate,Data Science,6+ hours,59,Career,Pandas & Data Cleaning,Easy,Book
+547,Beginner,Machine Learning,4-6 hours,76,Academic,Math for ML,Medium,Interactive
+548,Intermediate,Python,4-6 hours,66,Hobby,Data Structures,Easy,Interactive
+549,Advanced,Machine Learning,2-4 hours,79,Career,Reinforcement Learning,Hard,Video
+550,Beginner,Data Science,1-2 hours,75,Academic,Python for Data,Medium,Article
+551,Advanced,Machine Learning,4-6 hours,78,Academic,Reinforcement Learning,Medium,Interactive
+552,Intermediate,Mobile Development,2-4 hours,69,Academic,React Native,Easy,Video
+553,Advanced,Web Development,6+ hours,70,Hobby,Microservices,Easy,Book
+554,Intermediate,Data Science,4-6 hours,97,Certifications,SQL for Data,Medium,Interactive
+555,Advanced,Web Development,4-6 hours,74,Academic,Microservices,Medium,Interactive
+556,Intermediate,Data Science,1-2 hours,86,Hobby,SQL for Data,Easy,Article
+557,Advanced,Mobile Development,2-4 hours,93,Career,Native Modules,Hard,Video
+558,Advanced,Machine Learning,2-4 hours,78,Academic,Reinforcement Learning,Medium,Video
+559,Advanced,Python,6+ hours,93,Certifications,Optimization,Hard,Book
+560,Beginner,Data Science,2-4 hours,66,Hobby,Statistics Basics,Easy,Video
+561,Advanced,Machine Learning,6+ hours,54,Certifications,Neural Networks,Easy,Book
+562,Advanced,Machine Learning,6+ hours,84,Certifications,Reinforcement Learning,Hard,Book
+563,Advanced,Python,4-6 hours,94,Career,Optimization,Hard,Interactive
+564,Beginner,Web Development,4-6 hours,60,Career,HTML/CSS Basics,Easy,Interactive
+565,Advanced,Machine Learning,4-6 hours,100,Certifications,Model Deployment,Hard,Interactive
+566,Beginner,Python,1-2 hours,66,Hobby,Python Basic,Easy,Article
+567,Advanced,Mobile Development,2-4 hours,78,Academic,Performance Optimization,Medium,Video
+568,Intermediate,Machine Learning,2-4 hours,72,Career,Feature Engineering,Medium,Video
+569,Intermediate,Python,4-6 hours,76,Career,Libraries (Pandas/NumPy),Medium,Interactive
+570,Beginner,Web Development,4-6 hours,69,Academic,HTML/CSS Basics,Easy,Interactive
+571,Intermediate,Web Development,6+ hours,72,Certifications,Node.js,Medium,Book
+572,Beginner,Machine Learning,6+ hours,70,Career,Math for ML,Easy,Book
+573,Intermediate,Python,1-2 hours,51,Academic,Data Structures,Easy,Article
+574,Advanced,Python,2-4 hours,97,Hobby,Optimization,Easy,Video
+575,Advanced,Web Development,2-4 hours,71,Certifications,Microservices,Hard,Video
+576,Intermediate,Web Development,6+ hours,90,Hobby,APIs & Backend,Easy,Book
+577,Beginner,Machine Learning,6+ hours,51,Hobby,Python for ML,Easy,Book
+578,Intermediate,Mobile Development,6+ hours,74,Career,Flutter/Dart,Medium,Book
+579,Advanced,Web Development,2-4 hours,67,Career,Full Stack Architecture,Easy,Video
+580,Advanced,Python,2-4 hours,73,Academic,System Design,Medium,Video
+581,Beginner,Machine Learning,1-2 hours,66,Certifications,Python for ML,Easy,Article
+582,Advanced,Data Science,6+ hours,89,Certifications,Advanced Visualization,Hard,Book
+583,Advanced,Python,4-6 hours,72,Certifications,System Design,Hard,Interactive
+584,Advanced,Web Development,4-6 hours,89,Career,Performance Optimization,Hard,Interactive
+585,Advanced,Web Development,4-6 hours,57,Hobby,Full Stack Architecture,Easy,Interactive
+586,Intermediate,Python,2-4 hours,73,Hobby,Libraries (Pandas/NumPy),Easy,Video
+587,Advanced,Machine Learning,6+ hours,88,Hobby,Model Deployment,Easy,Book
+588,Advanced,Machine Learning,6+ hours,61,Certifications,Neural Networks,Easy,Book
+589,Advanced,Mobile Development,2-4 hours,85,Hobby,Native Modules,Easy,Video
+590,Intermediate,Data Science,2-4 hours,61,Academic,Pandas & Data Cleaning,Easy,Video
+591,Intermediate,Mobile Development,1-2 hours,72,Career,Flutter/Dart,Medium,Article
+592,Intermediate,Web Development,2-4 hours,74,Certifications,Node.js,Medium,Video
+593,Intermediate,Machine Learning,6+ hours,95,Certifications,Model Evaluation,Medium,Book
+594,Intermediate,Web Development,1-2 hours,86,Career,APIs & Backend,Hard,Article
+595,Beginner,Data Science,1-2 hours,67,Hobby,Statistics Basics,Easy,Article
+596,Advanced,Data Science,2-4 hours,99,Certifications,Advanced Visualization,Hard,Video
+597,Advanced,Machine Learning,1-2 hours,86,Career,Model Deployment,Hard,Article
+598,Intermediate,Mobile Development,4-6 hours,84,Career,Flutter/Dart,Hard,Interactive
+599,Advanced,Machine Learning,2-4 hours,77,Career,Reinforcement Learning,Hard,Video
+600,Advanced,Web Development,4-6 hours,52,Certifications,Full Stack Architecture,Easy,Interactive
+601,Intermediate,Data Science,1-2 hours,78,Career,ML Basics,Medium,Article
+602,Beginner,Web Development,4-6 hours,95,Certifications,Responsive Design,Easy,Interactive
+603,Beginner,Mobile Development,2-4 hours,100,Hobby,UI/UX,Easy,Video
+604,Beginner,Python,4-6 hours,84,Academic,Control Flow,Medium,Interactive
+605,Advanced,Mobile Development,2-4 hours,70,Academic,Performance Optimization,Medium,Video
+606,Intermediate,Mobile Development,4-6 hours,82,Career,Flutter/Dart,Hard,Interactive
+607,Beginner,Machine Learning,1-2 hours,67,Hobby,Python for ML,Easy,Article
+608,Advanced,Web Development,2-4 hours,59,Academic,Full Stack Architecture,Easy,Video
+609,Beginner,Machine Learning,6+ hours,59,Academic,Python for ML,Easy,Book
+610,Advanced,Machine Learning,6+ hours,78,Career,Reinforcement Learning,Hard,Book
+611,Advanced,Python,6+ hours,82,Academic,System Design,Medium,Book
+612,Advanced,Data Science,6+ hours,81,Academic,Big Data Tools,Medium,Book
+613,Advanced,Python,1-2 hours,96,Certifications,Optimization,Hard,Article
+614,Advanced,Data Science,1-2 hours,100,Certifications,Advanced Visualization,Hard,Article
+615,Beginner,Machine Learning,2-4 hours,81,Academic,Math for ML,Medium,Video
+616,Intermediate,Data Science,4-6 hours,85,Hobby,SQL for Data,Easy,Interactive
+617,Advanced,Machine Learning,4-6 hours,93,Career,Model Deployment,Hard,Interactive
+618,Beginner,Python,6+ hours,51,Career,Python Basic,Easy,Book
+619,Beginner,Machine Learning,6+ hours,50,Certifications,Python for ML,Easy,Book
+620,Beginner,Web Development,4-6 hours,60,Academic,HTML/CSS Basics,Easy,Interactive
+621,Beginner,Data Science,4-6 hours,55,Academic,Statistics Basics,Easy,Interactive
+622,Advanced,Web Development,1-2 hours,75,Academic,Microservices,Medium,Article
+623,Advanced,Web Development,6+ hours,91,Career,Performance Optimization,Hard,Book
+624,Advanced,Python,1-2 hours,63,Certifications,Decorators & Generators,Easy,Article
+625,Beginner,Web Development,2-4 hours,83,Certifications,JavaScript Basics,Easy,Video
+626,Beginner,Python,4-6 hours,57,Certifications,Python Basic,Easy,Interactive
+627,Advanced,Web Development,6+ hours,54,Hobby,Full Stack Architecture,Easy,Book
+628,Intermediate,Python,1-2 hours,56,Academic,Data Structures,Easy,Article
+629,Intermediate,Data Science,2-4 hours,74,Hobby,ML Basics,Easy,Video
+630,Advanced,Web Development,1-2 hours,83,Career,Microservices,Hard,Article
+631,Advanced,Web Development,6+ hours,72,Hobby,Microservices,Easy,Book
+632,Advanced,Web Development,6+ hours,89,Certifications,Performance Optimization,Hard,Book
+633,Beginner,Python,1-2 hours,58,Career,Python Basic,Easy,Article
+634,Advanced,Machine Learning,4-6 hours,77,Academic,Reinforcement Learning,Medium,Interactive
+635,Beginner,Web Development,4-6 hours,91,Career,Responsive Design,Hard,Interactive
+636,Beginner,Mobile Development,4-6 hours,99,Career,UI/UX,Hard,Interactive
+637,Advanced,Data Science,2-4 hours,83,Hobby,Big Data Tools,Easy,Video
+638,Advanced,Machine Learning,4-6 hours,91,Career,Model Deployment,Hard,Interactive
+639,Beginner,Machine Learning,6+ hours,57,Hobby,Python for ML,Easy,Book
+640,Intermediate,Mobile Development,1-2 hours,83,Career,Flutter/Dart,Hard,Article
+641,Intermediate,Data Science,2-4 hours,74,Certifications,ML Basics,Medium,Video
+642,Intermediate,Mobile Development,2-4 hours,98,Certifications,App State Management,Medium,Video
+643,Beginner,Python,1-2 hours,50,Academic,Python Basic,Easy,Article
+644,Beginner,Python,1-2 hours,100,Certifications,Functions and Modules,Easy,Article
+645,Advanced,Data Science,6+ hours,77,Certifications,Big Data Tools,Hard,Book
+646,Beginner,Mobile Development,2-4 hours,67,Career,App Design Basics,Easy,Video
+647,Intermediate,Python,2-4 hours,59,Academic,Data Structures,Easy,Video
+648,Intermediate,Mobile Development,1-2 hours,69,Certifications,React Native,Easy,Article
+649,Advanced,Web Development,1-2 hours,65,Career,Full Stack Architecture,Easy,Article
+650,Intermediate,Python,6+ hours,89,Career,Web Scraping,Hard,Book
+651,Intermediate,Web Development,1-2 hours,50,Hobby,React.js,Easy,Article
+652,Advanced,Python,2-4 hours,81,Academic,System Design,Medium,Video
+653,Advanced,Mobile Development,4-6 hours,60,Academic,Cross-platform Architecture,Easy,Interactive
+654,Beginner,Data Science,1-2 hours,99,Career,Data Visualization,Hard,Article
+655,Intermediate,Machine Learning,4-6 hours,83,Career,Feature Engineering,Hard,Interactive
+656,Intermediate,Mobile Development,1-2 hours,81,Certifications,Flutter/Dart,Medium,Article
+657,Advanced,Data Science,1-2 hours,81,Hobby,Big Data Tools,Easy,Article
+658,Intermediate,Web Development,4-6 hours,99,Career,APIs & Backend,Hard,Interactive
+659,Advanced,Python,2-4 hours,97,Career,Optimization,Hard,Video
+660,Beginner,Python,2-4 hours,52,Certifications,Python Basic,Easy,Video
+661,Intermediate,Machine Learning,2-4 hours,61,Career,Scikit-learn,Easy,Video
+662,Advanced,Machine Learning,2-4 hours,70,Hobby,Reinforcement Learning,Easy,Video
+663,Intermediate,Data Science,4-6 hours,54,Academic,Pandas & Data Cleaning,Easy,Interactive
+664,Beginner,Mobile Development,1-2 hours,61,Hobby,App Design Basics,Easy,Article
+665,Advanced,Python,6+ hours,54,Certifications,Decorators & Generators,Easy,Book
+666,Intermediate,Data Science,4-6 hours,55,Certifications,Pandas & Data Cleaning,Easy,Interactive
+667,Beginner,Data Science,2-4 hours,68,Academic,Statistics Basics,Easy,Video
+668,Advanced,Mobile Development,2-4 hours,79,Academic,Performance Optimization,Medium,Video
+669,Advanced,Machine Learning,2-4 hours,96,Hobby,Model Deployment,Easy,Video
+670,Beginner,Python,6+ hours,51,Hobby,Python Basic,Easy,Book
+671,Advanced,Data Science,1-2 hours,71,Career,Big Data Tools,Hard,Article
+672,Advanced,Machine Learning,4-6 hours,56,Hobby,Neural Networks,Easy,Interactive
+673,Advanced,Web Development,6+ hours,81,Career,Microservices,Hard,Book
+674,Beginner,Data Science,1-2 hours,52,Hobby,Statistics Basics,Easy,Article
+675,Advanced,Machine Learning,4-6 hours,79,Career,Reinforcement Learning,Hard,Interactive
+676,Advanced,Python,2-4 hours,90,Certifications,Optimization,Hard,Video
+677,Beginner,Mobile Development,1-2 hours,77,Hobby,Programming Fundamentals,Easy,Article
+678,Beginner,Data Science,4-6 hours,70,Certifications,Python for Data,Easy,Interactive
+679,Advanced,Data Science,4-6 hours,78,Academic,Big Data Tools,Medium,Interactive
+680,Beginner,Python,2-4 hours,58,Career,Python Basic,Easy,Video
+681,Beginner,Python,2-4 hours,78,Certifications,Control Flow,Easy,Video
+682,Intermediate,Machine Learning,1-2 hours,84,Academic,Feature Engineering,Medium,Article
+683,Beginner,Machine Learning,4-6 hours,79,Academic,Math for ML,Medium,Interactive
+684,Beginner,Python,2-4 hours,93,Academic,Functions and Modules,Medium,Video
+685,Advanced,Mobile Development,1-2 hours,63,Academic,Cross-platform Architecture,Easy,Article
+686,Beginner,Python,2-4 hours,72,Certifications,Control Flow,Easy,Video
+687,Advanced,Python,4-6 hours,66,Hobby,Decorators & Generators,Easy,Interactive
+688,Beginner,Machine Learning,6+ hours,85,Hobby,ML Fundamentals,Easy,Book
+689,Beginner,Machine Learning,1-2 hours,100,Hobby,ML Fundamentals,Easy,Article
+690,Beginner,Python,1-2 hours,99,Hobby,Functions and Modules,Easy,Article
+691,Beginner,Web Development,6+ hours,73,Career,JavaScript Basics,Easy,Book
+692,Advanced,Mobile Development,4-6 hours,54,Career,Cross-platform Architecture,Easy,Interactive
+693,Beginner,Web Development,6+ hours,58,Career,HTML/CSS Basics,Easy,Book
+694,Intermediate,Python,1-2 hours,79,Career,Libraries (Pandas/NumPy),Medium,Article
+695,Beginner,Mobile Development,6+ hours,96,Certifications,UI/UX,Easy,Book
+696,Intermediate,Python,6+ hours,93,Certifications,Web Scraping,Medium,Book
+697,Beginner,Data Science,2-4 hours,61,Academic,Statistics Basics,Easy,Video
+698,Intermediate,Machine Learning,2-4 hours,52,Hobby,Scikit-learn,Easy,Video
+699,Advanced,Data Science,6+ hours,76,Certifications,Big Data Tools,Hard,Book
+700,Beginner,Python,4-6 hours,74,Hobby,Control Flow,Easy,Interactive
+701,Intermediate,Web Development,2-4 hours,90,Career,APIs & Backend,Hard,Video
+702,Intermediate,Data Science,6+ hours,84,Certifications,ML Basics,Medium,Book
+703,Intermediate,Mobile Development,4-6 hours,74,Academic,Flutter/Dart,Medium,Interactive
+704,Beginner,Python,4-6 hours,88,Hobby,Functions and Modules,Easy,Interactive
+705,Beginner,Data Science,1-2 hours,80,Academic,Python for Data,Medium,Article
+706,Advanced,Web Development,2-4 hours,56,Hobby,Full Stack Architecture,Easy,Video
+707,Advanced,Web Development,4-6 hours,84,Career,Microservices,Hard,Interactive
+708,Beginner,Mobile Development,6+ hours,72,Hobby,Programming Fundamentals,Easy,Book
+709,Beginner,Web Development,4-6 hours,97,Academic,Responsive Design,Medium,Interactive
+710,Advanced,Python,4-6 hours,86,Hobby,Optimization,Easy,Interactive
+711,Advanced,Web Development,6+ hours,84,Academic,Microservices,Medium,Book
+712,Beginner,Machine Learning,1-2 hours,55,Career,Python for ML,Easy,Article
+713,Beginner,Mobile Development,2-4 hours,51,Certifications,App Design Basics,Easy,Video
+714,Beginner,Data Science,2-4 hours,58,Academic,Statistics Basics,Easy,Video
+715,Advanced,Web Development,4-6 hours,53,Career,Full Stack Architecture,Easy,Interactive
+716,Beginner,Mobile Development,2-4 hours,99,Career,UI/UX,Hard,Video
+717,Advanced,Data Science,1-2 hours,73,Certifications,Big Data Tools,Hard,Article
+718,Advanced,Python,4-6 hours,69,Academic,Decorators & Generators,Easy,Interactive
+719,Beginner,Web Development,6+ hours,100,Certifications,Responsive Design,Easy,Book
+720,Advanced,Data Science,2-4 hours,95,Academic,Advanced Visualization,Medium,Video
+721,Beginner,Mobile Development,2-4 hours,74,Academic,Programming Fundamentals,Medium,Video
+722,Advanced,Data Science,2-4 hours,61,Career,Deep Learning,Easy,Video
+723,Advanced,Mobile Development,6+ hours,99,Career,Native Modules,Hard,Book
+724,Beginner,Mobile Development,4-6 hours,89,Hobby,UI/UX,Easy,Interactive
+725,Advanced,Mobile Development,1-2 hours,81,Hobby,Performance Optimization,Easy,Article
+726,Intermediate,Python,2-4 hours,72,Academic,Libraries (Pandas/NumPy),Medium,Video
+727,Beginner,Python,4-6 hours,78,Career,Control Flow,Easy,Interactive
+728,Intermediate,Web Development,2-4 hours,94,Career,APIs & Backend,Hard,Video
+729,Intermediate,Data Science,1-2 hours,96,Career,SQL for Data,Hard,Article
+730,Beginner,Machine Learning,6+ hours,96,Certifications,ML Fundamentals,Easy,Book
+731,Beginner,Machine Learning,6+ hours,74,Academic,Math for ML,Medium,Book
+732,Advanced,Machine Learning,1-2 hours,80,Hobby,Reinforcement Learning,Easy,Article
+733,Beginner,Machine Learning,1-2 hours,52,Academic,Python for ML,Easy,Article
+734,Beginner,Data Science,4-6 hours,56,Career,Statistics Basics,Easy,Interactive
+735,Intermediate,Web Development,6+ hours,60,Career,React.js,Easy,Book
+736,Advanced,Python,4-6 hours,88,Certifications,Optimization,Hard,Interactive
+737,Advanced,Python,6+ hours,91,Hobby,Optimization,Easy,Book
+738,Advanced,Machine Learning,2-4 hours,53,Career,Neural Networks,Easy,Video
+739,Intermediate,Web Development,2-4 hours,76,Academic,Node.js,Medium,Video
+740,Advanced,Data Science,4-6 hours,65,Career,Deep Learning,Easy,Interactive
+741,Beginner,Machine Learning,6+ hours,59,Career,Python for ML,Easy,Book
+742,Intermediate,Python,6+ hours,55,Academic,Data Structures,Easy,Book
+743,Advanced,Mobile Development,6+ hours,62,Career,Cross-platform Architecture,Easy,Book
+744,Beginner,Web Development,2-4 hours,90,Academic,Responsive Design,Medium,Video
+745,Beginner,Machine Learning,1-2 hours,69,Certifications,Python for ML,Easy,Article
+746,Intermediate,Machine Learning,4-6 hours,55,Certifications,Scikit-learn,Easy,Interactive
+747,Beginner,Data Science,6+ hours,73,Hobby,Python for Data,Easy,Book
+748,Intermediate,Python,4-6 hours,78,Certifications,Libraries (Pandas/NumPy),Medium,Interactive
+749,Intermediate,Web Development,4-6 hours,86,Career,APIs & Backend,Hard,Interactive
+750,Beginner,Python,1-2 hours,92,Academic,Functions and Modules,Medium,Article
+751,Advanced,Machine Learning,2-4 hours,85,Career,Model Deployment,Hard,Video
+752,Intermediate,Mobile Development,6+ hours,84,Certifications,Flutter/Dart,Medium,Book
+753,Advanced,Web Development,6+ hours,69,Career,Full Stack Architecture,Easy,Book
+754,Intermediate,Python,2-4 hours,57,Certifications,Data Structures,Easy,Video
+755,Beginner,Web Development,2-4 hours,62,Hobby,HTML/CSS Basics,Easy,Video
+756,Beginner,Machine Learning,1-2 hours,93,Certifications,ML Fundamentals,Easy,Article
+757,Beginner,Web Development,4-6 hours,70,Career,JavaScript Basics,Easy,Interactive
+758,Beginner,Machine Learning,6+ hours,85,Academic,ML Fundamentals,Medium,Book
+759,Intermediate,Mobile Development,6+ hours,50,Certifications,React Native,Easy,Book
+760,Beginner,Machine Learning,2-4 hours,59,Career,Python for ML,Easy,Video
+761,Beginner,Mobile Development,1-2 hours,100,Academic,UI/UX,Medium,Article
+762,Advanced,Data Science,6+ hours,66,Certifications,Deep Learning,Easy,Book
+763,Advanced,Machine Learning,6+ hours,52,Hobby,Neural Networks,Easy,Book
+764,Intermediate,Machine Learning,2-4 hours,89,Certifications,Model Evaluation,Medium,Video
+765,Beginner,Machine Learning,4-6 hours,94,Hobby,ML Fundamentals,Easy,Interactive
+766,Beginner,Machine Learning,4-6 hours,73,Career,Math for ML,Easy,Interactive
+767,Intermediate,Data Science,4-6 hours,67,Certifications,Pandas & Data Cleaning,Easy,Interactive
+768,Advanced,Python,2-4 hours,58,Academic,Decorators & Generators,Easy,Video
+769,Advanced,Machine Learning,4-6 hours,67,Certifications,Neural Networks,Easy,Interactive
+770,Advanced,Python,2-4 hours,78,Hobby,System Design,Easy,Video
+771,Intermediate,Machine Learning,4-6 hours,53,Hobby,Scikit-learn,Easy,Interactive
+772,Beginner,Data Science,6+ hours,58,Career,Statistics Basics,Easy,Book
+773,Beginner,Web Development,2-4 hours,53,Hobby,HTML/CSS Basics,Easy,Video
+774,Beginner,Machine Learning,1-2 hours,73,Hobby,Math for ML,Easy,Article
+775,Intermediate,Data Science,6+ hours,82,Certifications,ML Basics,Medium,Book
+776,Advanced,Python,1-2 hours,65,Academic,Decorators & Generators,Easy,Article
+777,Intermediate,Mobile Development,6+ hours,61,Certifications,React Native,Easy,Book
+778,Advanced,Mobile Development,4-6 hours,72,Hobby,Performance Optimization,Easy,Interactive
+779,Intermediate,Python,4-6 hours,51,Certifications,Data Structures,Easy,Interactive
+780,Beginner,Web Development,2-4 hours,64,Hobby,HTML/CSS Basics,Easy,Video
+781,Advanced,Web Development,4-6 hours,91,Certifications,Performance Optimization,Hard,Interactive
+782,Advanced,Python,1-2 hours,80,Hobby,System Design,Easy,Article
+783,Advanced,Web Development,1-2 hours,64,Academic,Full Stack Architecture,Easy,Article
+784,Advanced,Data Science,4-6 hours,77,Certifications,Big Data Tools,Hard,Interactive
+785,Intermediate,Machine Learning,4-6 hours,63,Certifications,Scikit-learn,Easy,Interactive
+786,Intermediate,Mobile Development,6+ hours,87,Career,App State Management,Hard,Book
+787,Beginner,Mobile Development,4-6 hours,85,Academic,UI/UX,Medium,Interactive
+788,Intermediate,Python,6+ hours,54,Academic,Data Structures,Easy,Book
+789,Intermediate,Data Science,4-6 hours,66,Academic,Pandas & Data Cleaning,Easy,Interactive
+790,Beginner,Web Development,2-4 hours,53,Certifications,HTML/CSS Basics,Easy,Video
+791,Advanced,Data Science,2-4 hours,96,Career,Advanced Visualization,Hard,Video
+792,Advanced,Machine Learning,4-6 hours,66,Certifications,Neural Networks,Easy,Interactive
+793,Intermediate,Machine Learning,1-2 hours,87,Hobby,Model Evaluation,Easy,Article
+794,Intermediate,Web Development,6+ hours,92,Academic,APIs & Backend,Medium,Book
+795,Advanced,Data Science,2-4 hours,92,Hobby,Advanced Visualization,Easy,Video
+796,Intermediate,Python,6+ hours,58,Academic,Data Structures,Easy,Book
+797,Advanced,Mobile Development,2-4 hours,93,Academic,Native Modules,Medium,Video
+798,Advanced,Python,2-4 hours,72,Hobby,System Design,Easy,Video
+799,Advanced,Data Science,6+ hours,100,Academic,Advanced Visualization,Medium,Book
+800,Intermediate,Data Science,4-6 hours,79,Career,ML Basics,Medium,Interactive
+801,Intermediate,Python,1-2 hours,80,Hobby,Libraries (Pandas/NumPy),Easy,Article
+802,Advanced,Python,6+ hours,83,Academic,System Design,Medium,Book
+803,Intermediate,Python,2-4 hours,58,Hobby,Data Structures,Easy,Video
+804,Intermediate,Machine Learning,6+ hours,59,Academic,Scikit-learn,Easy,Book
+805,Advanced,Web Development,1-2 hours,81,Academic,Microservices,Medium,Article
+806,Advanced,Web Development,4-6 hours,90,Career,Performance Optimization,Hard,Interactive
+807,Beginner,Machine Learning,4-6 hours,63,Hobby,Python for ML,Easy,Interactive
+808,Advanced,Web Development,6+ hours,100,Career,Performance Optimization,Hard,Book
+809,Beginner,Mobile Development,6+ hours,90,Certifications,UI/UX,Easy,Book
+810,Intermediate,Machine Learning,6+ hours,74,Career,Feature Engineering,Medium,Book
+811,Beginner,Mobile Development,2-4 hours,96,Academic,UI/UX,Medium,Video
+812,Beginner,Data Science,2-4 hours,51,Career,Statistics Basics,Easy,Video
+813,Advanced,Web Development,2-4 hours,94,Academic,Performance Optimization,Medium,Video
+814,Intermediate,Web Development,1-2 hours,74,Academic,Node.js,Medium,Article
+815,Beginner,Python,1-2 hours,69,Academic,Python Basic,Easy,Article
+816,Intermediate,Mobile Development,4-6 hours,77,Hobby,Flutter/Dart,Easy,Interactive
+817,Intermediate,Machine Learning,4-6 hours,98,Hobby,Model Evaluation,Easy,Interactive
+818,Beginner,Machine Learning,1-2 hours,64,Hobby,Python for ML,Easy,Article
+819,Advanced,Web Development,2-4 hours,96,Career,Performance Optimization,Hard,Video
+820,Advanced,Mobile Development,2-4 hours,57,Academic,Cross-platform Architecture,Easy,Video
+821,Advanced,Python,6+ hours,90,Academic,Optimization,Medium,Book
+822,Advanced,Mobile Development,1-2 hours,88,Career,Native Modules,Hard,Article
+823,Advanced,Python,1-2 hours,53,Career,Decorators & Generators,Easy,Article
+824,Intermediate,Machine Learning,6+ hours,57,Academic,Scikit-learn,Easy,Book
+825,Intermediate,Web Development,2-4 hours,94,Career,APIs & Backend,Hard,Video
+826,Intermediate,Machine Learning,1-2 hours,92,Academic,Model Evaluation,Medium,Article
+827,Advanced,Mobile Development,2-4 hours,76,Career,Performance Optimization,Hard,Video
+828,Advanced,Mobile Development,1-2 hours,68,Career,Cross-platform Architecture,Easy,Article
+829,Beginner,Machine Learning,2-4 hours,88,Hobby,ML Fundamentals,Easy,Video
+830,Intermediate,Mobile Development,2-4 hours,72,Certifications,Flutter/Dart,Medium,Video
+831,Intermediate,Web Development,1-2 hours,85,Certifications,APIs & Backend,Medium,Article
+832,Beginner,Machine Learning,4-6 hours,65,Career,Python for ML,Easy,Interactive
+833,Beginner,Python,1-2 hours,86,Certifications,Functions and Modules,Easy,Article
+834,Beginner,Python,1-2 hours,96,Career,Functions and Modules,Hard,Article
+835,Intermediate,Web Development,6+ hours,68,Academic,React.js,Easy,Book
+836,Intermediate,Python,1-2 hours,61,Career,Data Structures,Easy,Article
+837,Intermediate,Data Science,4-6 hours,77,Career,ML Basics,Medium,Interactive
+838,Beginner,Python,1-2 hours,58,Hobby,Python Basic,Easy,Article
+839,Intermediate,Data Science,6+ hours,89,Academic,SQL for Data,Medium,Book
+840,Advanced,Python,4-6 hours,71,Hobby,System Design,Easy,Interactive
+841,Beginner,Machine Learning,6+ hours,79,Academic,Math for ML,Medium,Book
+842,Intermediate,Machine Learning,6+ hours,91,Hobby,Model Evaluation,Easy,Book
+843,Beginner,Web Development,1-2 hours,60,Career,HTML/CSS Basics,Easy,Article
+844,Intermediate,Mobile Development,6+ hours,86,Certifications,App State Management,Medium,Book
+845,Beginner,Mobile Development,6+ hours,99,Academic,UI/UX,Medium,Book
+846,Advanced,Python,2-4 hours,80,Certifications,System Design,Hard,Video
+847,Beginner,Machine Learning,6+ hours,52,Career,Python for ML,Easy,Book
+848,Intermediate,Data Science,1-2 hours,95,Hobby,SQL for Data,Easy,Article
+849,Advanced,Data Science,1-2 hours,77,Hobby,Big Data Tools,Easy,Article
+850,Intermediate,Data Science,6+ hours,59,Career,Pandas & Data Cleaning,Easy,Book
+851,Beginner,Web Development,6+ hours,81,Hobby,JavaScript Basics,Easy,Book
+852,Beginner,Machine Learning,4-6 hours,65,Academic,Python for ML,Easy,Interactive
+853,Intermediate,Python,2-4 hours,85,Certifications,Web Scraping,Medium,Video
+854,Intermediate,Web Development,1-2 hours,79,Certifications,Node.js,Medium,Article
+855,Advanced,Machine Learning,1-2 hours,81,Certifications,Reinforcement Learning,Hard,Article
+856,Intermediate,Python,6+ hours,97,Career,Web Scraping,Hard,Book
+857,Beginner,Machine Learning,6+ hours,52,Career,Python for ML,Easy,Book
+858,Beginner,Mobile Development,4-6 hours,82,Hobby,Programming Fundamentals,Easy,Interactive
+859,Advanced,Machine Learning,4-6 hours,73,Career,Reinforcement Learning,Hard,Interactive
+860,Beginner,Machine Learning,4-6 hours,85,Certifications,ML Fundamentals,Easy,Interactive
+861,Advanced,Data Science,6+ hours,57,Career,Deep Learning,Easy,Book
+862,Advanced,Web Development,1-2 hours,71,Academic,Microservices,Medium,Article
+863,Advanced,Data Science,4-6 hours,94,Career,Advanced Visualization,Hard,Interactive
+864,Beginner,Web Development,6+ hours,58,Certifications,HTML/CSS Basics,Easy,Book
+865,Beginner,Data Science,2-4 hours,62,Career,Statistics Basics,Easy,Video
+866,Intermediate,Web Development,6+ hours,100,Hobby,APIs & Backend,Easy,Book
+867,Advanced,Data Science,1-2 hours,98,Certifications,Advanced Visualization,Hard,Article
+868,Beginner,Mobile Development,1-2 hours,99,Certifications,UI/UX,Easy,Article
+869,Intermediate,Mobile Development,2-4 hours,81,Career,Flutter/Dart,Hard,Video
+870,Advanced,Python,6+ hours,87,Certifications,Optimization,Hard,Book
+871,Advanced,Web Development,2-4 hours,96,Hobby,Performance Optimization,Easy,Video
+872,Beginner,Machine Learning,4-6 hours,82,Certifications,Math for ML,Easy,Interactive
+873,Intermediate,Mobile Development,2-4 hours,67,Certifications,React Native,Easy,Video
+874,Intermediate,Data Science,6+ hours,58,Hobby,Pandas & Data Cleaning,Easy,Book
+875,Intermediate,Mobile Development,4-6 hours,94,Academic,App State Management,Medium,Interactive
+876,Advanced,Mobile Development,2-4 hours,62,Hobby,Cross-platform Architecture,Easy,Video
+877,Advanced,Data Science,4-6 hours,93,Hobby,Advanced Visualization,Easy,Interactive
+878,Advanced,Web Development,4-6 hours,95,Career,Performance Optimization,Hard,Interactive
+879,Intermediate,Mobile Development,6+ hours,87,Certifications,App State Management,Medium,Book
+880,Advanced,Mobile Development,4-6 hours,77,Career,Performance Optimization,Hard,Interactive
+881,Advanced,Python,1-2 hours,74,Hobby,System Design,Easy,Article
+882,Beginner,Python,2-4 hours,67,Hobby,Python Basic,Easy,Video
+883,Intermediate,Data Science,2-4 hours,53,Academic,Pandas & Data Cleaning,Easy,Video
+884,Beginner,Mobile Development,1-2 hours,72,Certifications,Programming Fundamentals,Easy,Article
+885,Beginner,Mobile Development,2-4 hours,97,Certifications,UI/UX,Easy,Video
+886,Beginner,Mobile Development,4-6 hours,94,Career,UI/UX,Hard,Interactive
+887,Intermediate,Machine Learning,6+ hours,100,Academic,Model Evaluation,Medium,Book
+888,Advanced,Python,1-2 hours,97,Academic,Optimization,Medium,Article
+889,Beginner,Mobile Development,6+ hours,64,Academic,App Design Basics,Easy,Book
+890,Advanced,Mobile Development,2-4 hours,99,Hobby,Native Modules,Easy,Video
+891,Intermediate,Machine Learning,2-4 hours,93,Career,Model Evaluation,Hard,Video
+892,Beginner,Web Development,1-2 hours,74,Career,JavaScript Basics,Easy,Article
+893,Intermediate,Data Science,4-6 hours,58,Hobby,Pandas & Data Cleaning,Easy,Interactive
+894,Advanced,Data Science,1-2 hours,71,Certifications,Big Data Tools,Hard,Article
+895,Advanced,Web Development,1-2 hours,59,Academic,Full Stack Architecture,Easy,Article
+896,Advanced,Python,4-6 hours,81,Academic,System Design,Medium,Interactive
+897,Beginner,Data Science,2-4 hours,61,Career,Statistics Basics,Easy,Video
+898,Advanced,Web Development,6+ hours,84,Certifications,Microservices,Hard,Book
+899,Beginner,Data Science,2-4 hours,63,Academic,Statistics Basics,Easy,Video
+900,Intermediate,Data Science,4-6 hours,63,Certifications,Pandas & Data Cleaning,Easy,Interactive
+901,Advanced,Python,1-2 hours,92,Academic,Optimization,Medium,Article
+902,Intermediate,Web Development,2-4 hours,52,Academic,React.js,Easy,Video
+903,Intermediate,Python,6+ hours,66,Academic,Data Structures,Easy,Book
+904,Beginner,Mobile Development,4-6 hours,82,Certifications,Programming Fundamentals,Easy,Interactive
+905,Intermediate,Python,4-6 hours,91,Hobby,Web Scraping,Easy,Interactive
+906,Intermediate,Mobile Development,1-2 hours,56,Hobby,React Native,Easy,Article
+907,Advanced,Mobile Development,1-2 hours,90,Career,Native Modules,Hard,Article
+908,Beginner,Web Development,6+ hours,56,Hobby,HTML/CSS Basics,Easy,Book
+909,Advanced,Machine Learning,1-2 hours,97,Hobby,Model Deployment,Easy,Article
+910,Beginner,Machine Learning,4-6 hours,52,Career,Python for ML,Easy,Interactive
+911,Beginner,Python,2-4 hours,100,Academic,Functions and Modules,Medium,Video
+912,Advanced,Python,2-4 hours,66,Certifications,Decorators & Generators,Easy,Video
+913,Intermediate,Machine Learning,6+ hours,77,Academic,Feature Engineering,Medium,Book
+914,Beginner,Machine Learning,1-2 hours,84,Career,Math for ML,Hard,Article
+915,Advanced,Mobile Development,1-2 hours,98,Career,Native Modules,Hard,Article
+916,Advanced,Python,4-6 hours,82,Career,System Design,Hard,Interactive
+917,Intermediate,Data Science,1-2 hours,68,Certifications,Pandas & Data Cleaning,Easy,Article
+918,Intermediate,Machine Learning,1-2 hours,80,Hobby,Feature Engineering,Easy,Article
+919,Advanced,Web Development,2-4 hours,97,Certifications,Performance Optimization,Hard,Video
+920,Advanced,Data Science,2-4 hours,69,Academic,Deep Learning,Easy,Video
+921,Beginner,Mobile Development,2-4 hours,57,Career,App Design Basics,Easy,Video
+922,Beginner,Mobile Development,6+ hours,84,Career,Programming Fundamentals,Hard,Book
+923,Intermediate,Web Development,4-6 hours,63,Certifications,React.js,Easy,Interactive
+924,Advanced,Mobile Development,2-4 hours,60,Hobby,Cross-platform Architecture,Easy,Video
+925,Beginner,Mobile Development,4-6 hours,62,Career,App Design Basics,Easy,Interactive
+926,Beginner,Mobile Development,1-2 hours,98,Certifications,UI/UX,Easy,Article
+927,Advanced,Mobile Development,1-2 hours,68,Career,Cross-platform Architecture,Easy,Article
+928,Intermediate,Python,2-4 hours,96,Certifications,Web Scraping,Medium,Video
+929,Intermediate,Data Science,2-4 hours,92,Hobby,SQL for Data,Easy,Video
+930,Beginner,Data Science,1-2 hours,62,Academic,Statistics Basics,Easy,Article
+931,Intermediate,Machine Learning,4-6 hours,89,Academic,Model Evaluation,Medium,Interactive
+932,Advanced,Mobile Development,2-4 hours,86,Academic,Native Modules,Medium,Video
+933,Intermediate,Machine Learning,2-4 hours,50,Academic,Scikit-learn,Easy,Video
+934,Beginner,Web Development,6+ hours,67,Academic,HTML/CSS Basics,Easy,Book
+935,Beginner,Data Science,6+ hours,79,Certifications,Python for Data,Easy,Book
+936,Intermediate,Data Science,6+ hours,85,Career,SQL for Data,Hard,Book
+937,Beginner,Mobile Development,1-2 hours,67,Hobby,App Design Basics,Easy,Article
+938,Advanced,Web Development,4-6 hours,96,Career,Performance Optimization,Hard,Interactive
+939,Advanced,Python,1-2 hours,82,Career,System Design,Hard,Article
+940,Advanced,Mobile Development,6+ hours,99,Hobby,Native Modules,Easy,Book
+941,Beginner,Mobile Development,4-6 hours,84,Certifications,Programming Fundamentals,Easy,Interactive
+942,Advanced,Web Development,4-6 hours,75,Hobby,Microservices,Easy,Interactive
+943,Advanced,Data Science,2-4 hours,79,Career,Big Data Tools,Hard,Video
+944,Intermediate,Data Science,1-2 hours,92,Hobby,SQL for Data,Easy,Article
+945,Advanced,Web Development,2-4 hours,78,Hobby,Microservices,Easy,Video
+946,Beginner,Mobile Development,2-4 hours,97,Certifications,UI/UX,Easy,Video
+947,Intermediate,Python,2-4 hours,98,Certifications,Web Scraping,Medium,Video
+948,Beginner,Python,4-6 hours,73,Hobby,Control Flow,Easy,Interactive
+949,Beginner,Web Development,4-6 hours,74,Certifications,JavaScript Basics,Easy,Interactive
+950,Intermediate,Python,1-2 hours,91,Academic,Web Scraping,Medium,Article
+951,Beginner,Mobile Development,4-6 hours,97,Academic,UI/UX,Medium,Interactive
+952,Advanced,Mobile Development,2-4 hours,74,Certifications,Performance Optimization,Hard,Video
+953,Intermediate,Mobile Development,1-2 hours,83,Academic,Flutter/Dart,Medium,Article
+954,Intermediate,Web Development,6+ hours,72,Academic,Node.js,Medium,Book
+955,Intermediate,Machine Learning,1-2 hours,82,Hobby,Feature Engineering,Easy,Article
+956,Intermediate,Web Development,2-4 hours,54,Academic,React.js,Easy,Video
+957,Beginner,Web Development,2-4 hours,60,Academic,HTML/CSS Basics,Easy,Video
+958,Advanced,Python,2-4 hours,76,Academic,System Design,Medium,Video
+959,Advanced,Python,6+ hours,93,Certifications,Optimization,Hard,Book
+960,Intermediate,Web Development,2-4 hours,91,Certifications,APIs & Backend,Medium,Video
+961,Beginner,Web Development,1-2 hours,58,Hobby,HTML/CSS Basics,Easy,Article
+962,Beginner,Mobile Development,1-2 hours,86,Hobby,UI/UX,Easy,Article
+963,Beginner,Web Development,4-6 hours,61,Certifications,HTML/CSS Basics,Easy,Interactive
+964,Advanced,Mobile Development,1-2 hours,96,Academic,Native Modules,Medium,Article
+965,Beginner,Web Development,6+ hours,88,Certifications,Responsive Design,Easy,Book
+966,Intermediate,Web Development,2-4 hours,76,Hobby,Node.js,Easy,Video
+967,Advanced,Web Development,4-6 hours,60,Academic,Full Stack Architecture,Easy,Interactive
+968,Intermediate,Mobile Development,1-2 hours,64,Certifications,React Native,Easy,Article
+969,Intermediate,Web Development,1-2 hours,51,Hobby,React.js,Easy,Article
+970,Advanced,Mobile Development,6+ hours,59,Career,Cross-platform Architecture,Easy,Book
+971,Beginner,Machine Learning,1-2 hours,100,Career,ML Fundamentals,Hard,Article
+972,Beginner,Machine Learning,2-4 hours,88,Career,ML Fundamentals,Hard,Video
+973,Advanced,Machine Learning,6+ hours,73,Career,Reinforcement Learning,Hard,Book
+974,Advanced,Mobile Development,6+ hours,64,Certifications,Cross-platform Architecture,Easy,Book
+975,Intermediate,Data Science,1-2 hours,77,Hobby,ML Basics,Easy,Article
+976,Intermediate,Machine Learning,2-4 hours,55,Academic,Scikit-learn,Easy,Video
+977,Advanced,Mobile Development,6+ hours,66,Hobby,Cross-platform Architecture,Easy,Book
+978,Beginner,Python,1-2 hours,83,Career,Control Flow,Hard,Article
+979,Intermediate,Web Development,4-6 hours,76,Academic,Node.js,Medium,Interactive
+980,Beginner,Web Development,6+ hours,91,Academic,Responsive Design,Medium,Book
+981,Intermediate,Mobile Development,6+ hours,86,Academic,App State Management,Medium,Book
+982,Advanced,Data Science,6+ hours,98,Hobby,Advanced Visualization,Easy,Book
+983,Intermediate,Mobile Development,6+ hours,61,Academic,React Native,Easy,Book
+984,Advanced,Mobile Development,6+ hours,66,Academic,Cross-platform Architecture,Easy,Book
+985,Advanced,Data Science,6+ hours,97,Hobby,Advanced Visualization,Easy,Book
+986,Advanced,Python,2-4 hours,78,Hobby,System Design,Easy,Video
+987,Beginner,Web Development,6+ hours,100,Academic,Responsive Design,Medium,Book
+988,Advanced,Mobile Development,1-2 hours,60,Certifications,Cross-platform Architecture,Easy,Article
+989,Advanced,Python,1-2 hours,59,Certifications,Decorators & Generators,Easy,Article
+990,Advanced,Machine Learning,1-2 hours,54,Academic,Neural Networks,Easy,Article
+991,Beginner,Data Science,1-2 hours,88,Career,Data Visualization,Hard,Article
+992,Advanced,Machine Learning,6+ hours,89,Academic,Model Deployment,Medium,Book
+993,Advanced,Mobile Development,1-2 hours,99,Hobby,Native Modules,Easy,Article
+994,Advanced,Machine Learning,6+ hours,50,Hobby,Neural Networks,Easy,Book
+995,Advanced,Mobile Development,4-6 hours,62,Career,Cross-platform Architecture,Easy,Interactive
+996,Advanced,Mobile Development,2-4 hours,89,Hobby,Native Modules,Easy,Video
+997,Advanced,Python,4-6 hours,65,Career,Decorators & Generators,Easy,Interactive
+998,Beginner,Python,4-6 hours,99,Certifications,Functions and Modules,Easy,Interactive
+999,Intermediate,Machine Learning,6+ hours,87,Hobby,Model Evaluation,Easy,Book
+1000,Advanced,Python,1-2 hours,55,Academic,Decorators & Generators,Easy,Article
+1001,Advanced,Mobile Development,4-6 hours,72,Academic,Performance Optimization,Medium,Interactive
+1002,Beginner,Mobile Development,2-4 hours,79,Certifications,Programming Fundamentals,Easy,Video
+1003,Advanced,Python,4-6 hours,61,Certifications,Decorators & Generators,Easy,Interactive
+1004,Advanced,Python,1-2 hours,82,Academic,System Design,Medium,Article
+1005,Intermediate,Python,4-6 hours,84,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+1006,Advanced,Machine Learning,6+ hours,86,Certifications,Model Deployment,Hard,Book
+1007,Beginner,Data Science,6+ hours,93,Certifications,Data Visualization,Easy,Book
+1008,Advanced,Python,6+ hours,57,Academic,Decorators & Generators,Easy,Book
+1009,Beginner,Machine Learning,2-4 hours,93,Hobby,ML Fundamentals,Easy,Video
+1010,Intermediate,Machine Learning,4-6 hours,83,Career,Feature Engineering,Hard,Interactive
+1011,Advanced,Data Science,2-4 hours,68,Career,Deep Learning,Easy,Video
+1012,Intermediate,Data Science,1-2 hours,85,Hobby,SQL for Data,Easy,Article
+1013,Intermediate,Data Science,4-6 hours,63,Academic,Pandas & Data Cleaning,Easy,Interactive
+1014,Beginner,Web Development,6+ hours,97,Hobby,Responsive Design,Easy,Book
+1015,Beginner,Web Development,4-6 hours,63,Hobby,HTML/CSS Basics,Easy,Interactive
+1016,Beginner,Web Development,4-6 hours,59,Career,HTML/CSS Basics,Easy,Interactive
+1017,Beginner,Python,6+ hours,89,Career,Functions and Modules,Hard,Book
+1018,Advanced,Python,6+ hours,73,Academic,System Design,Medium,Book
+1019,Intermediate,Mobile Development,4-6 hours,81,Hobby,Flutter/Dart,Easy,Interactive
+1020,Advanced,Data Science,6+ hours,64,Hobby,Deep Learning,Easy,Book
+1021,Beginner,Mobile Development,6+ hours,80,Career,Programming Fundamentals,Hard,Book
+1022,Advanced,Data Science,6+ hours,93,Hobby,Advanced Visualization,Easy,Book
+1023,Intermediate,Python,6+ hours,70,Career,Libraries (Pandas/NumPy),Medium,Book
+1024,Beginner,Web Development,6+ hours,87,Career,Responsive Design,Hard,Book
+1025,Intermediate,Data Science,4-6 hours,61,Academic,Pandas & Data Cleaning,Easy,Interactive
+1026,Beginner,Data Science,6+ hours,89,Academic,Data Visualization,Medium,Book
+1027,Intermediate,Web Development,6+ hours,77,Hobby,Node.js,Easy,Book
+1028,Intermediate,Data Science,4-6 hours,75,Academic,ML Basics,Medium,Interactive
+1029,Intermediate,Web Development,2-4 hours,86,Hobby,APIs & Backend,Easy,Video
+1030,Beginner,Data Science,2-4 hours,85,Certifications,Data Visualization,Easy,Video
+1031,Intermediate,Web Development,2-4 hours,97,Hobby,APIs & Backend,Easy,Video
+1032,Intermediate,Python,2-4 hours,76,Certifications,Libraries (Pandas/NumPy),Medium,Video
+1033,Beginner,Mobile Development,4-6 hours,100,Certifications,UI/UX,Easy,Interactive
+1034,Intermediate,Data Science,1-2 hours,75,Career,ML Basics,Medium,Article
+1035,Advanced,Web Development,1-2 hours,63,Academic,Full Stack Architecture,Easy,Article
+1036,Intermediate,Python,6+ hours,97,Academic,Web Scraping,Medium,Book
+1037,Intermediate,Data Science,4-6 hours,85,Academic,SQL for Data,Medium,Interactive
+1038,Intermediate,Python,6+ hours,57,Academic,Data Structures,Easy,Book
+1039,Advanced,Mobile Development,2-4 hours,86,Hobby,Native Modules,Easy,Video
+1040,Intermediate,Data Science,4-6 hours,93,Certifications,SQL for Data,Medium,Interactive
+1041,Advanced,Machine Learning,1-2 hours,74,Academic,Reinforcement Learning,Medium,Article
+1042,Intermediate,Web Development,2-4 hours,90,Academic,APIs & Backend,Medium,Video
+1043,Intermediate,Mobile Development,6+ hours,54,Career,React Native,Easy,Book
+1044,Beginner,Data Science,2-4 hours,70,Academic,Python for Data,Medium,Video
+1045,Advanced,Data Science,4-6 hours,88,Certifications,Advanced Visualization,Hard,Interactive
+1046,Intermediate,Machine Learning,4-6 hours,97,Certifications,Model Evaluation,Medium,Interactive
+1047,Intermediate,Web Development,2-4 hours,51,Hobby,React.js,Easy,Video
+1048,Advanced,Web Development,4-6 hours,97,Career,Performance Optimization,Hard,Interactive
+1049,Beginner,Web Development,6+ hours,56,Career,HTML/CSS Basics,Easy,Book
+1050,Beginner,Machine Learning,1-2 hours,51,Certifications,Python for ML,Easy,Article
+1051,Advanced,Python,1-2 hours,66,Hobby,Decorators & Generators,Easy,Article
+1052,Beginner,Machine Learning,4-6 hours,64,Hobby,Python for ML,Easy,Interactive
+1053,Advanced,Data Science,6+ hours,90,Hobby,Advanced Visualization,Easy,Book
+1054,Beginner,Mobile Development,2-4 hours,51,Career,App Design Basics,Easy,Video
+1055,Advanced,Data Science,4-6 hours,80,Certifications,Big Data Tools,Hard,Interactive
+1056,Advanced,Data Science,6+ hours,58,Hobby,Deep Learning,Easy,Book
+1057,Advanced,Mobile Development,6+ hours,90,Certifications,Native Modules,Hard,Book
+1058,Advanced,Mobile Development,4-6 hours,72,Certifications,Performance Optimization,Hard,Interactive
+1059,Advanced,Web Development,1-2 hours,78,Academic,Microservices,Medium,Article
+1060,Intermediate,Machine Learning,4-6 hours,59,Academic,Scikit-learn,Easy,Interactive
+1061,Beginner,Python,2-4 hours,72,Academic,Control Flow,Medium,Video
+1062,Intermediate,Mobile Development,1-2 hours,94,Certifications,App State Management,Medium,Article
+1063,Intermediate,Data Science,1-2 hours,99,Certifications,SQL for Data,Medium,Article
+1064,Intermediate,Mobile Development,2-4 hours,100,Career,App State Management,Hard,Video
+1065,Advanced,Data Science,2-4 hours,76,Certifications,Big Data Tools,Hard,Video
+1066,Intermediate,Web Development,2-4 hours,95,Certifications,APIs & Backend,Medium,Video
+1067,Intermediate,Web Development,4-6 hours,55,Certifications,React.js,Easy,Interactive
+1068,Advanced,Web Development,4-6 hours,68,Academic,Full Stack Architecture,Easy,Interactive
+1069,Intermediate,Web Development,1-2 hours,61,Hobby,React.js,Easy,Article
+1070,Intermediate,Python,6+ hours,89,Certifications,Web Scraping,Medium,Book
+1071,Intermediate,Mobile Development,6+ hours,62,Academic,React Native,Easy,Book
+1072,Beginner,Web Development,1-2 hours,84,Career,JavaScript Basics,Hard,Article
+1073,Beginner,Python,4-6 hours,67,Hobby,Python Basic,Easy,Interactive
+1074,Advanced,Machine Learning,1-2 hours,64,Career,Neural Networks,Easy,Article
+1075,Beginner,Python,6+ hours,63,Academic,Python Basic,Easy,Book
+1076,Intermediate,Data Science,6+ hours,73,Certifications,ML Basics,Medium,Book
+1077,Advanced,Python,4-6 hours,55,Hobby,Decorators & Generators,Easy,Interactive
+1078,Beginner,Data Science,6+ hours,54,Certifications,Statistics Basics,Easy,Book
+1079,Beginner,Web Development,4-6 hours,74,Career,JavaScript Basics,Easy,Interactive
+1080,Beginner,Web Development,6+ hours,99,Certifications,Responsive Design,Easy,Book
+1081,Beginner,Python,2-4 hours,79,Career,Control Flow,Easy,Video
+1082,Advanced,Web Development,6+ hours,74,Academic,Microservices,Medium,Book
+1083,Intermediate,Web Development,1-2 hours,97,Career,APIs & Backend,Hard,Article
+1084,Intermediate,Machine Learning,4-6 hours,62,Academic,Scikit-learn,Easy,Interactive
+1085,Beginner,Web Development,1-2 hours,65,Certifications,HTML/CSS Basics,Easy,Article
+1086,Intermediate,Python,2-4 hours,100,Academic,Web Scraping,Medium,Video
+1087,Advanced,Python,6+ hours,100,Hobby,Optimization,Easy,Book
+1088,Beginner,Python,6+ hours,94,Hobby,Functions and Modules,Easy,Book
+1089,Intermediate,Python,2-4 hours,60,Certifications,Data Structures,Easy,Video
+1090,Beginner,Mobile Development,4-6 hours,98,Career,UI/UX,Hard,Interactive
+1091,Beginner,Data Science,2-4 hours,94,Career,Data Visualization,Hard,Video
+1092,Beginner,Machine Learning,2-4 hours,70,Academic,Math for ML,Medium,Video
+1093,Intermediate,Web Development,1-2 hours,94,Certifications,APIs & Backend,Medium,Article
+1094,Intermediate,Web Development,4-6 hours,52,Certifications,React.js,Easy,Interactive
+1095,Advanced,Machine Learning,4-6 hours,84,Certifications,Reinforcement Learning,Hard,Interactive
+1096,Beginner,Mobile Development,2-4 hours,84,Academic,Programming Fundamentals,Medium,Video
+1097,Intermediate,Machine Learning,4-6 hours,88,Hobby,Model Evaluation,Easy,Interactive
+1098,Beginner,Mobile Development,2-4 hours,78,Academic,Programming Fundamentals,Medium,Video
+1099,Intermediate,Mobile Development,4-6 hours,79,Career,Flutter/Dart,Medium,Interactive
+1100,Advanced,Mobile Development,6+ hours,96,Hobby,Native Modules,Easy,Book
+1101,Beginner,Mobile Development,4-6 hours,99,Hobby,UI/UX,Easy,Interactive
+1102,Intermediate,Python,6+ hours,62,Certifications,Data Structures,Easy,Book
+1103,Advanced,Web Development,4-6 hours,70,Certifications,Microservices,Hard,Interactive
+1104,Advanced,Data Science,1-2 hours,56,Career,Deep Learning,Easy,Article
+1105,Beginner,Web Development,2-4 hours,52,Hobby,HTML/CSS Basics,Easy,Video
+1106,Beginner,Machine Learning,2-4 hours,56,Career,Python for ML,Easy,Video
+1107,Advanced,Machine Learning,6+ hours,83,Academic,Reinforcement Learning,Medium,Book
+1108,Beginner,Data Science,2-4 hours,88,Career,Data Visualization,Hard,Video
+1109,Beginner,Web Development,6+ hours,55,Certifications,HTML/CSS Basics,Easy,Book
+1110,Advanced,Python,4-6 hours,85,Certifications,Optimization,Hard,Interactive
+1111,Intermediate,Python,4-6 hours,83,Career,Libraries (Pandas/NumPy),Hard,Interactive
+1112,Advanced,Python,4-6 hours,54,Hobby,Decorators & Generators,Easy,Interactive
+1113,Advanced,Python,1-2 hours,96,Hobby,Optimization,Easy,Article
+1114,Advanced,Machine Learning,2-4 hours,62,Hobby,Neural Networks,Easy,Video
+1115,Advanced,Web Development,6+ hours,97,Career,Performance Optimization,Hard,Book
+1116,Advanced,Mobile Development,4-6 hours,93,Certifications,Native Modules,Hard,Interactive
+1117,Advanced,Machine Learning,1-2 hours,60,Hobby,Neural Networks,Easy,Article
+1118,Advanced,Machine Learning,4-6 hours,92,Hobby,Model Deployment,Easy,Interactive
+1119,Advanced,Mobile Development,6+ hours,72,Academic,Performance Optimization,Medium,Book
+1120,Advanced,Data Science,4-6 hours,76,Certifications,Big Data Tools,Hard,Interactive
+1121,Advanced,Data Science,2-4 hours,86,Hobby,Advanced Visualization,Easy,Video
+1122,Intermediate,Mobile Development,4-6 hours,73,Certifications,Flutter/Dart,Medium,Interactive
+1123,Intermediate,Machine Learning,1-2 hours,96,Career,Model Evaluation,Hard,Article
+1124,Intermediate,Mobile Development,1-2 hours,83,Hobby,Flutter/Dart,Easy,Article
+1125,Intermediate,Python,4-6 hours,64,Hobby,Data Structures,Easy,Interactive
+1126,Intermediate,Python,4-6 hours,85,Hobby,Web Scraping,Easy,Interactive
+1127,Beginner,Python,6+ hours,72,Hobby,Control Flow,Easy,Book
+1128,Beginner,Data Science,4-6 hours,87,Hobby,Data Visualization,Easy,Interactive
+1129,Beginner,Data Science,4-6 hours,55,Certifications,Statistics Basics,Easy,Interactive
+1130,Advanced,Web Development,1-2 hours,96,Academic,Performance Optimization,Medium,Article
+1131,Intermediate,Web Development,6+ hours,94,Career,APIs & Backend,Hard,Book
+1132,Advanced,Data Science,1-2 hours,96,Certifications,Advanced Visualization,Hard,Article
+1133,Beginner,Python,4-6 hours,72,Certifications,Control Flow,Easy,Interactive
+1134,Intermediate,Python,2-4 hours,97,Career,Web Scraping,Hard,Video
+1135,Advanced,Machine Learning,1-2 hours,69,Career,Neural Networks,Easy,Article
+1136,Intermediate,Mobile Development,2-4 hours,70,Hobby,Flutter/Dart,Easy,Video
+1137,Beginner,Python,6+ hours,78,Career,Control Flow,Easy,Book
+1138,Beginner,Machine Learning,4-6 hours,100,Certifications,ML Fundamentals,Easy,Interactive
+1139,Beginner,Web Development,4-6 hours,55,Certifications,HTML/CSS Basics,Easy,Interactive
+1140,Advanced,Python,6+ hours,66,Career,Decorators & Generators,Easy,Book
+1141,Intermediate,Mobile Development,6+ hours,99,Hobby,App State Management,Easy,Book
+1142,Beginner,Machine Learning,2-4 hours,81,Certifications,Math for ML,Easy,Video
+1143,Advanced,Mobile Development,2-4 hours,85,Hobby,Native Modules,Easy,Video
+1144,Beginner,Python,4-6 hours,99,Certifications,Functions and Modules,Easy,Interactive
+1145,Intermediate,Mobile Development,1-2 hours,57,Certifications,React Native,Easy,Article
+1146,Intermediate,Data Science,4-6 hours,62,Academic,Pandas & Data Cleaning,Easy,Interactive
+1147,Intermediate,Mobile Development,1-2 hours,99,Academic,App State Management,Medium,Article
+1148,Beginner,Data Science,6+ hours,89,Hobby,Data Visualization,Easy,Book
+1149,Intermediate,Python,2-4 hours,62,Academic,Data Structures,Easy,Video
+1150,Beginner,Python,1-2 hours,97,Career,Functions and Modules,Hard,Article
+1151,Beginner,Mobile Development,2-4 hours,68,Career,App Design Basics,Easy,Video
+1152,Intermediate,Python,4-6 hours,78,Certifications,Libraries (Pandas/NumPy),Medium,Interactive
+1153,Beginner,Data Science,2-4 hours,97,Hobby,Data Visualization,Easy,Video
+1154,Beginner,Mobile Development,4-6 hours,85,Certifications,UI/UX,Easy,Interactive
+1155,Advanced,Web Development,1-2 hours,74,Career,Microservices,Hard,Article
+1156,Intermediate,Web Development,1-2 hours,68,Hobby,React.js,Easy,Article
+1157,Advanced,Mobile Development,4-6 hours,53,Certifications,Cross-platform Architecture,Easy,Interactive
+1158,Advanced,Python,1-2 hours,74,Academic,System Design,Medium,Article
+1159,Advanced,Data Science,1-2 hours,51,Academic,Deep Learning,Easy,Article
+1160,Advanced,Machine Learning,2-4 hours,74,Career,Reinforcement Learning,Hard,Video
+1161,Intermediate,Machine Learning,1-2 hours,61,Hobby,Scikit-learn,Easy,Article
+1162,Advanced,Machine Learning,1-2 hours,52,Hobby,Neural Networks,Easy,Article
+1163,Advanced,Data Science,4-6 hours,81,Certifications,Big Data Tools,Hard,Interactive
+1164,Advanced,Web Development,1-2 hours,72,Academic,Microservices,Medium,Article
+1165,Intermediate,Data Science,2-4 hours,82,Academic,ML Basics,Medium,Video
+1166,Beginner,Data Science,6+ hours,51,Academic,Statistics Basics,Easy,Book
+1167,Beginner,Web Development,4-6 hours,75,Hobby,JavaScript Basics,Easy,Interactive
+1168,Beginner,Machine Learning,2-4 hours,76,Hobby,Math for ML,Easy,Video
+1169,Advanced,Web Development,6+ hours,69,Academic,Full Stack Architecture,Easy,Book
+1170,Intermediate,Mobile Development,2-4 hours,63,Hobby,React Native,Easy,Video
+1171,Advanced,Mobile Development,2-4 hours,58,Academic,Cross-platform Architecture,Easy,Video
+1172,Advanced,Mobile Development,2-4 hours,77,Hobby,Performance Optimization,Easy,Video
+1173,Advanced,Mobile Development,2-4 hours,70,Career,Performance Optimization,Hard,Video
+1174,Advanced,Mobile Development,1-2 hours,61,Academic,Cross-platform Architecture,Easy,Article
+1175,Beginner,Python,4-6 hours,76,Certifications,Control Flow,Easy,Interactive
+1176,Intermediate,Machine Learning,4-6 hours,59,Hobby,Scikit-learn,Easy,Interactive
+1177,Beginner,Web Development,2-4 hours,51,Academic,HTML/CSS Basics,Easy,Video
+1178,Advanced,Mobile Development,2-4 hours,88,Hobby,Native Modules,Easy,Video
+1179,Beginner,Python,4-6 hours,55,Certifications,Python Basic,Easy,Interactive
+1180,Beginner,Mobile Development,6+ hours,95,Academic,UI/UX,Medium,Book
+1181,Beginner,Machine Learning,6+ hours,80,Hobby,Math for ML,Easy,Book
+1182,Beginner,Web Development,2-4 hours,52,Certifications,HTML/CSS Basics,Easy,Video
+1183,Beginner,Data Science,6+ hours,64,Hobby,Statistics Basics,Easy,Book
+1184,Beginner,Python,2-4 hours,78,Certifications,Control Flow,Easy,Video
+1185,Advanced,Data Science,6+ hours,65,Certifications,Deep Learning,Easy,Book
+1186,Intermediate,Python,6+ hours,96,Academic,Web Scraping,Medium,Book
+1187,Intermediate,Mobile Development,1-2 hours,83,Career,Flutter/Dart,Hard,Article
+1188,Intermediate,Machine Learning,1-2 hours,65,Certifications,Scikit-learn,Easy,Article
+1189,Advanced,Python,6+ hours,83,Career,System Design,Hard,Book
+1190,Beginner,Data Science,6+ hours,75,Academic,Python for Data,Medium,Book
+1191,Intermediate,Machine Learning,2-4 hours,77,Academic,Feature Engineering,Medium,Video
+1192,Advanced,Python,2-4 hours,79,Certifications,System Design,Hard,Video
+1193,Beginner,Mobile Development,1-2 hours,61,Hobby,App Design Basics,Easy,Article
+1194,Intermediate,Machine Learning,4-6 hours,78,Career,Feature Engineering,Medium,Interactive
+1195,Beginner,Machine Learning,2-4 hours,79,Career,Math for ML,Easy,Video
+1196,Intermediate,Data Science,2-4 hours,95,Career,SQL for Data,Hard,Video
+1197,Beginner,Python,6+ hours,90,Academic,Functions and Modules,Medium,Book
+1198,Beginner,Mobile Development,6+ hours,96,Hobby,UI/UX,Easy,Book
+1199,Intermediate,Mobile Development,6+ hours,52,Hobby,React Native,Easy,Book
+1200,Intermediate,Mobile Development,2-4 hours,60,Hobby,React Native,Easy,Video
+1201,Beginner,Python,6+ hours,69,Academic,Python Basic,Easy,Book
+1202,Advanced,Machine Learning,4-6 hours,90,Hobby,Model Deployment,Easy,Interactive
+1203,Beginner,Web Development,2-4 hours,50,Academic,HTML/CSS Basics,Easy,Video
+1204,Beginner,Machine Learning,6+ hours,81,Career,Math for ML,Hard,Book
+1205,Advanced,Machine Learning,2-4 hours,63,Certifications,Neural Networks,Easy,Video
+1206,Intermediate,Machine Learning,6+ hours,55,Career,Scikit-learn,Easy,Book
+1207,Beginner,Mobile Development,4-6 hours,89,Hobby,UI/UX,Easy,Interactive
+1208,Beginner,Web Development,2-4 hours,53,Academic,HTML/CSS Basics,Easy,Video
+1209,Beginner,Web Development,1-2 hours,92,Academic,Responsive Design,Medium,Article
+1210,Intermediate,Python,1-2 hours,56,Certifications,Data Structures,Easy,Article
+1211,Beginner,Web Development,4-6 hours,89,Hobby,Responsive Design,Easy,Interactive
+1212,Intermediate,Mobile Development,4-6 hours,52,Career,React Native,Easy,Interactive
+1213,Intermediate,Data Science,4-6 hours,74,Career,ML Basics,Medium,Interactive
+1214,Intermediate,Mobile Development,1-2 hours,68,Certifications,React Native,Easy,Article
+1215,Beginner,Python,4-6 hours,71,Certifications,Control Flow,Easy,Interactive
+1216,Advanced,Web Development,2-4 hours,89,Career,Performance Optimization,Hard,Video
+1217,Beginner,Mobile Development,1-2 hours,80,Academic,Programming Fundamentals,Medium,Article
+1218,Intermediate,Mobile Development,4-6 hours,66,Academic,React Native,Easy,Interactive
+1219,Beginner,Mobile Development,6+ hours,83,Certifications,Programming Fundamentals,Easy,Book
+1220,Intermediate,Web Development,2-4 hours,95,Academic,APIs & Backend,Medium,Video
+1221,Beginner,Python,1-2 hours,51,Certifications,Python Basic,Easy,Article
+1222,Advanced,Python,2-4 hours,89,Certifications,Optimization,Hard,Video
+1223,Intermediate,Python,4-6 hours,72,Hobby,Libraries (Pandas/NumPy),Easy,Interactive
+1224,Beginner,Web Development,4-6 hours,66,Career,HTML/CSS Basics,Easy,Interactive
+1225,Intermediate,Data Science,4-6 hours,99,Career,SQL for Data,Hard,Interactive
+1226,Beginner,Data Science,4-6 hours,75,Career,Python for Data,Easy,Interactive
+1227,Beginner,Web Development,4-6 hours,71,Certifications,JavaScript Basics,Easy,Interactive
+1228,Intermediate,Python,2-4 hours,80,Hobby,Libraries (Pandas/NumPy),Easy,Video
+1229,Advanced,Machine Learning,4-6 hours,79,Certifications,Reinforcement Learning,Hard,Interactive
+1230,Advanced,Python,4-6 hours,86,Academic,Optimization,Medium,Interactive
+1231,Advanced,Mobile Development,1-2 hours,63,Academic,Cross-platform Architecture,Easy,Article
+1232,Intermediate,Python,2-4 hours,67,Career,Data Structures,Easy,Video
+1233,Intermediate,Machine Learning,2-4 hours,86,Certifications,Model Evaluation,Medium,Video
+1234,Beginner,Mobile Development,1-2 hours,100,Academic,UI/UX,Medium,Article
+1235,Advanced,Data Science,1-2 hours,67,Certifications,Deep Learning,Easy,Article
+1236,Beginner,Machine Learning,2-4 hours,73,Certifications,Math for ML,Easy,Video
+1237,Intermediate,Web Development,4-6 hours,61,Career,React.js,Easy,Interactive
+1238,Intermediate,Python,2-4 hours,55,Certifications,Data Structures,Easy,Video
+1239,Advanced,Python,6+ hours,82,Hobby,System Design,Easy,Book
+1240,Beginner,Data Science,6+ hours,96,Academic,Data Visualization,Medium,Book
+1241,Intermediate,Web Development,1-2 hours,83,Hobby,Node.js,Easy,Article
+1242,Beginner,Python,6+ hours,74,Career,Control Flow,Easy,Book
+1243,Beginner,Data Science,1-2 hours,93,Career,Data Visualization,Hard,Article
+1244,Intermediate,Machine Learning,1-2 hours,56,Academic,Scikit-learn,Easy,Article
+1245,Beginner,Mobile Development,4-6 hours,90,Hobby,UI/UX,Easy,Interactive
+1246,Intermediate,Web Development,2-4 hours,68,Academic,React.js,Easy,Video
+1247,Advanced,Data Science,6+ hours,92,Career,Advanced Visualization,Hard,Book
+1248,Intermediate,Web Development,2-4 hours,67,Career,React.js,Easy,Video
+1249,Beginner,Mobile Development,1-2 hours,63,Academic,App Design Basics,Easy,Article
+1250,Advanced,Data Science,4-6 hours,59,Academic,Deep Learning,Easy,Interactive
+1251,Advanced,Web Development,2-4 hours,54,Academic,Full Stack Architecture,Easy,Video
+1252,Advanced,Data Science,6+ hours,53,Hobby,Deep Learning,Easy,Book
+1253,Beginner,Machine Learning,1-2 hours,56,Certifications,Python for ML,Easy,Article
+1254,Beginner,Python,6+ hours,75,Hobby,Control Flow,Easy,Book
+1255,Advanced,Mobile Development,6+ hours,89,Academic,Native Modules,Medium,Book
+1256,Intermediate,Data Science,2-4 hours,95,Career,SQL for Data,Hard,Video
+1257,Intermediate,Mobile Development,2-4 hours,55,Certifications,React Native,Easy,Video
+1258,Beginner,Machine Learning,4-6 hours,93,Certifications,ML Fundamentals,Easy,Interactive
+1259,Intermediate,Web Development,2-4 hours,59,Academic,React.js,Easy,Video
+1260,Intermediate,Machine Learning,2-4 hours,94,Academic,Model Evaluation,Medium,Video
+1261,Intermediate,Machine Learning,6+ hours,51,Career,Scikit-learn,Easy,Book
+1262,Intermediate,Python,4-6 hours,80,Certifications,Libraries (Pandas/NumPy),Medium,Interactive
+1263,Beginner,Data Science,4-6 hours,88,Hobby,Data Visualization,Easy,Interactive
+1264,Advanced,Python,6+ hours,95,Career,Optimization,Hard,Book
+1265,Intermediate,Mobile Development,1-2 hours,100,Academic,App State Management,Medium,Article
+1266,Advanced,Machine Learning,6+ hours,87,Certifications,Model Deployment,Hard,Book
+1267,Beginner,Mobile Development,2-4 hours,85,Hobby,UI/UX,Easy,Video
+1268,Intermediate,Machine Learning,1-2 hours,71,Hobby,Feature Engineering,Easy,Article
+1269,Advanced,Mobile Development,6+ hours,100,Certifications,Native Modules,Hard,Book
+1270,Advanced,Data Science,2-4 hours,61,Career,Deep Learning,Easy,Video
+1271,Advanced,Mobile Development,6+ hours,57,Certifications,Cross-platform Architecture,Easy,Book
+1272,Intermediate,Mobile Development,1-2 hours,78,Hobby,Flutter/Dart,Easy,Article
+1273,Intermediate,Machine Learning,1-2 hours,88,Career,Model Evaluation,Hard,Article
+1274,Advanced,Mobile Development,6+ hours,70,Certifications,Performance Optimization,Hard,Book
+1275,Advanced,Python,1-2 hours,63,Hobby,Decorators & Generators,Easy,Article
+1276,Advanced,Python,2-4 hours,92,Hobby,Optimization,Easy,Video
+1277,Intermediate,Mobile Development,4-6 hours,74,Certifications,Flutter/Dart,Medium,Interactive
+1278,Beginner,Web Development,4-6 hours,69,Academic,HTML/CSS Basics,Easy,Interactive
+1279,Intermediate,Data Science,1-2 hours,87,Career,SQL for Data,Hard,Article
+1280,Advanced,Mobile Development,6+ hours,58,Academic,Cross-platform Architecture,Easy,Book
+1281,Beginner,Data Science,1-2 hours,50,Academic,Statistics Basics,Easy,Article
+1282,Beginner,Data Science,1-2 hours,65,Certifications,Statistics Basics,Easy,Article
+1283,Advanced,Mobile Development,6+ hours,90,Academic,Native Modules,Medium,Book
+1284,Advanced,Machine Learning,6+ hours,74,Certifications,Reinforcement Learning,Hard,Book
+1285,Advanced,Web Development,2-4 hours,80,Hobby,Microservices,Easy,Video
+1286,Beginner,Mobile Development,6+ hours,73,Certifications,Programming Fundamentals,Easy,Book
+1287,Beginner,Data Science,2-4 hours,58,Career,Statistics Basics,Easy,Video
+1288,Beginner,Python,2-4 hours,96,Certifications,Functions and Modules,Easy,Video
+1289,Advanced,Machine Learning,2-4 hours,55,Hobby,Neural Networks,Easy,Video
+1290,Advanced,Machine Learning,6+ hours,100,Certifications,Model Deployment,Hard,Book
+1291,Advanced,Web Development,6+ hours,82,Certifications,Microservices,Hard,Book
+1292,Advanced,Machine Learning,6+ hours,72,Hobby,Reinforcement Learning,Easy,Book
+1293,Beginner,Machine Learning,1-2 hours,86,Certifications,ML Fundamentals,Easy,Article
+1294,Advanced,Web Development,4-6 hours,76,Academic,Microservices,Medium,Interactive
+1295,Beginner,Python,6+ hours,95,Academic,Functions and Modules,Medium,Book
+1296,Beginner,Mobile Development,6+ hours,94,Career,UI/UX,Hard,Book
+1297,Beginner,Mobile Development,4-6 hours,79,Career,Programming Fundamentals,Easy,Interactive
+1298,Advanced,Mobile Development,1-2 hours,65,Certifications,Cross-platform Architecture,Easy,Article
+1299,Advanced,Python,4-6 hours,89,Career,Optimization,Hard,Interactive
+1300,Intermediate,Mobile Development,1-2 hours,80,Certifications,Flutter/Dart,Medium,Article
+1301,Advanced,Machine Learning,4-6 hours,76,Academic,Reinforcement Learning,Medium,Interactive
+1302,Intermediate,Data Science,2-4 hours,52,Academic,Pandas & Data Cleaning,Easy,Video
+1303,Advanced,Mobile Development,4-6 hours,53,Certifications,Cross-platform Architecture,Easy,Interactive
+1304,Advanced,Web Development,1-2 hours,92,Academic,Performance Optimization,Medium,Article
+1305,Advanced,Mobile Development,1-2 hours,68,Certifications,Cross-platform Architecture,Easy,Article
+1306,Beginner,Web Development,1-2 hours,100,Academic,Responsive Design,Medium,Article
+1307,Intermediate,Web Development,4-6 hours,67,Academic,React.js,Easy,Interactive
+1308,Beginner,Python,2-4 hours,87,Hobby,Functions and Modules,Easy,Video
+1309,Advanced,Machine Learning,4-6 hours,61,Academic,Neural Networks,Easy,Interactive
+1310,Advanced,Web Development,6+ hours,61,Career,Full Stack Architecture,Easy,Book
+1311,Intermediate,Python,2-4 hours,88,Hobby,Web Scraping,Easy,Video
+1312,Intermediate,Machine Learning,6+ hours,65,Certifications,Scikit-learn,Easy,Book
+1313,Advanced,Web Development,2-4 hours,86,Academic,Performance Optimization,Medium,Video
+1314,Beginner,Data Science,1-2 hours,53,Hobby,Statistics Basics,Easy,Article
+1315,Intermediate,Machine Learning,6+ hours,69,Certifications,Scikit-learn,Easy,Book
+1316,Advanced,Mobile Development,2-4 hours,74,Certifications,Performance Optimization,Hard,Video
+1317,Intermediate,Data Science,2-4 hours,83,Certifications,ML Basics,Medium,Video
+1318,Beginner,Data Science,6+ hours,74,Academic,Python for Data,Medium,Book
+1319,Advanced,Python,1-2 hours,84,Academic,System Design,Medium,Article
+1320,Intermediate,Mobile Development,4-6 hours,71,Academic,Flutter/Dart,Medium,Interactive
+1321,Intermediate,Python,4-6 hours,91,Certifications,Web Scraping,Medium,Interactive
+1322,Intermediate,Web Development,2-4 hours,83,Academic,Node.js,Medium,Video
+1323,Advanced,Web Development,4-6 hours,85,Career,Performance Optimization,Hard,Interactive
+1324,Advanced,Python,1-2 hours,50,Certifications,Decorators & Generators,Easy,Article
+1325,Beginner,Mobile Development,1-2 hours,93,Certifications,UI/UX,Easy,Article
+1326,Intermediate,Web Development,4-6 hours,66,Hobby,React.js,Easy,Interactive
+1327,Beginner,Python,1-2 hours,53,Hobby,Python Basic,Easy,Article
+1328,Advanced,Python,1-2 hours,55,Hobby,Decorators & Generators,Easy,Article
+1329,Intermediate,Mobile Development,2-4 hours,57,Hobby,React Native,Easy,Video
+1330,Intermediate,Data Science,6+ hours,92,Career,SQL for Data,Hard,Book
+1331,Advanced,Machine Learning,4-6 hours,99,Certifications,Model Deployment,Hard,Interactive
+1332,Advanced,Data Science,4-6 hours,60,Career,Deep Learning,Easy,Interactive
+1333,Intermediate,Python,6+ hours,74,Academic,Libraries (Pandas/NumPy),Medium,Book
+1334,Beginner,Data Science,4-6 hours,61,Certifications,Statistics Basics,Easy,Interactive
+1335,Beginner,Machine Learning,2-4 hours,89,Certifications,ML Fundamentals,Easy,Video
+1336,Beginner,Machine Learning,1-2 hours,59,Certifications,Python for ML,Easy,Article
+1337,Beginner,Mobile Development,1-2 hours,78,Academic,Programming Fundamentals,Medium,Article
+1338,Beginner,Python,1-2 hours,54,Academic,Python Basic,Easy,Article
+1339,Intermediate,Python,6+ hours,59,Career,Data Structures,Easy,Book
+1340,Beginner,Machine Learning,4-6 hours,59,Academic,Python for ML,Easy,Interactive
+1341,Intermediate,Mobile Development,1-2 hours,82,Certifications,Flutter/Dart,Medium,Article
+1342,Intermediate,Machine Learning,6+ hours,96,Career,Model Evaluation,Hard,Book
+1343,Advanced,Web Development,1-2 hours,74,Certifications,Microservices,Hard,Article
+1344,Beginner,Mobile Development,4-6 hours,71,Academic,Programming Fundamentals,Medium,Interactive
+1345,Intermediate,Python,1-2 hours,73,Academic,Libraries (Pandas/NumPy),Medium,Article
+1346,Beginner,Machine Learning,4-6 hours,91,Hobby,ML Fundamentals,Easy,Interactive
+1347,Beginner,Mobile Development,1-2 hours,74,Hobby,Programming Fundamentals,Easy,Article
+1348,Intermediate,Machine Learning,1-2 hours,90,Academic,Model Evaluation,Medium,Article
+1349,Intermediate,Python,6+ hours,97,Hobby,Web Scraping,Easy,Book
+1350,Beginner,Python,2-4 hours,51,Hobby,Python Basic,Easy,Video
+1351,Intermediate,Machine Learning,1-2 hours,100,Academic,Model Evaluation,Medium,Article
+1352,Intermediate,Mobile Development,6+ hours,51,Career,React Native,Easy,Book
+1353,Intermediate,Python,4-6 hours,100,Career,Web Scraping,Hard,Interactive
+1354,Intermediate,Python,2-4 hours,91,Certifications,Web Scraping,Medium,Video
+1355,Advanced,Mobile Development,2-4 hours,97,Hobby,Native Modules,Easy,Video
+1356,Beginner,Python,2-4 hours,81,Career,Control Flow,Hard,Video
+1357,Intermediate,Mobile Development,1-2 hours,65,Hobby,React Native,Easy,Article
+1358,Beginner,Web Development,1-2 hours,69,Career,HTML/CSS Basics,Easy,Article
+1359,Intermediate,Mobile Development,2-4 hours,87,Career,App State Management,Hard,Video
+1360,Beginner,Python,6+ hours,88,Hobby,Functions and Modules,Easy,Book
+1361,Beginner,Web Development,6+ hours,71,Certifications,JavaScript Basics,Easy,Book
+1362,Intermediate,Python,2-4 hours,70,Hobby,Libraries (Pandas/NumPy),Easy,Video
+1363,Beginner,Mobile Development,2-4 hours,71,Career,Programming Fundamentals,Easy,Video
+1364,Beginner,Data Science,2-4 hours,98,Certifications,Data Visualization,Easy,Video
+1365,Beginner,Data Science,2-4 hours,78,Hobby,Python for Data,Easy,Video
+1366,Advanced,Python,2-4 hours,56,Certifications,Decorators & Generators,Easy,Video
+1367,Beginner,Python,6+ hours,55,Career,Python Basic,Easy,Book
+1368,Beginner,Web Development,1-2 hours,95,Academic,Responsive Design,Medium,Article
+1369,Intermediate,Machine Learning,2-4 hours,63,Hobby,Scikit-learn,Easy,Video
+1370,Advanced,Data Science,6+ hours,76,Hobby,Big Data Tools,Easy,Book
+1371,Beginner,Mobile Development,1-2 hours,88,Hobby,UI/UX,Easy,Article
+1372,Advanced,Machine Learning,1-2 hours,90,Academic,Model Deployment,Medium,Article
+1373,Intermediate,Machine Learning,1-2 hours,85,Hobby,Model Evaluation,Easy,Article
+1374,Beginner,Python,1-2 hours,89,Academic,Functions and Modules,Medium,Article
+1375,Advanced,Mobile Development,2-4 hours,79,Hobby,Performance Optimization,Easy,Video
+1376,Intermediate,Python,2-4 hours,57,Hobby,Data Structures,Easy,Video
+1377,Advanced,Machine Learning,6+ hours,61,Hobby,Neural Networks,Easy,Book
+1378,Advanced,Python,1-2 hours,91,Academic,Optimization,Medium,Article
+1379,Intermediate,Web Development,6+ hours,66,Academic,React.js,Easy,Book
+1380,Advanced,Machine Learning,1-2 hours,56,Career,Neural Networks,Easy,Article
+1381,Advanced,Web Development,2-4 hours,100,Career,Performance Optimization,Hard,Video
+1382,Intermediate,Mobile Development,1-2 hours,54,Hobby,React Native,Easy,Article
+1383,Advanced,Machine Learning,4-6 hours,76,Hobby,Reinforcement Learning,Easy,Interactive
+1384,Advanced,Data Science,2-4 hours,99,Career,Advanced Visualization,Hard,Video
+1385,Intermediate,Web Development,1-2 hours,65,Certifications,React.js,Easy,Article
+1386,Beginner,Machine Learning,2-4 hours,54,Certifications,Python for ML,Easy,Video
+1387,Advanced,Machine Learning,1-2 hours,77,Hobby,Reinforcement Learning,Easy,Article
+1388,Beginner,Mobile Development,6+ hours,61,Certifications,App Design Basics,Easy,Book
+1389,Intermediate,Web Development,6+ hours,96,Hobby,APIs & Backend,Easy,Book
+1390,Advanced,Data Science,4-6 hours,62,Academic,Deep Learning,Easy,Interactive
+1391,Beginner,Python,1-2 hours,67,Hobby,Python Basic,Easy,Article
+1392,Beginner,Machine Learning,6+ hours,76,Hobby,Math for ML,Easy,Book
+1393,Intermediate,Web Development,4-6 hours,88,Hobby,APIs & Backend,Easy,Interactive
+1394,Advanced,Mobile Development,2-4 hours,86,Hobby,Native Modules,Easy,Video
+1395,Beginner,Machine Learning,6+ hours,63,Certifications,Python for ML,Easy,Book
+1396,Intermediate,Data Science,1-2 hours,96,Certifications,SQL for Data,Medium,Article
+1397,Advanced,Web Development,2-4 hours,70,Certifications,Microservices,Hard,Video
+1398,Advanced,Web Development,2-4 hours,86,Career,Performance Optimization,Hard,Video
+1399,Intermediate,Python,1-2 hours,80,Career,Libraries (Pandas/NumPy),Hard,Article
+1400,Intermediate,Mobile Development,6+ hours,80,Career,Flutter/Dart,Hard,Book
+1401,Intermediate,Machine Learning,2-4 hours,55,Career,Scikit-learn,Easy,Video
+1402,Advanced,Machine Learning,2-4 hours,58,Academic,Neural Networks,Easy,Video
+1403,Intermediate,Web Development,1-2 hours,51,Certifications,React.js,Easy,Article
+1404,Advanced,Data Science,2-4 hours,95,Certifications,Advanced Visualization,Hard,Video
+1405,Advanced,Mobile Development,1-2 hours,79,Certifications,Performance Optimization,Hard,Article
+1406,Beginner,Machine Learning,2-4 hours,100,Academic,ML Fundamentals,Medium,Video
+1407,Advanced,Machine Learning,1-2 hours,90,Career,Model Deployment,Hard,Article
+1408,Intermediate,Data Science,1-2 hours,68,Certifications,Pandas & Data Cleaning,Easy,Article
+1409,Intermediate,Mobile Development,2-4 hours,100,Career,App State Management,Hard,Video
+1410,Advanced,Data Science,1-2 hours,82,Academic,Big Data Tools,Medium,Article
+1411,Beginner,Python,6+ hours,73,Certifications,Control Flow,Easy,Book
+1412,Advanced,Python,4-6 hours,73,Hobby,System Design,Easy,Interactive
+1413,Advanced,Mobile Development,1-2 hours,85,Hobby,Native Modules,Easy,Article
+1414,Beginner,Data Science,2-4 hours,84,Career,Python for Data,Hard,Video
+1415,Advanced,Machine Learning,2-4 hours,98,Hobby,Model Deployment,Easy,Video
+1416,Intermediate,Data Science,4-6 hours,82,Certifications,ML Basics,Medium,Interactive
+1417,Intermediate,Python,1-2 hours,73,Academic,Libraries (Pandas/NumPy),Medium,Article
+1418,Intermediate,Machine Learning,1-2 hours,80,Academic,Feature Engineering,Medium,Article
+1419,Intermediate,Mobile Development,4-6 hours,93,Career,App State Management,Hard,Interactive
+1420,Beginner,Machine Learning,1-2 hours,55,Certifications,Python for ML,Easy,Article
+1421,Beginner,Data Science,1-2 hours,56,Hobby,Statistics Basics,Easy,Article
+1422,Intermediate,Python,2-4 hours,81,Hobby,Libraries (Pandas/NumPy),Easy,Video
+1423,Beginner,Mobile Development,1-2 hours,68,Certifications,App Design Basics,Easy,Article
+1424,Advanced,Mobile Development,2-4 hours,80,Academic,Performance Optimization,Medium,Video
+1425,Intermediate,Machine Learning,1-2 hours,68,Hobby,Scikit-learn,Easy,Article
+1426,Beginner,Python,2-4 hours,83,Academic,Control Flow,Medium,Video
+1427,Intermediate,Mobile Development,4-6 hours,91,Academic,App State Management,Medium,Interactive
+1428,Intermediate,Mobile Development,6+ hours,79,Academic,Flutter/Dart,Medium,Book
+1429,Advanced,Web Development,4-6 hours,60,Academic,Full Stack Architecture,Easy,Interactive
+1430,Beginner,Machine Learning,4-6 hours,68,Career,Python for ML,Easy,Interactive
+1431,Beginner,Data Science,4-6 hours,79,Hobby,Python for Data,Easy,Interactive
+1432,Advanced,Web Development,4-6 hours,61,Hobby,Full Stack Architecture,Easy,Interactive
+1433,Advanced,Web Development,2-4 hours,65,Career,Full Stack Architecture,Easy,Video
+1434,Beginner,Data Science,2-4 hours,78,Academic,Python for Data,Medium,Video
+1435,Intermediate,Web Development,2-4 hours,85,Career,APIs & Backend,Hard,Video
+1436,Advanced,Data Science,4-6 hours,59,Academic,Deep Learning,Easy,Interactive
+1437,Intermediate,Mobile Development,2-4 hours,84,Academic,Flutter/Dart,Medium,Video
+1438,Beginner,Python,6+ hours,81,Hobby,Control Flow,Easy,Book
+1439,Intermediate,Data Science,2-4 hours,50,Academic,Pandas & Data Cleaning,Easy,Video
+1440,Advanced,Data Science,6+ hours,68,Hobby,Deep Learning,Easy,Book
+1441,Advanced,Machine Learning,4-6 hours,94,Career,Model Deployment,Hard,Interactive
+1442,Advanced,Machine Learning,1-2 hours,58,Career,Neural Networks,Easy,Article
+1443,Intermediate,Python,6+ hours,89,Hobby,Web Scraping,Easy,Book
+1444,Intermediate,Data Science,1-2 hours,70,Career,ML Basics,Medium,Article
+1445,Advanced,Web Development,2-4 hours,100,Academic,Performance Optimization,Medium,Video
+1446,Beginner,Python,1-2 hours,84,Certifications,Control Flow,Easy,Article
+1447,Advanced,Python,6+ hours,62,Certifications,Decorators & Generators,Easy,Book
+1448,Intermediate,Mobile Development,1-2 hours,92,Academic,App State Management,Medium,Article
+1449,Intermediate,Web Development,6+ hours,73,Certifications,Node.js,Medium,Book
+1450,Intermediate,Python,4-6 hours,72,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+1451,Intermediate,Machine Learning,1-2 hours,63,Certifications,Scikit-learn,Easy,Article
+1452,Advanced,Machine Learning,6+ hours,68,Hobby,Neural Networks,Easy,Book
+1453,Advanced,Machine Learning,6+ hours,58,Career,Neural Networks,Easy,Book
+1454,Beginner,Web Development,4-6 hours,80,Academic,JavaScript Basics,Medium,Interactive
+1455,Beginner,Mobile Development,6+ hours,55,Career,App Design Basics,Easy,Book
+1456,Intermediate,Data Science,6+ hours,61,Certifications,Pandas & Data Cleaning,Easy,Book
+1457,Advanced,Mobile Development,2-4 hours,62,Hobby,Cross-platform Architecture,Easy,Video
+1458,Intermediate,Data Science,6+ hours,52,Academic,Pandas & Data Cleaning,Easy,Book
+1459,Advanced,Data Science,6+ hours,85,Certifications,Advanced Visualization,Hard,Book
+1460,Beginner,Python,1-2 hours,59,Academic,Python Basic,Easy,Article
+1461,Intermediate,Machine Learning,1-2 hours,91,Academic,Model Evaluation,Medium,Article
+1462,Intermediate,Web Development,6+ hours,94,Hobby,APIs & Backend,Easy,Book
+1463,Beginner,Python,4-6 hours,81,Career,Control Flow,Hard,Interactive
+1464,Advanced,Data Science,6+ hours,86,Certifications,Advanced Visualization,Hard,Book
+1465,Intermediate,Machine Learning,1-2 hours,73,Career,Feature Engineering,Medium,Article
+1466,Intermediate,Web Development,1-2 hours,59,Academic,React.js,Easy,Article
+1467,Intermediate,Web Development,4-6 hours,60,Career,React.js,Easy,Interactive
+1468,Intermediate,Data Science,6+ hours,90,Academic,SQL for Data,Medium,Book
+1469,Beginner,Data Science,4-6 hours,83,Career,Python for Data,Hard,Interactive
+1470,Advanced,Web Development,2-4 hours,98,Career,Performance Optimization,Hard,Video
+1471,Advanced,Web Development,4-6 hours,70,Academic,Microservices,Medium,Interactive
+1472,Intermediate,Data Science,1-2 hours,84,Academic,ML Basics,Medium,Article
+1473,Beginner,Python,2-4 hours,83,Academic,Control Flow,Medium,Video
+1474,Intermediate,Machine Learning,6+ hours,71,Hobby,Feature Engineering,Easy,Book
+1475,Beginner,Web Development,2-4 hours,82,Hobby,JavaScript Basics,Easy,Video
+1476,Beginner,Mobile Development,1-2 hours,76,Certifications,Programming Fundamentals,Easy,Article
+1477,Beginner,Python,2-4 hours,51,Certifications,Python Basic,Easy,Video
+1478,Intermediate,Data Science,4-6 hours,58,Certifications,Pandas & Data Cleaning,Easy,Interactive
+1479,Advanced,Mobile Development,4-6 hours,61,Academic,Cross-platform Architecture,Easy,Interactive
+1480,Beginner,Python,2-4 hours,58,Hobby,Python Basic,Easy,Video
+1481,Advanced,Web Development,4-6 hours,58,Hobby,Full Stack Architecture,Easy,Interactive
+1482,Beginner,Python,6+ hours,94,Career,Functions and Modules,Hard,Book
+1483,Beginner,Python,6+ hours,98,Certifications,Functions and Modules,Easy,Book
+1484,Beginner,Web Development,1-2 hours,52,Career,HTML/CSS Basics,Easy,Article
+1485,Intermediate,Python,4-6 hours,52,Career,Data Structures,Easy,Interactive
+1486,Intermediate,Python,1-2 hours,100,Career,Web Scraping,Hard,Article
+1487,Advanced,Web Development,2-4 hours,61,Academic,Full Stack Architecture,Easy,Video
+1488,Beginner,Python,2-4 hours,97,Academic,Functions and Modules,Medium,Video
+1489,Advanced,Data Science,4-6 hours,60,Hobby,Deep Learning,Easy,Interactive
+1490,Advanced,Mobile Development,1-2 hours,56,Career,Cross-platform Architecture,Easy,Article
+1491,Advanced,Web Development,2-4 hours,68,Hobby,Full Stack Architecture,Easy,Video
+1492,Advanced,Python,1-2 hours,63,Certifications,Decorators & Generators,Easy,Article
+1493,Intermediate,Mobile Development,2-4 hours,78,Career,Flutter/Dart,Medium,Video
+1494,Beginner,Data Science,6+ hours,77,Hobby,Python for Data,Easy,Book
+1495,Advanced,Web Development,6+ hours,57,Academic,Full Stack Architecture,Easy,Book
+1496,Beginner,Machine Learning,1-2 hours,83,Hobby,Math for ML,Easy,Article
+1497,Intermediate,Data Science,4-6 hours,85,Career,SQL for Data,Hard,Interactive
+1498,Beginner,Data Science,6+ hours,57,Certifications,Statistics Basics,Easy,Book
+1499,Intermediate,Machine Learning,4-6 hours,93,Certifications,Model Evaluation,Medium,Interactive
+1500,Beginner,Mobile Development,6+ hours,68,Certifications,App Design Basics,Easy,Book
+1501,Beginner,Python,6+ hours,93,Academic,Functions and Modules,Medium,Book
+1502,Beginner,Python,6+ hours,93,Career,Functions and Modules,Hard,Book
+1503,Intermediate,Machine Learning,1-2 hours,57,Hobby,Scikit-learn,Easy,Article
+1504,Intermediate,Machine Learning,1-2 hours,97,Hobby,Model Evaluation,Easy,Article
+1505,Beginner,Data Science,2-4 hours,71,Hobby,Python for Data,Easy,Video
+1506,Advanced,Machine Learning,1-2 hours,64,Certifications,Neural Networks,Easy,Article
+1507,Advanced,Machine Learning,4-6 hours,98,Academic,Model Deployment,Medium,Interactive
+1508,Advanced,Machine Learning,4-6 hours,80,Certifications,Reinforcement Learning,Hard,Interactive
+1509,Intermediate,Mobile Development,4-6 hours,59,Certifications,React Native,Easy,Interactive
+1510,Beginner,Python,4-6 hours,81,Certifications,Control Flow,Easy,Interactive
+1511,Beginner,Web Development,1-2 hours,56,Career,HTML/CSS Basics,Easy,Article
+1512,Beginner,Machine Learning,1-2 hours,61,Certifications,Python for ML,Easy,Article
+1513,Advanced,Data Science,2-4 hours,69,Career,Deep Learning,Easy,Video
+1514,Beginner,Mobile Development,6+ hours,100,Certifications,UI/UX,Easy,Book
+1515,Beginner,Data Science,6+ hours,81,Academic,Python for Data,Medium,Book
+1516,Advanced,Data Science,1-2 hours,98,Career,Advanced Visualization,Hard,Article
+1517,Intermediate,Python,6+ hours,78,Academic,Libraries (Pandas/NumPy),Medium,Book
+1518,Intermediate,Machine Learning,6+ hours,52,Career,Scikit-learn,Easy,Book
+1519,Beginner,Mobile Development,4-6 hours,95,Hobby,UI/UX,Easy,Interactive
+1520,Intermediate,Machine Learning,2-4 hours,69,Certifications,Scikit-learn,Easy,Video
+1521,Intermediate,Python,6+ hours,92,Certifications,Web Scraping,Medium,Book
+1522,Intermediate,Mobile Development,2-4 hours,82,Career,Flutter/Dart,Hard,Video
+1523,Intermediate,Data Science,6+ hours,87,Certifications,SQL for Data,Medium,Book
+1524,Advanced,Data Science,4-6 hours,70,Career,Big Data Tools,Hard,Interactive
+1525,Beginner,Mobile Development,1-2 hours,58,Academic,App Design Basics,Easy,Article
+1526,Intermediate,Mobile Development,1-2 hours,98,Academic,App State Management,Medium,Article
+1527,Intermediate,Python,6+ hours,72,Academic,Libraries (Pandas/NumPy),Medium,Book
+1528,Intermediate,Data Science,1-2 hours,92,Hobby,SQL for Data,Easy,Article
+1529,Beginner,Web Development,4-6 hours,87,Career,Responsive Design,Hard,Interactive
+1530,Advanced,Python,4-6 hours,57,Academic,Decorators & Generators,Easy,Interactive
+1531,Beginner,Python,4-6 hours,52,Certifications,Python Basic,Easy,Interactive
+1532,Advanced,Machine Learning,6+ hours,67,Career,Neural Networks,Easy,Book
+1533,Advanced,Machine Learning,1-2 hours,70,Certifications,Reinforcement Learning,Hard,Article
+1534,Advanced,Machine Learning,4-6 hours,86,Career,Model Deployment,Hard,Interactive
+1535,Intermediate,Python,2-4 hours,71,Certifications,Libraries (Pandas/NumPy),Medium,Video
+1536,Advanced,Data Science,2-4 hours,89,Academic,Advanced Visualization,Medium,Video
+1537,Intermediate,Machine Learning,2-4 hours,81,Career,Feature Engineering,Hard,Video
+1538,Advanced,Web Development,4-6 hours,66,Career,Full Stack Architecture,Easy,Interactive
+1539,Intermediate,Mobile Development,6+ hours,64,Career,React Native,Easy,Book
+1540,Advanced,Mobile Development,1-2 hours,87,Academic,Native Modules,Medium,Article
+1541,Intermediate,Python,6+ hours,77,Hobby,Libraries (Pandas/NumPy),Easy,Book
+1542,Intermediate,Python,4-6 hours,82,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+1543,Intermediate,Mobile Development,4-6 hours,62,Certifications,React Native,Easy,Interactive
+1544,Intermediate,Data Science,6+ hours,92,Hobby,SQL for Data,Easy,Book
+1545,Beginner,Mobile Development,2-4 hours,86,Certifications,UI/UX,Easy,Video
+1546,Beginner,Machine Learning,4-6 hours,90,Certifications,ML Fundamentals,Easy,Interactive
+1547,Advanced,Python,2-4 hours,73,Certifications,System Design,Hard,Video
+1548,Beginner,Web Development,2-4 hours,97,Academic,Responsive Design,Medium,Video
+1549,Intermediate,Machine Learning,4-6 hours,54,Hobby,Scikit-learn,Easy,Interactive
+1550,Intermediate,Data Science,4-6 hours,91,Hobby,SQL for Data,Easy,Interactive
+1551,Intermediate,Mobile Development,2-4 hours,75,Hobby,Flutter/Dart,Easy,Video
+1552,Beginner,Web Development,2-4 hours,51,Hobby,HTML/CSS Basics,Easy,Video
+1553,Intermediate,Machine Learning,6+ hours,85,Certifications,Model Evaluation,Medium,Book
+1554,Intermediate,Python,2-4 hours,60,Academic,Data Structures,Easy,Video
+1555,Beginner,Python,4-6 hours,100,Academic,Functions and Modules,Medium,Interactive
+1556,Advanced,Mobile Development,2-4 hours,91,Career,Native Modules,Hard,Video
+1557,Advanced,Machine Learning,1-2 hours,53,Career,Neural Networks,Easy,Article
+1558,Intermediate,Mobile Development,4-6 hours,54,Certifications,React Native,Easy,Interactive
+1559,Intermediate,Python,6+ hours,96,Hobby,Web Scraping,Easy,Book
+1560,Beginner,Python,1-2 hours,83,Academic,Control Flow,Medium,Article
+1561,Intermediate,Python,2-4 hours,88,Career,Web Scraping,Hard,Video
+1562,Intermediate,Data Science,6+ hours,97,Hobby,SQL for Data,Easy,Book
+1563,Intermediate,Web Development,2-4 hours,56,Hobby,React.js,Easy,Video
+1564,Beginner,Data Science,6+ hours,76,Academic,Python for Data,Medium,Book
+1565,Advanced,Python,6+ hours,84,Academic,System Design,Medium,Book
+1566,Advanced,Python,4-6 hours,84,Certifications,System Design,Hard,Interactive
+1567,Intermediate,Web Development,4-6 hours,100,Hobby,APIs & Backend,Easy,Interactive
+1568,Intermediate,Machine Learning,4-6 hours,69,Career,Scikit-learn,Easy,Interactive
+1569,Advanced,Mobile Development,1-2 hours,97,Career,Native Modules,Hard,Article
+1570,Advanced,Web Development,4-6 hours,85,Certifications,Performance Optimization,Hard,Interactive
+1571,Intermediate,Data Science,1-2 hours,84,Hobby,ML Basics,Easy,Article
+1572,Intermediate,Machine Learning,1-2 hours,75,Academic,Feature Engineering,Medium,Article
+1573,Intermediate,Python,2-4 hours,69,Hobby,Data Structures,Easy,Video
+1574,Beginner,Machine Learning,4-6 hours,99,Certifications,ML Fundamentals,Easy,Interactive
+1575,Beginner,Data Science,1-2 hours,99,Certifications,Data Visualization,Easy,Article
+1576,Intermediate,Machine Learning,4-6 hours,95,Certifications,Model Evaluation,Medium,Interactive
+1577,Beginner,Web Development,4-6 hours,82,Career,JavaScript Basics,Hard,Interactive
+1578,Intermediate,Machine Learning,4-6 hours,79,Career,Feature Engineering,Medium,Interactive
+1579,Beginner,Web Development,6+ hours,100,Hobby,Responsive Design,Easy,Book
+1580,Beginner,Machine Learning,2-4 hours,90,Academic,ML Fundamentals,Medium,Video
+1581,Intermediate,Mobile Development,1-2 hours,57,Hobby,React Native,Easy,Article
+1582,Beginner,Mobile Development,2-4 hours,88,Certifications,UI/UX,Easy,Video
+1583,Intermediate,Machine Learning,6+ hours,97,Hobby,Model Evaluation,Easy,Book
+1584,Intermediate,Web Development,4-6 hours,68,Hobby,React.js,Easy,Interactive
+1585,Beginner,Machine Learning,4-6 hours,61,Certifications,Python for ML,Easy,Interactive
+1586,Intermediate,Mobile Development,2-4 hours,51,Career,React Native,Easy,Video
+1587,Advanced,Mobile Development,2-4 hours,55,Certifications,Cross-platform Architecture,Easy,Video
+1588,Beginner,Data Science,2-4 hours,53,Certifications,Statistics Basics,Easy,Video
+1589,Advanced,Machine Learning,4-6 hours,59,Career,Neural Networks,Easy,Interactive
+1590,Intermediate,Web Development,1-2 hours,50,Certifications,React.js,Easy,Article
+1591,Intermediate,Machine Learning,1-2 hours,64,Hobby,Scikit-learn,Easy,Article
+1592,Beginner,Data Science,4-6 hours,97,Certifications,Data Visualization,Easy,Interactive
+1593,Intermediate,Web Development,6+ hours,63,Hobby,React.js,Easy,Book
+1594,Intermediate,Web Development,6+ hours,61,Certifications,React.js,Easy,Book
+1595,Beginner,Python,4-6 hours,66,Hobby,Python Basic,Easy,Interactive
+1596,Advanced,Machine Learning,2-4 hours,73,Certifications,Reinforcement Learning,Hard,Video
+1597,Beginner,Python,6+ hours,58,Academic,Python Basic,Easy,Book
+1598,Advanced,Machine Learning,2-4 hours,95,Certifications,Model Deployment,Hard,Video
+1599,Advanced,Machine Learning,4-6 hours,54,Career,Neural Networks,Easy,Interactive
+1600,Advanced,Python,1-2 hours,71,Hobby,System Design,Easy,Article
+1601,Intermediate,Data Science,1-2 hours,50,Academic,Pandas & Data Cleaning,Easy,Article
+1602,Advanced,Mobile Development,6+ hours,69,Certifications,Cross-platform Architecture,Easy,Book
+1603,Advanced,Data Science,2-4 hours,85,Career,Advanced Visualization,Hard,Video
+1604,Advanced,Web Development,4-6 hours,60,Certifications,Full Stack Architecture,Easy,Interactive
+1605,Intermediate,Machine Learning,2-4 hours,55,Academic,Scikit-learn,Easy,Video
+1606,Advanced,Mobile Development,6+ hours,59,Academic,Cross-platform Architecture,Easy,Book
+1607,Beginner,Data Science,1-2 hours,58,Certifications,Statistics Basics,Easy,Article
+1608,Intermediate,Data Science,6+ hours,68,Academic,Pandas & Data Cleaning,Easy,Book
+1609,Advanced,Data Science,4-6 hours,77,Hobby,Big Data Tools,Easy,Interactive
+1610,Intermediate,Machine Learning,2-4 hours,85,Certifications,Model Evaluation,Medium,Video
+1611,Beginner,Web Development,2-4 hours,53,Hobby,HTML/CSS Basics,Easy,Video
+1612,Beginner,Python,6+ hours,66,Hobby,Python Basic,Easy,Book
+1613,Advanced,Machine Learning,6+ hours,57,Certifications,Neural Networks,Easy,Book
+1614,Beginner,Machine Learning,4-6 hours,95,Certifications,ML Fundamentals,Easy,Interactive
+1615,Intermediate,Machine Learning,1-2 hours,96,Hobby,Model Evaluation,Easy,Article
+1616,Beginner,Data Science,1-2 hours,63,Academic,Statistics Basics,Easy,Article
+1617,Beginner,Web Development,4-6 hours,86,Hobby,Responsive Design,Easy,Interactive
+1618,Advanced,Python,2-4 hours,76,Career,System Design,Hard,Video
+1619,Beginner,Machine Learning,1-2 hours,71,Career,Math for ML,Easy,Article
+1620,Intermediate,Python,6+ hours,73,Career,Libraries (Pandas/NumPy),Medium,Book
+1621,Intermediate,Web Development,1-2 hours,55,Certifications,React.js,Easy,Article
+1622,Advanced,Machine Learning,6+ hours,90,Academic,Model Deployment,Medium,Book
+1623,Advanced,Python,4-6 hours,52,Certifications,Decorators & Generators,Easy,Interactive
+1624,Intermediate,Mobile Development,2-4 hours,63,Career,React Native,Easy,Video
+1625,Advanced,Data Science,4-6 hours,53,Career,Deep Learning,Easy,Interactive
+1626,Advanced,Mobile Development,6+ hours,55,Certifications,Cross-platform Architecture,Easy,Book
+1627,Intermediate,Web Development,2-4 hours,99,Certifications,APIs & Backend,Medium,Video
+1628,Beginner,Python,2-4 hours,60,Certifications,Python Basic,Easy,Video
+1629,Intermediate,Data Science,2-4 hours,57,Academic,Pandas & Data Cleaning,Easy,Video
+1630,Intermediate,Machine Learning,4-6 hours,93,Hobby,Model Evaluation,Easy,Interactive
+1631,Intermediate,Python,4-6 hours,82,Hobby,Libraries (Pandas/NumPy),Easy,Interactive
+1632,Intermediate,Machine Learning,6+ hours,80,Academic,Feature Engineering,Medium,Book
+1633,Advanced,Mobile Development,6+ hours,55,Certifications,Cross-platform Architecture,Easy,Book
+1634,Intermediate,Mobile Development,2-4 hours,77,Certifications,Flutter/Dart,Medium,Video
+1635,Beginner,Python,4-6 hours,79,Hobby,Control Flow,Easy,Interactive
+1636,Advanced,Web Development,6+ hours,83,Career,Microservices,Hard,Book
+1637,Intermediate,Machine Learning,6+ hours,55,Certifications,Scikit-learn,Easy,Book
+1638,Intermediate,Web Development,2-4 hours,93,Academic,APIs & Backend,Medium,Video
+1639,Beginner,Mobile Development,6+ hours,68,Career,App Design Basics,Easy,Book
+1640,Advanced,Python,1-2 hours,82,Career,System Design,Hard,Article
+1641,Advanced,Machine Learning,6+ hours,56,Certifications,Neural Networks,Easy,Book
+1642,Advanced,Mobile Development,4-6 hours,72,Academic,Performance Optimization,Medium,Interactive
+1643,Advanced,Python,1-2 hours,57,Certifications,Decorators & Generators,Easy,Article
+1644,Beginner,Web Development,6+ hours,52,Career,HTML/CSS Basics,Easy,Book
+1645,Intermediate,Data Science,4-6 hours,87,Certifications,SQL for Data,Medium,Interactive
+1646,Advanced,Machine Learning,4-6 hours,71,Hobby,Reinforcement Learning,Easy,Interactive
+1647,Beginner,Web Development,1-2 hours,97,Academic,Responsive Design,Medium,Article
+1648,Advanced,Python,6+ hours,84,Career,System Design,Hard,Book
+1649,Beginner,Machine Learning,1-2 hours,50,Hobby,Python for ML,Easy,Article
+1650,Advanced,Machine Learning,6+ hours,94,Certifications,Model Deployment,Hard,Book
+1651,Advanced,Mobile Development,6+ hours,69,Academic,Cross-platform Architecture,Easy,Book
+1652,Advanced,Machine Learning,4-6 hours,55,Hobby,Neural Networks,Easy,Interactive
+1653,Beginner,Python,2-4 hours,57,Career,Python Basic,Easy,Video
+1654,Advanced,Web Development,1-2 hours,63,Certifications,Full Stack Architecture,Easy,Article
+1655,Advanced,Web Development,2-4 hours,77,Hobby,Microservices,Easy,Video
+1656,Beginner,Data Science,6+ hours,59,Certifications,Statistics Basics,Easy,Book
+1657,Intermediate,Python,1-2 hours,60,Hobby,Data Structures,Easy,Article
+1658,Advanced,Machine Learning,6+ hours,80,Career,Reinforcement Learning,Hard,Book
+1659,Intermediate,Mobile Development,2-4 hours,62,Academic,React Native,Easy,Video
+1660,Advanced,Machine Learning,1-2 hours,71,Career,Reinforcement Learning,Hard,Article
+1661,Beginner,Machine Learning,6+ hours,81,Academic,Math for ML,Medium,Book
+1662,Beginner,Machine Learning,6+ hours,81,Certifications,Math for ML,Easy,Book
+1663,Beginner,Python,1-2 hours,77,Academic,Control Flow,Medium,Article
+1664,Advanced,Python,4-6 hours,91,Certifications,Optimization,Hard,Interactive
+1665,Intermediate,Python,6+ hours,89,Academic,Web Scraping,Medium,Book
+1666,Intermediate,Machine Learning,1-2 hours,60,Academic,Scikit-learn,Easy,Article
+1667,Advanced,Web Development,6+ hours,72,Certifications,Microservices,Hard,Book
+1668,Beginner,Mobile Development,2-4 hours,87,Academic,UI/UX,Medium,Video
+1669,Advanced,Machine Learning,2-4 hours,68,Certifications,Neural Networks,Easy,Video
+1670,Intermediate,Data Science,6+ hours,60,Hobby,Pandas & Data Cleaning,Easy,Book
+1671,Intermediate,Python,6+ hours,58,Hobby,Data Structures,Easy,Book
+1672,Beginner,Web Development,6+ hours,56,Certifications,HTML/CSS Basics,Easy,Book
+1673,Intermediate,Data Science,2-4 hours,63,Career,Pandas & Data Cleaning,Easy,Video
+1674,Beginner,Data Science,4-6 hours,72,Hobby,Python for Data,Easy,Interactive
+1675,Beginner,Mobile Development,1-2 hours,54,Academic,App Design Basics,Easy,Article
+1676,Intermediate,Python,2-4 hours,57,Hobby,Data Structures,Easy,Video
+1677,Intermediate,Data Science,4-6 hours,100,Academic,SQL for Data,Medium,Interactive
+1678,Beginner,Mobile Development,4-6 hours,59,Career,App Design Basics,Easy,Interactive
+1679,Advanced,Python,6+ hours,79,Career,System Design,Hard,Book
+1680,Beginner,Mobile Development,1-2 hours,85,Career,UI/UX,Hard,Article
+1681,Advanced,Python,2-4 hours,90,Career,Optimization,Hard,Video
+1682,Beginner,Data Science,2-4 hours,96,Academic,Data Visualization,Medium,Video
+1683,Advanced,Machine Learning,6+ hours,96,Career,Model Deployment,Hard,Book
+1684,Beginner,Data Science,4-6 hours,58,Career,Statistics Basics,Easy,Interactive
+1685,Beginner,Machine Learning,6+ hours,99,Career,ML Fundamentals,Hard,Book
+1686,Beginner,Machine Learning,4-6 hours,68,Hobby,Python for ML,Easy,Interactive
+1687,Beginner,Data Science,4-6 hours,95,Certifications,Data Visualization,Easy,Interactive
+1688,Intermediate,Web Development,2-4 hours,98,Certifications,APIs & Backend,Medium,Video
+1689,Beginner,Web Development,6+ hours,76,Certifications,JavaScript Basics,Easy,Book
+1690,Intermediate,Mobile Development,4-6 hours,51,Certifications,React Native,Easy,Interactive
+1691,Beginner,Python,1-2 hours,55,Academic,Python Basic,Easy,Article
+1692,Intermediate,Machine Learning,2-4 hours,77,Career,Feature Engineering,Medium,Video
+1693,Intermediate,Python,2-4 hours,86,Career,Web Scraping,Hard,Video
+1694,Advanced,Mobile Development,4-6 hours,76,Certifications,Performance Optimization,Hard,Interactive
+1695,Advanced,Mobile Development,4-6 hours,96,Academic,Native Modules,Medium,Interactive
+1696,Intermediate,Python,4-6 hours,83,Hobby,Libraries (Pandas/NumPy),Easy,Interactive
+1697,Advanced,Machine Learning,6+ hours,91,Hobby,Model Deployment,Easy,Book
+1698,Advanced,Mobile Development,6+ hours,94,Academic,Native Modules,Medium,Book
+1699,Advanced,Machine Learning,2-4 hours,69,Career,Neural Networks,Easy,Video
+1700,Beginner,Mobile Development,4-6 hours,74,Hobby,Programming Fundamentals,Easy,Interactive
+1701,Advanced,Mobile Development,4-6 hours,63,Career,Cross-platform Architecture,Easy,Interactive
+1702,Advanced,Mobile Development,4-6 hours,83,Academic,Performance Optimization,Medium,Interactive
+1703,Advanced,Web Development,1-2 hours,51,Academic,Full Stack Architecture,Easy,Article
+1704,Beginner,Data Science,6+ hours,82,Career,Python for Data,Hard,Book
+1705,Advanced,Python,4-6 hours,66,Academic,Decorators & Generators,Easy,Interactive
+1706,Beginner,Python,1-2 hours,78,Academic,Control Flow,Medium,Article
+1707,Advanced,Python,6+ hours,71,Hobby,System Design,Easy,Book
+1708,Advanced,Mobile Development,2-4 hours,72,Academic,Performance Optimization,Medium,Video
+1709,Intermediate,Mobile Development,2-4 hours,95,Certifications,App State Management,Medium,Video
+1710,Advanced,Web Development,1-2 hours,70,Hobby,Microservices,Easy,Article
+1711,Intermediate,Machine Learning,1-2 hours,59,Certifications,Scikit-learn,Easy,Article
+1712,Intermediate,Python,1-2 hours,53,Certifications,Data Structures,Easy,Article
+1713,Beginner,Machine Learning,2-4 hours,78,Career,Math for ML,Easy,Video
+1714,Intermediate,Mobile Development,6+ hours,87,Certifications,App State Management,Medium,Book
+1715,Intermediate,Mobile Development,6+ hours,90,Certifications,App State Management,Medium,Book
+1716,Intermediate,Machine Learning,6+ hours,60,Hobby,Scikit-learn,Easy,Book
+1717,Advanced,Web Development,6+ hours,95,Certifications,Performance Optimization,Hard,Book
+1718,Beginner,Mobile Development,1-2 hours,94,Hobby,UI/UX,Easy,Article
+1719,Intermediate,Machine Learning,1-2 hours,97,Hobby,Model Evaluation,Easy,Article
+1720,Advanced,Data Science,1-2 hours,88,Certifications,Advanced Visualization,Hard,Article
+1721,Beginner,Python,4-6 hours,86,Academic,Functions and Modules,Medium,Interactive
+1722,Beginner,Mobile Development,2-4 hours,57,Academic,App Design Basics,Easy,Video
+1723,Intermediate,Data Science,4-6 hours,68,Certifications,Pandas & Data Cleaning,Easy,Interactive
+1724,Beginner,Web Development,2-4 hours,100,Certifications,Responsive Design,Easy,Video
+1725,Beginner,Data Science,4-6 hours,63,Hobby,Statistics Basics,Easy,Interactive
+1726,Advanced,Machine Learning,1-2 hours,57,Academic,Neural Networks,Easy,Article
+1727,Beginner,Python,6+ hours,80,Academic,Control Flow,Medium,Book
+1728,Advanced,Machine Learning,4-6 hours,100,Certifications,Model Deployment,Hard,Interactive
+1729,Intermediate,Mobile Development,2-4 hours,98,Hobby,App State Management,Easy,Video
+1730,Advanced,Machine Learning,6+ hours,92,Certifications,Model Deployment,Hard,Book
+1731,Beginner,Data Science,1-2 hours,89,Certifications,Data Visualization,Easy,Article
+1732,Intermediate,Web Development,6+ hours,71,Career,Node.js,Medium,Book
+1733,Advanced,Machine Learning,4-6 hours,91,Career,Model Deployment,Hard,Interactive
+1734,Beginner,Python,4-6 hours,85,Career,Functions and Modules,Hard,Interactive
+1735,Advanced,Mobile Development,1-2 hours,62,Career,Cross-platform Architecture,Easy,Article
+1736,Advanced,Mobile Development,2-4 hours,98,Certifications,Native Modules,Hard,Video
+1737,Advanced,Python,1-2 hours,92,Hobby,Optimization,Easy,Article
+1738,Beginner,Data Science,2-4 hours,65,Certifications,Statistics Basics,Easy,Video
+1739,Beginner,Mobile Development,4-6 hours,75,Career,Programming Fundamentals,Easy,Interactive
+1740,Intermediate,Python,4-6 hours,77,Hobby,Libraries (Pandas/NumPy),Easy,Interactive
+1741,Intermediate,Python,4-6 hours,74,Academic,Libraries (Pandas/NumPy),Medium,Interactive
+1742,Beginner,Python,1-2 hours,84,Hobby,Control Flow,Easy,Article
+1743,Intermediate,Web Development,2-4 hours,66,Career,React.js,Easy,Video
+1744,Beginner,Data Science,6+ hours,93,Hobby,Data Visualization,Easy,Book
+1745,Beginner,Mobile Development,4-6 hours,61,Career,App Design Basics,Easy,Interactive
+1746,Advanced,Python,4-6 hours,74,Career,System Design,Hard,Interactive
+1747,Intermediate,Web Development,6+ hours,70,Academic,Node.js,Medium,Book
+1748,Intermediate,Python,1-2 hours,62,Hobby,Data Structures,Easy,Article
+1749,Advanced,Mobile Development,2-4 hours,81,Certifications,Performance Optimization,Hard,Video
+1750,Beginner,Data Science,1-2 hours,70,Certifications,Python for Data,Easy,Article
+1751,Advanced,Machine Learning,1-2 hours,80,Career,Reinforcement Learning,Hard,Article
+1752,Intermediate,Web Development,1-2 hours,67,Career,React.js,Easy,Article
+1753,Beginner,Mobile Development,2-4 hours,69,Certifications,App Design Basics,Easy,Video
+1754,Intermediate,Python,2-4 hours,100,Hobby,Web Scraping,Easy,Video
+1755,Intermediate,Mobile Development,2-4 hours,100,Hobby,App State Management,Easy,Video
+1756,Advanced,Machine Learning,6+ hours,52,Career,Neural Networks,Easy,Book
+1757,Intermediate,Mobile Development,4-6 hours,91,Hobby,App State Management,Easy,Interactive
+1758,Beginner,Python,6+ hours,67,Academic,Python Basic,Easy,Book
+1759,Advanced,Machine Learning,4-6 hours,90,Hobby,Model Deployment,Easy,Interactive
+1760,Advanced,Mobile Development,4-6 hours,52,Hobby,Cross-platform Architecture,Easy,Interactive
+1761,Advanced,Mobile Development,1-2 hours,69,Career,Cross-platform Architecture,Easy,Article
+1762,Intermediate,Python,2-4 hours,96,Academic,Web Scraping,Medium,Video
+1763,Intermediate,Web Development,4-6 hours,93,Academic,APIs & Backend,Medium,Interactive
+1764,Advanced,Data Science,6+ hours,67,Hobby,Deep Learning,Easy,Book
+1765,Advanced,Data Science,4-6 hours,63,Certifications,Deep Learning,Easy,Interactive
+1766,Advanced,Data Science,1-2 hours,94,Hobby,Advanced Visualization,Easy,Article
+1767,Advanced,Python,6+ hours,50,Career,Decorators & Generators,Easy,Book
+1768,Advanced,Web Development,6+ hours,85,Certifications,Performance Optimization,Hard,Book
+1769,Intermediate,Mobile Development,1-2 hours,100,Career,App State Management,Hard,Article
+1770,Advanced,Python,6+ hours,93,Career,Optimization,Hard,Book
+1771,Intermediate,Machine Learning,4-6 hours,74,Hobby,Feature Engineering,Easy,Interactive
+1772,Advanced,Python,1-2 hours,79,Academic,System Design,Medium,Article
+1773,Beginner,Machine Learning,1-2 hours,64,Career,Python for ML,Easy,Article
+1774,Intermediate,Data Science,2-4 hours,55,Academic,Pandas & Data Cleaning,Easy,Video
+1775,Advanced,Web Development,2-4 hours,81,Academic,Microservices,Medium,Video
+1776,Beginner,Data Science,6+ hours,95,Hobby,Data Visualization,Easy,Book
+1777,Beginner,Web Development,6+ hours,57,Academic,HTML/CSS Basics,Easy,Book
+1778,Advanced,Mobile Development,6+ hours,60,Hobby,Cross-platform Architecture,Easy,Book
+1779,Advanced,Mobile Development,2-4 hours,54,Hobby,Cross-platform Architecture,Easy,Video
+1780,Advanced,Python,2-4 hours,66,Hobby,Decorators & Generators,Easy,Video
+1781,Advanced,Data Science,2-4 hours,93,Career,Advanced Visualization,Hard,Video
+1782,Advanced,Mobile Development,4-6 hours,93,Certifications,Native Modules,Hard,Interactive
+1783,Beginner,Machine Learning,1-2 hours,70,Certifications,Math for ML,Easy,Article
+1784,Intermediate,Data Science,1-2 hours,93,Certifications,SQL for Data,Medium,Article
+1785,Intermediate,Data Science,1-2 hours,96,Hobby,SQL for Data,Easy,Article
+1786,Beginner,Data Science,6+ hours,84,Certifications,Python for Data,Easy,Book
+1787,Intermediate,Python,6+ hours,62,Academic,Data Structures,Easy,Book
+1788,Beginner,Mobile Development,1-2 hours,97,Hobby,UI/UX,Easy,Article
+1789,Advanced,Machine Learning,1-2 hours,65,Hobby,Neural Networks,Easy,Article
+1790,Beginner,Data Science,4-6 hours,54,Career,Statistics Basics,Easy,Interactive
+1791,Beginner,Machine Learning,6+ hours,51,Academic,Python for ML,Easy,Book
+1792,Intermediate,Web Development,1-2 hours,80,Hobby,Node.js,Easy,Article
+1793,Intermediate,Python,4-6 hours,83,Hobby,Libraries (Pandas/NumPy),Easy,Interactive
+1794,Beginner,Mobile Development,6+ hours,98,Career,UI/UX,Hard,Book
+1795,Advanced,Machine Learning,1-2 hours,55,Career,Neural Networks,Easy,Article
+1796,Beginner,Machine Learning,4-6 hours,94,Career,ML Fundamentals,Hard,Interactive
+1797,Beginner,Python,6+ hours,53,Academic,Python Basic,Easy,Book
+1798,Advanced,Machine Learning,1-2 hours,56,Career,Neural Networks,Easy,Article
+1799,Advanced,Python,4-6 hours,74,Certifications,System Design,Hard,Interactive
+1800,Beginner,Mobile Development,6+ hours,64,Career,App Design Basics,Easy,Book
+1801,Intermediate,Machine Learning,6+ hours,100,Certifications,Model Evaluation,Medium,Book
+1802,Advanced,Mobile Development,1-2 hours,71,Career,Performance Optimization,Hard,Article
+1803,Intermediate,Mobile Development,4-6 hours,87,Hobby,App State Management,Easy,Interactive
+1804,Beginner,Python,1-2 hours,88,Career,Functions and Modules,Hard,Article
+1805,Advanced,Web Development,2-4 hours,90,Academic,Performance Optimization,Medium,Video
+1806,Intermediate,Machine Learning,6+ hours,96,Certifications,Model Evaluation,Medium,Book
+1807,Beginner,Web Development,2-4 hours,52,Career,HTML/CSS Basics,Easy,Video
+1808,Beginner,Data Science,6+ hours,82,Academic,Python for Data,Medium,Book
+1809,Intermediate,Mobile Development,2-4 hours,59,Certifications,React Native,Easy,Video
+1810,Intermediate,Mobile Development,4-6 hours,68,Academic,React Native,Easy,Interactive
+1811,Beginner,Mobile Development,2-4 hours,53,Hobby,App Design Basics,Easy,Video
+1812,Advanced,Mobile Development,1-2 hours,77,Academic,Performance Optimization,Medium,Article
+1813,Beginner,Web Development,2-4 hours,100,Career,Responsive Design,Hard,Video
+1814,Intermediate,Web Development,6+ hours,94,Certifications,APIs & Backend,Medium,Book
+1815,Advanced,Data Science,4-6 hours,89,Academic,Advanced Visualization,Medium,Interactive
+1816,Intermediate,Data Science,2-4 hours,56,Certifications,Pandas & Data Cleaning,Easy,Video
+1817,Beginner,Machine Learning,2-4 hours,50,Hobby,Python for ML,Easy,Video
+1818,Advanced,Web Development,6+ hours,89,Hobby,Performance Optimization,Easy,Book
+1819,Beginner,Machine Learning,4-6 hours,97,Certifications,ML Fundamentals,Easy,Interactive
+1820,Beginner,Machine Learning,2-4 hours,50,Academic,Python for ML,Easy,Video
+1821,Beginner,Python,4-6 hours,51,Career,Python Basic,Easy,Interactive
+1822,Beginner,Data Science,6+ hours,62,Academic,Statistics Basics,Easy,Book
+1823,Beginner,Python,2-4 hours,62,Academic,Python Basic,Easy,Video
+1824,Beginner,Web Development,4-6 hours,96,Hobby,Responsive Design,Easy,Interactive
+1825,Intermediate,Mobile Development,2-4 hours,61,Hobby,React Native,Easy,Video
+1826,Beginner,Web Development,4-6 hours,56,Career,HTML/CSS Basics,Easy,Interactive
+1827,Advanced,Web Development,6+ hours,91,Career,Performance Optimization,Hard,Book
+1828,Intermediate,Web Development,4-6 hours,79,Hobby,Node.js,Easy,Interactive
+1829,Intermediate,Data Science,2-4 hours,83,Certifications,ML Basics,Medium,Video
+1830,Advanced,Python,1-2 hours,59,Hobby,Decorators & Generators,Easy,Article
+1831,Beginner,Web Development,6+ hours,94,Academic,Responsive Design,Medium,Book
+1832,Intermediate,Mobile Development,6+ hours,90,Hobby,App State Management,Easy,Book
+1833,Beginner,Mobile Development,2-4 hours,84,Academic,Programming Fundamentals,Medium,Video
+1834,Beginner,Data Science,2-4 hours,53,Academic,Statistics Basics,Easy,Video
+1835,Beginner,Mobile Development,6+ hours,63,Career,App Design Basics,Easy,Book
+1836,Intermediate,Mobile Development,1-2 hours,60,Certifications,React Native,Easy,Article
+1837,Advanced,Mobile Development,4-6 hours,81,Certifications,Performance Optimization,Hard,Interactive
+1838,Beginner,Data Science,4-6 hours,83,Certifications,Python for Data,Easy,Interactive
+1839,Advanced,Machine Learning,6+ hours,67,Certifications,Neural Networks,Easy,Book
+1840,Advanced,Mobile Development,1-2 hours,63,Hobby,Cross-platform Architecture,Easy,Article
+1841,Beginner,Machine Learning,2-4 hours,75,Hobby,Math for ML,Easy,Video
+1842,Intermediate,Machine Learning,6+ hours,86,Hobby,Model Evaluation,Easy,Book
+1843,Intermediate,Data Science,1-2 hours,58,Career,Pandas & Data Cleaning,Easy,Article
+1844,Intermediate,Machine Learning,4-6 hours,64,Career,Scikit-learn,Easy,Interactive
+1845,Intermediate,Mobile Development,4-6 hours,77,Certifications,Flutter/Dart,Medium,Interactive
+1846,Intermediate,Machine Learning,6+ hours,73,Certifications,Feature Engineering,Medium,Book
+1847,Intermediate,Data Science,6+ hours,51,Hobby,Pandas & Data Cleaning,Easy,Book
+1848,Intermediate,Web Development,4-6 hours,91,Career,APIs & Backend,Hard,Interactive
+1849,Intermediate,Python,4-6 hours,82,Career,Libraries (Pandas/NumPy),Hard,Interactive
+1850,Intermediate,Web Development,1-2 hours,57,Career,React.js,Easy,Article
+1851,Intermediate,Python,2-4 hours,71,Hobby,Libraries (Pandas/NumPy),Easy,Video
+1852,Advanced,Data Science,4-6 hours,69,Academic,Deep Learning,Easy,Interactive
+1853,Beginner,Mobile Development,2-4 hours,98,Academic,UI/UX,Medium,Video
+1854,Beginner,Data Science,4-6 hours,72,Certifications,Python for Data,Easy,Interactive
+1855,Intermediate,Mobile Development,1-2 hours,80,Hobby,Flutter/Dart,Easy,Article
+1856,Intermediate,Web Development,2-4 hours,96,Hobby,APIs & Backend,Easy,Video
+1857,Intermediate,Web Development,6+ hours,96,Certifications,APIs & Backend,Medium,Book
+1858,Intermediate,Python,4-6 hours,62,Certifications,Data Structures,Easy,Interactive
+1859,Advanced,Machine Learning,2-4 hours,78,Certifications,Reinforcement Learning,Hard,Video
+1860,Advanced,Python,4-6 hours,58,Hobby,Decorators & Generators,Easy,Interactive
+1861,Intermediate,Python,6+ hours,92,Academic,Web Scraping,Medium,Book
+1862,Intermediate,Web Development,6+ hours,77,Certifications,Node.js,Medium,Book
+1863,Advanced,Mobile Development,4-6 hours,70,Career,Performance Optimization,Hard,Interactive
+1864,Advanced,Python,2-4 hours,59,Academic,Decorators & Generators,Easy,Video
+1865,Advanced,Mobile Development,6+ hours,74,Hobby,Performance Optimization,Easy,Book
+1866,Intermediate,Python,6+ hours,62,Certifications,Data Structures,Easy,Book
+1867,Beginner,Data Science,6+ hours,90,Academic,Data Visualization,Medium,Book
+1868,Beginner,Web Development,1-2 hours,93,Hobby,Responsive Design,Easy,Article
+1869,Beginner,Mobile Development,6+ hours,51,Hobby,App Design Basics,Easy,Book
+1870,Beginner,Python,6+ hours,68,Hobby,Python Basic,Easy,Book
+1871,Beginner,Data Science,1-2 hours,79,Career,Python for Data,Easy,Article
+1872,Intermediate,Mobile Development,1-2 hours,60,Academic,React Native,Easy,Article
+1873,Intermediate,Machine Learning,2-4 hours,57,Hobby,Scikit-learn,Easy,Video
+1874,Advanced,Machine Learning,6+ hours,97,Career,Model Deployment,Hard,Book
+1875,Intermediate,Web Development,2-4 hours,63,Academic,React.js,Easy,Video
+1876,Intermediate,Machine Learning,2-4 hours,88,Academic,Model Evaluation,Medium,Video
+1877,Advanced,Web Development,6+ hours,67,Hobby,Full Stack Architecture,Easy,Book
+1878,Beginner,Web Development,6+ hours,54,Certifications,HTML/CSS Basics,Easy,Book
+1879,Advanced,Web Development,4-6 hours,86,Certifications,Performance Optimization,Hard,Interactive
+1880,Intermediate,Machine Learning,1-2 hours,97,Career,Model Evaluation,Hard,Article
+1881,Intermediate,Machine Learning,4-6 hours,94,Academic,Model Evaluation,Medium,Interactive
+1882,Intermediate,Mobile Development,2-4 hours,76,Hobby,Flutter/Dart,Easy,Video
+1883,Beginner,Mobile Development,6+ hours,79,Certifications,Programming Fundamentals,Easy,Book
+1884,Advanced,Web Development,1-2 hours,75,Career,Microservices,Hard,Article
+1885,Beginner,Web Development,4-6 hours,90,Academic,Responsive Design,Medium,Interactive
+1886,Advanced,Python,2-4 hours,81,Certifications,System Design,Hard,Video
+1887,Advanced,Python,4-6 hours,54,Career,Decorators & Generators,Easy,Interactive
+1888,Advanced,Data Science,6+ hours,78,Hobby,Big Data Tools,Easy,Book
+1889,Intermediate,Web Development,1-2 hours,79,Career,Node.js,Medium,Article
+1890,Beginner,Machine Learning,6+ hours,71,Certifications,Math for ML,Easy,Book
+1891,Beginner,Machine Learning,1-2 hours,50,Academic,Python for ML,Easy,Article
+1892,Beginner,Web Development,4-6 hours,92,Certifications,Responsive Design,Easy,Interactive
+1893,Intermediate,Machine Learning,1-2 hours,55,Hobby,Scikit-learn,Easy,Article
+1894,Advanced,Machine Learning,2-4 hours,80,Academic,Reinforcement Learning,Medium,Video
+1895,Beginner,Web Development,1-2 hours,88,Career,Responsive Design,Hard,Article
+1896,Beginner,Data Science,1-2 hours,84,Certifications,Python for Data,Easy,Article
+1897,Beginner,Python,1-2 hours,93,Academic,Functions and Modules,Medium,Article
+1898,Beginner,Machine Learning,4-6 hours,61,Hobby,Python for ML,Easy,Interactive
+1899,Advanced,Python,2-4 hours,78,Career,System Design,Hard,Video
+1900,Advanced,Mobile Development,1-2 hours,74,Academic,Performance Optimization,Medium,Article
+1901,Intermediate,Python,1-2 hours,53,Certifications,Data Structures,Easy,Article
+1902,Beginner,Web Development,4-6 hours,65,Hobby,HTML/CSS Basics,Easy,Interactive
+1903,Beginner,Python,6+ hours,51,Career,Python Basic,Easy,Book
+1904,Intermediate,Web Development,1-2 hours,64,Career,React.js,Easy,Article
+1905,Advanced,Web Development,2-4 hours,52,Certifications,Full Stack Architecture,Easy,Video
+1906,Advanced,Python,4-6 hours,70,Hobby,System Design,Easy,Interactive
+1907,Advanced,Web Development,6+ hours,77,Career,Microservices,Hard,Book
+1908,Beginner,Web Development,1-2 hours,72,Academic,JavaScript Basics,Medium,Article
+1909,Beginner,Python,6+ hours,91,Academic,Functions and Modules,Medium,Book
+1910,Beginner,Machine Learning,2-4 hours,79,Hobby,Math for ML,Easy,Video
+1911,Beginner,Data Science,4-6 hours,52,Career,Statistics Basics,Easy,Interactive
+1912,Beginner,Machine Learning,4-6 hours,99,Certifications,ML Fundamentals,Easy,Interactive
+1913,Beginner,Mobile Development,2-4 hours,66,Career,App Design Basics,Easy,Video
+1914,Advanced,Data Science,6+ hours,93,Hobby,Advanced Visualization,Easy,Book
+1915,Intermediate,Web Development,4-6 hours,92,Certifications,APIs & Backend,Medium,Interactive
+1916,Beginner,Data Science,1-2 hours,88,Certifications,Data Visualization,Easy,Article
+1917,Intermediate,Mobile Development,2-4 hours,82,Career,Flutter/Dart,Hard,Video
+1918,Beginner,Python,1-2 hours,69,Hobby,Python Basic,Easy,Article
+1919,Advanced,Machine Learning,2-4 hours,89,Career,Model Deployment,Hard,Video
+1920,Beginner,Web Development,4-6 hours,81,Academic,JavaScript Basics,Medium,Interactive
+1921,Beginner,Web Development,6+ hours,63,Career,HTML/CSS Basics,Easy,Book
+1922,Beginner,Mobile Development,6+ hours,97,Academic,UI/UX,Medium,Book
+1923,Beginner,Data Science,4-6 hours,91,Career,Data Visualization,Hard,Interactive
+1924,Advanced,Machine Learning,4-6 hours,98,Career,Model Deployment,Hard,Interactive
+1925,Beginner,Data Science,4-6 hours,65,Hobby,Statistics Basics,Easy,Interactive
+1926,Advanced,Python,2-4 hours,93,Hobby,Optimization,Easy,Video
+1927,Advanced,Machine Learning,4-6 hours,61,Certifications,Neural Networks,Easy,Interactive
+1928,Advanced,Python,1-2 hours,81,Career,System Design,Hard,Article
+1929,Beginner,Python,2-4 hours,63,Hobby,Python Basic,Easy,Video
+1930,Beginner,Web Development,2-4 hours,65,Career,HTML/CSS Basics,Easy,Video
+1931,Intermediate,Machine Learning,4-6 hours,60,Hobby,Scikit-learn,Easy,Interactive
+1932,Beginner,Machine Learning,2-4 hours,88,Hobby,ML Fundamentals,Easy,Video
+1933,Intermediate,Data Science,6+ hours,90,Hobby,SQL for Data,Easy,Book
+1934,Intermediate,Machine Learning,1-2 hours,73,Certifications,Feature Engineering,Medium,Article
+1935,Intermediate,Web Development,6+ hours,78,Certifications,Node.js,Medium,Book
+1936,Advanced,Mobile Development,6+ hours,98,Hobby,Native Modules,Easy,Book
+1937,Intermediate,Python,6+ hours,77,Career,Libraries (Pandas/NumPy),Medium,Book
+1938,Intermediate,Mobile Development,2-4 hours,85,Hobby,App State Management,Easy,Video
+1939,Intermediate,Machine Learning,6+ hours,69,Certifications,Scikit-learn,Easy,Book
+1940,Intermediate,Machine Learning,6+ hours,54,Academic,Scikit-learn,Easy,Book
+1941,Beginner,Machine Learning,2-4 hours,59,Hobby,Python for ML,Easy,Video
+1942,Beginner,Python,4-6 hours,81,Certifications,Control Flow,Easy,Interactive
+1943,Intermediate,Machine Learning,4-6 hours,74,Certifications,Feature Engineering,Medium,Interactive
+1944,Intermediate,Mobile Development,1-2 hours,76,Career,Flutter/Dart,Medium,Article
+1945,Beginner,Machine Learning,2-4 hours,62,Certifications,Python for ML,Easy,Video
+1946,Intermediate,Data Science,6+ hours,90,Academic,SQL for Data,Medium,Book
+1947,Advanced,Python,6+ hours,77,Hobby,System Design,Easy,Book
+1948,Beginner,Machine Learning,1-2 hours,73,Career,Math for ML,Easy,Article
+1949,Advanced,Web Development,4-6 hours,88,Certifications,Performance Optimization,Hard,Interactive
+1950,Advanced,Web Development,4-6 hours,65,Hobby,Full Stack Architecture,Easy,Interactive
+1951,Beginner,Python,1-2 hours,91,Certifications,Functions and Modules,Easy,Article
+1952,Intermediate,Mobile Development,1-2 hours,83,Hobby,Flutter/Dart,Easy,Article
+1953,Intermediate,Web Development,6+ hours,66,Academic,React.js,Easy,Book
+1954,Advanced,Mobile Development,6+ hours,87,Academic,Native Modules,Medium,Book
+1955,Advanced,Machine Learning,1-2 hours,56,Academic,Neural Networks,Easy,Article
+1956,Beginner,Data Science,2-4 hours,97,Certifications,Data Visualization,Easy,Video
+1957,Advanced,Data Science,1-2 hours,60,Certifications,Deep Learning,Easy,Article
+1958,Beginner,Python,1-2 hours,99,Certifications,Functions and Modules,Easy,Article
+1959,Advanced,Machine Learning,4-6 hours,96,Certifications,Model Deployment,Hard,Interactive
+1960,Beginner,Web Development,4-6 hours,61,Hobby,HTML/CSS Basics,Easy,Interactive
+1961,Beginner,Machine Learning,2-4 hours,82,Career,Math for ML,Hard,Video
+1962,Intermediate,Mobile Development,2-4 hours,61,Hobby,React Native,Easy,Video
+1963,Beginner,Web Development,2-4 hours,66,Certifications,HTML/CSS Basics,Easy,Video
+1964,Intermediate,Mobile Development,1-2 hours,90,Hobby,App State Management,Easy,Article
+1965,Beginner,Data Science,1-2 hours,74,Career,Python for Data,Easy,Article
+1966,Intermediate,Python,4-6 hours,51,Hobby,Data Structures,Easy,Interactive
+1967,Intermediate,Machine Learning,1-2 hours,50,Career,Scikit-learn,Easy,Article
+1968,Intermediate,Python,1-2 hours,56,Hobby,Data Structures,Easy,Article
+1969,Advanced,Python,6+ hours,88,Academic,Optimization,Medium,Book
+1970,Intermediate,Machine Learning,4-6 hours,88,Certifications,Model Evaluation,Medium,Interactive
+1971,Intermediate,Data Science,4-6 hours,70,Hobby,ML Basics,Easy,Interactive
+1972,Intermediate,Machine Learning,6+ hours,89,Career,Model Evaluation,Hard,Book
+1973,Intermediate,Data Science,1-2 hours,50,Certifications,Pandas & Data Cleaning,Easy,Article
+1974,Advanced,Machine Learning,2-4 hours,51,Career,Neural Networks,Easy,Video
+1975,Advanced,Data Science,2-4 hours,73,Certifications,Big Data Tools,Hard,Video
+1976,Advanced,Machine Learning,6+ hours,92,Hobby,Model Deployment,Easy,Book
+1977,Beginner,Data Science,1-2 hours,90,Academic,Data Visualization,Medium,Article
+1978,Beginner,Data Science,6+ hours,64,Certifications,Statistics Basics,Easy,Book
+1979,Intermediate,Mobile Development,1-2 hours,72,Certifications,Flutter/Dart,Medium,Article
+1980,Intermediate,Python,6+ hours,68,Hobby,Data Structures,Easy,Book
+1981,Advanced,Web Development,1-2 hours,58,Certifications,Full Stack Architecture,Easy,Article
+1982,Beginner,Data Science,6+ hours,60,Certifications,Statistics Basics,Easy,Book
+1983,Beginner,Machine Learning,2-4 hours,65,Hobby,Python for ML,Easy,Video
+1984,Beginner,Python,1-2 hours,77,Career,Control Flow,Easy,Article
+1985,Beginner,Data Science,6+ hours,99,Academic,Data Visualization,Medium,Book
+1986,Beginner,Data Science,6+ hours,92,Career,Data Visualization,Hard,Book
+1987,Advanced,Web Development,6+ hours,55,Academic,Full Stack Architecture,Easy,Book
+1988,Beginner,Mobile Development,1-2 hours,91,Academic,UI/UX,Medium,Article
+1989,Intermediate,Machine Learning,6+ hours,64,Hobby,Scikit-learn,Easy,Book
+1990,Intermediate,Python,4-6 hours,55,Career,Data Structures,Easy,Interactive
+1991,Beginner,Data Science,2-4 hours,97,Career,Data Visualization,Hard,Video
+1992,Advanced,Data Science,2-4 hours,70,Certifications,Big Data Tools,Hard,Video
+1993,Advanced,Python,4-6 hours,53,Hobby,Decorators & Generators,Easy,Interactive
+1994,Intermediate,Machine Learning,4-6 hours,99,Academic,Model Evaluation,Medium,Interactive
+1995,Advanced,Web Development,2-4 hours,56,Certifications,Full Stack Architecture,Easy,Video
+1996,Beginner,Mobile Development,6+ hours,70,Hobby,Programming Fundamentals,Easy,Book
+1997,Intermediate,Web Development,6+ hours,93,Certifications,APIs & Backend,Medium,Book
+1998,Beginner,Mobile Development,4-6 hours,59,Career,App Design Basics,Easy,Interactive
+1999,Advanced,Data Science,4-6 hours,82,Career,Big Data Tools,Hard,Interactive
+2000,Intermediate,Mobile Development,6+ hours,90,Hobby,App State Management,Easy,Book
