@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 import json
+import plotly.graph_objects as go
 
 
 #Page configuration
@@ -28,6 +29,13 @@ def load_models():
     return model_topic, model_difficulty, model_resource, encoders, mapping
 
 model_topic, model_difficulty, model_resource, encoders, mapping = load_models()
+
+# FEATURE IMPORTANCE DATA
+
+feature_importance_df = pd.DataFrame({
+    'Feature': ['Past Performance', 'Interest', 'Skill Level', 'Time Available', 'Goal'],
+    'Importance': [0.3221, 0.3057, 0.2435, 0.0689, 0.0598]
+})
 
 #Sidebar---
 with st.sidebar:
@@ -170,7 +178,6 @@ with col_left:
     predict_clicked = st.button("🎯 Get Recommendation", type="primary")
 
 # RIGHT COLUMN: RESULTS
-# ============================================================
 
 with col_right:
     if predict_clicked:
@@ -278,9 +285,83 @@ with col_right:
         
         
         # FEATURE IMPORTANCE CHART
-        #write here feature imp chart @kunesh
+        st.markdown("---")
+        st.markdown("### 🔍 What Influences Recommendations?")
+
+        fig_importance = go.Figure(data=[
+            go.Bar(
+                x=feature_importance_df['Feature'],
+                y=feature_importance_df['Importance'],
+                text=feature_importance_df['Importance'].apply(lambda x: f'{x:.1%}'),
+                textposition='inside',
+                textfont=dict(
+                    family='Arial, sans-serif',
+                    size=13,
+                    color='#2d3748'
+                ),
+               marker=dict(
+                    color=['#667eea', '#764ba2', '#f093fb', '#4facfe', '#f5576c'],
+                    line=dict(
+                        color='black',
+                        width=1
+                    ),
+                cornerradius=12,
+               )
+            ),
+        ])
+        fig_importance.update_layout(
+            height=250,
+            showlegend=False,
+            plot_bgcolor='rgba(1,0,0,0)',
+            paper_bgcolor='rgba(0.5,0,0,0)',
+            yaxis=dict(
+                title=dict(
+                    text='<b>Importance Score</b>',
+                    font=dict(size=14, color='#4a5568')
+                ),
+                tickformat='.0%',
+                gridcolor='rgba(0,0,0,0.06)',
+                gridwidth=1,
+                range=[0, max(feature_importance_df['Importance']) * 1.15],
+                zeroline=False,
+                tickfont=dict(size=12, color='#4a5568')
+            ),
+            margin=dict(l=30, r=30, t=0, b=0),
+            font=dict(family='Arial, sans-serif'),
+            hoverlabel=dict(
+                bgcolor='white',
+                font_size=14,
+                font_family='Arial, sans-serif'
+            )
+        )
+
+        #value labels on top of bars
+        fig_importance.update_traces(
+            textfont=dict(
+                family='Arial, sans-serif',
+                size=14,
+                color='#2d3748',
+                weight=700
+            )
+        )
+
+        st.plotly_chart(fig_importance, use_container_width=True)
+
+        #caption
+        st.markdown("""
+        <div style="
+            background: linear-gradient(135deg, #f7fafc, #edf2f7);
+            border-radius: 50px;
+            padding: 12px 20px;
+            border-left: 4px solid #667eea;
+        ">
+            <span style="color: #4a5568; font-size: 14px;">
+                💡 <b>Higher bars</b> = more influence on your recommendation
+            </span>
+        </div>
+        """, unsafe_allow_html=True)
+
         
-                
     else:
         # PLACEHOLDER
         
