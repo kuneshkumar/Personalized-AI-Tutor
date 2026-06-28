@@ -8,3 +8,169 @@
     max-width: 1200px;
     margin: 0 auto;
 }
+
+/* Card styling */
+.card {
+    background: white;
+    border-radius: 20px;
+    padding: 30px 35px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    margin: 10px 0;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.10);
+}
+    
+/* Center all input labels and fields */
+.stSelectbox, .stSlider, .stTextInput {
+    width: 100%;
+}
+    
+.stSelectbox label, .stSlider label, .stTextInput label {
+    font-weight: 500;
+    color: #2d3748;
+    font-size: 14px;
+}
+    
+/* Style select boxes */
+.stSelectbox > div > div {
+    background-color: #f7fafc;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+}
+    
+/* Style text input */
+.stTextInput > div > div > input {
+    background-color: #f7fafc;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+    padding: 10px 15px;
+ }
+.stTextInput > div > div > input:focus {
+    border-color: #667eea;
+box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.15);
+}
+    
+/* Style slider */
+.stSlider > div > div > div {
+    background-color: #667eea;
+}
+    
+/* Gradient headers */
+.gradient-text {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+    
+/* Snapshot card */
+.snapshot {
+    background: linear-gradient(135deg, #f7fafc, #edf2f7);
+    border-radius: 16px;
+    padding: 18px 20px;
+    margin: 10px 0;
+    border: 1px solid #e2e8f0;
+}
+.snapshot-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+    border-bottom: 1px solid rgba(0,0,0,0.04);
+}
+.snapshot-item:last-child {
+    border-bottom: none;
+}
+.snapshot-label {
+    color: #718096;
+    font-size: 14px;
+}
+.snapshot-value {
+    font-weight: 600;
+    font-size: 14px;
+    color: #2d3748;
+}
+
+/* Button styling */
+.stButton > button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 16px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    width: 100%;
+    margin-top: 10px;
+}
+.stButton > button:hover {
+    transform: scale(1.02);
+    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+    color: white;
+}
+
+/* Placeholder */
+.placeholder {
+    text-align: center;
+    padding: 80px 20px;
+    color: #a0aec0;
+}
+.placeholder-icon {
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background: linear-gradient(180deg, #ffffff, #f7fafc);
+}
+/* Recommendation cards */
+.rec-topic { 
+    background: linear-gradient(135deg, #667eea, #764ba2); 
+    border-radius: 16px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+}
+.rec-difficulty { 
+    background: linear-gradient(135deg, #f093fb, #f5576c); 
+    border-radius: 16px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(245, 87, 108, 0.3);
+}
+.rec-resource { 
+    background: linear-gradient(135deg, #4facfe, #00f2fe); 
+    border-radius: 16px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);
+}
+
+/* Confidence bar */
+.conf-bar {
+    height: 6px;
+    background: rgba(255,255,255,0.3);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.conf-fill {
+    height: 100%;
+    border-radius: 10px;
+    background: white;
+    transition: width 0.8s ease;
+}
+
+/* Hide Streamlit branding */
+/* #MainMenu {visibility: hidden;} */
+footer {visibility: hidden;}
+/* header{visibility: hidden;} */
+
