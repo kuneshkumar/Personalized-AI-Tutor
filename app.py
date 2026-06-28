@@ -1,4 +1,8 @@
 import streamlit as st
+import pandas as pd
+import joblib
+import json
+
 
 #Page configuration
 st.set_page_config(
@@ -9,6 +13,21 @@ st.set_page_config(
 
 #CSS File---
 st.html("style/style.css")
+
+#Load Models and Data---
+@st.cache_resource
+def load_models():
+    model_topic = joblib.load('models/model_topic.pkl')
+    model_difficulty = joblib.load('models/model_difficulty.pkl')
+    model_resource = joblib.load('models/model_resource.pkl')
+    encoders = joblib.load('models/encoders.pkl')
+    
+    with open('data/mapping.json', 'r') as f:
+        mapping = json.load(f)
+    
+    return model_topic, model_difficulty, model_resource, encoders, mapping
+
+model_topic, model_difficulty, model_resource, encoders, mapping = load_models()
 
 #Sidebar---
 with st.sidebar:
